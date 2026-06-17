@@ -1,0 +1,34 @@
+name: Daily Movie Scraper
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # 每天 UTC 時間 00:00 (即台灣時間早上 8 點) 自動執行
+  workflow_dispatch: # 允許你隨時手動按一下「執行」來測試
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Run Scraper
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: python main.py
+
+      - name: Commit and Push results
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add *.json
+          git commit -m "Update movie data $(date +'%Y-%m-%d')" || echo "No changes to commit"
+          git push
