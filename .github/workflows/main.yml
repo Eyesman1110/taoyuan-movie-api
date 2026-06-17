@@ -23,7 +23,7 @@ jobs:
       - name: Run Scraper
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
-        run: python main.py
+        run: python crawler.py
 
       - name: Commit and Push results
         run: |
