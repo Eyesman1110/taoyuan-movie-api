@@ -4,7 +4,8 @@ on:
   schedule:
     - cron: '0 0 * * *' # 每天 UTC 時間 00:00 (即台灣時間早上 8 點) 自動執行
   workflow_dispatch: # 允許你隨時手動按一下「執行」來測試
-
+permissions:
+  contents: write
 jobs:
   scrape:
     runs-on: ubuntu-latest
