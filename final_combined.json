@@ -31,16 +31,16 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/wFpjismmcLQVkciNA0ZK1PRQt8c.jpg"
     },
     {
+      "title": "狼的孩子雨和雪",
+      "tmdb_id": 110420,
+      "matched_title": "狼的孩子雨和雪",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7VKJQ3TMG8K9Cqa6tnfIrPkyvjY.jpg"
+    },
+    {
       "title": "玩具總動員5",
       "tmdb_id": 1084244,
       "matched_title": "玩具總動員5",
       "poster_url": "https://image.tmdb.org/t/p/w500/1vhjC7Ra5C6BPeZskeMz0WUmrnr.jpg"
-    },
-    {
-      "title": "肖豬皮傑",
-      "tmdb_id": 1352774,
-      "matched_title": "肖豬皮傑",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ZmsQaYVETODFd0WCbUkVb7TMP2.jpg"
     },
     {
       "title": "超少女",
@@ -62,6 +62,12 @@
     }
   ],
   "星橋國際影城": [
+    {
+      "title": "ENHYPEN : IMMERSION IN CINEMAS",
+      "tmdb_id": 1675093,
+      "matched_title": "ENHYPEN: IMMERSION IN CINEMAS",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oKVm9iUPlajp1jKKKdoArtM8nrK.jpg"
+    },
     {
       "title": "名偵探柯南 高速公路的墮天使",
       "tmdb_id": 1545621,
@@ -93,12 +99,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/2ce0xoPEjsKvc1HVPxftF29Rl73.jpg"
     },
     {
-      "title": "末路相縫",
-      "tmdb_id": 1046758,
-      "matched_title": "末路相縫",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bXMcPxQMsoXlTPejaLQ2LSFZkY1.jpg"
-    },
-    {
       "title": "火遮眼",
       "tmdb_id": 1280738,
       "matched_title": "火遮眼",
@@ -111,28 +111,16 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/hS0NzRWzwsYxjOKuC3OfX1LGLMA.jpg"
     },
     {
+      "title": "狼的孩子雨和雪",
+      "tmdb_id": 110420,
+      "matched_title": "狼的孩子雨和雪",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7VKJQ3TMG8K9Cqa6tnfIrPkyvjY.jpg"
+    },
+    {
       "title": "玩具總動員5",
       "tmdb_id": 1084244,
       "matched_title": "玩具總動員5",
       "poster_url": "https://image.tmdb.org/t/p/w500/1vhjC7Ra5C6BPeZskeMz0WUmrnr.jpg"
-    },
-    {
-      "title": "腎上腺 母侵",
-      "tmdb_id": 1433051,
-      "matched_title": "腎上腺-母侵",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7vMJYmGU4MsKwHK3Wzk2bvhfApc.jpg"
-    },
-    {
-      "title": "藍色亞馬遜",
-      "tmdb_id": 1172265,
-      "matched_title": "藍色亞馬遜",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1q2kNizeHMPBRxvJOWdwRzKLo3x.jpg"
-    },
-    {
-      "title": "言葉之庭",
-      "tmdb_id": 198375,
-      "matched_title": "言葉之庭",
-      "poster_url": "https://image.tmdb.org/t/p/w500/jKLcFPvAG9hfc8NZtAkTP332nI5.jpg"
     },
     {
       "title": "超少女",
@@ -141,16 +129,16 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/rJbcrmogANaj9CEMDUjauUdnq9f.jpg"
     },
     {
-      "title": "逆轉上半場",
-      "tmdb_id": 1346662,
-      "matched_title": "逆轉上半場",
-      "poster_url": "https://image.tmdb.org/t/p/w500/k4dljd1CzPPgMob1jiCzOWejo6x.jpg"
-    },
-    {
       "title": "驚聲尖笑6",
       "tmdb_id": 1273221,
       "matched_title": "驚聲尖笑",
       "poster_url": "https://image.tmdb.org/t/p/w500/oRXf8V8B3i80u3ZHmIOpRsKae0k.jpg"
+    },
+    {
+      "title": "鬼上車",
+      "tmdb_id": 1368314,
+      "matched_title": "鬼上車",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wPWumCUIYvtzTbiZjn5B9Z3pPIQ.jpg"
     }
   ],
   "威尼斯影城": [
@@ -247,22 +235,16 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/wFpjismmcLQVkciNA0ZK1PRQt8c.jpg"
     },
     {
+      "title": "狼的孩子雨和雪",
+      "tmdb_id": 110420,
+      "matched_title": "狼的孩子雨和雪",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7VKJQ3TMG8K9Cqa6tnfIrPkyvjY.jpg"
+    },
+    {
       "title": "玩具總動員5",
       "tmdb_id": 1084244,
       "matched_title": "玩具總動員5",
       "poster_url": "https://image.tmdb.org/t/p/w500/1vhjC7Ra5C6BPeZskeMz0WUmrnr.jpg"
-    },
-    {
-      "title": "穿著Prada的惡魔2",
-      "tmdb_id": 1314481,
-      "matched_title": "穿著PRADA的惡魔2",
-      "poster_url": "https://image.tmdb.org/t/p/w500/pep61TOT2GJjT0ck2JbtMwIZNyJ.jpg"
-    },
-    {
-      "title": "肖豬皮傑",
-      "tmdb_id": 1352774,
-      "matched_title": "肖豬皮傑",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ZmsQaYVETODFd0WCbUkVb7TMP2.jpg"
     },
     {
       "title": "超少女",
@@ -285,6 +267,12 @@
   ],
   "桃園統領威秀影城": [
     {
+      "title": "ENHYPEN : IMMERSION IN CINEMAS",
+      "tmdb_id": 1675093,
+      "matched_title": "ENHYPEN: IMMERSION IN CINEMAS",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oKVm9iUPlajp1jKKKdoArtM8nrK.jpg"
+    },
+    {
       "title": "催眠麥克風",
       "tmdb_id": 1412811,
       "matched_title": "催眠麥克風",
@@ -301,12 +289,6 @@
       "tmdb_id": 1545621,
       "matched_title": "名偵探柯南：高速公路的墮天使",
       "poster_url": "https://image.tmdb.org/t/p/w500/vsre1rnZ9mA8Tb4Lejp1UbZ6ca9.jpg"
-    },
-    {
-      "title": "太空超人",
-      "tmdb_id": 454639,
-      "matched_title": "太空超人",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1MbMFS1G8Od2BAhEiqgJLlhbBwC.jpg"
     },
     {
       "title": "失樂園",
@@ -361,6 +343,12 @@
       "tmdb_id": 1682908,
       "matched_title": "為一切人，成為一切",
       "poster_url": "https://image.tmdb.org/t/p/w500/hS0NzRWzwsYxjOKuC3OfX1LGLMA.jpg"
+    },
+    {
+      "title": "狼的孩子雨和雪",
+      "tmdb_id": 110420,
+      "matched_title": "狼的孩子雨和雪",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7VKJQ3TMG8K9Cqa6tnfIrPkyvjY.jpg"
     },
     {
       "title": "玩具總動員5",
@@ -423,12 +411,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/wPWumCUIYvtzTbiZjn5B9Z3pPIQ.jpg"
     },
     {
-      "title": "鬼入獄",
-      "tmdb_id": 1393326,
-      "matched_title": "鬼入獄",
-      "poster_url": "https://image.tmdb.org/t/p/w500/a6HlN2x472krH34s7SFhJAS5fPb.jpg"
-    },
-    {
       "title": "麥可傑克森",
       "tmdb_id": 936075,
       "matched_title": "麥可傑克森",
@@ -473,22 +455,10 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/1vhjC7Ra5C6BPeZskeMz0WUmrnr.jpg"
     },
     {
-      "title": "肖豬皮傑",
-      "tmdb_id": 1352774,
-      "matched_title": "肖豬皮傑",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ZmsQaYVETODFd0WCbUkVb7TMP2.jpg"
-    },
-    {
       "title": "超少女",
       "tmdb_id": 1081003,
       "matched_title": "超少女",
       "poster_url": "https://image.tmdb.org/t/p/w500/rJbcrmogANaj9CEMDUjauUdnq9f.jpg"
-    },
-    {
-      "title": "陰魂旅社",
-      "tmdb_id": 1430077,
-      "matched_title": "陰魂旅社",
-      "poster_url": "https://image.tmdb.org/t/p/w500/93xtN8BmdVNkLfHnVD2xhmypnl7.jpg"
     },
     {
       "title": "鬼上車",
@@ -511,12 +481,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/lu7TD4kt5g2qRkU0LRZXLwKMTTP.jpg"
     },
     {
-      "title": "後室",
-      "tmdb_id": 1083381,
-      "matched_title": "後室",
-      "poster_url": "https://image.tmdb.org/t/p/w500/pV2RJV27vTK4jqUXiX2wutxy5ab.jpg"
-    },
-    {
       "title": "揭密日",
       "tmdb_id": 1275779,
       "matched_title": "揭密日",
@@ -536,6 +500,12 @@
     }
   ],
   "桃園新光影城": [
+    {
+      "title": "ENHYPEN : IMMERSION IN CINEMAS",
+      "tmdb_id": 1675093,
+      "matched_title": "ENHYPEN: IMMERSION IN CINEMAS",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oKVm9iUPlajp1jKKKdoArtM8nrK.jpg"
+    },
     {
       "title": "名偵探柯南 高速公路的墮天使",
       "tmdb_id": 1545621,
@@ -573,6 +543,12 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/wFpjismmcLQVkciNA0ZK1PRQt8c.jpg"
     },
     {
+      "title": "狼的孩子雨和雪",
+      "tmdb_id": 110420,
+      "matched_title": "狼的孩子雨和雪",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7VKJQ3TMG8K9Cqa6tnfIrPkyvjY.jpg"
+    },
+    {
       "title": "玩具總動員5",
       "tmdb_id": 1084244,
       "matched_title": "玩具總動員5",
@@ -585,22 +561,10 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/bpnNkxpTuZugsGsnZRcHzAxUZ7O.jpg"
     },
     {
-      "title": "穿著PRADA的惡魔2",
-      "tmdb_id": 1314481,
-      "matched_title": "穿著PRADA的惡魔2",
-      "poster_url": "https://image.tmdb.org/t/p/w500/pep61TOT2GJjT0ck2JbtMwIZNyJ.jpg"
-    },
-    {
       "title": "超少女",
       "tmdb_id": 1081003,
       "matched_title": "超少女",
       "poster_url": "https://image.tmdb.org/t/p/w500/rJbcrmogANaj9CEMDUjauUdnq9f.jpg"
-    },
-    {
-      "title": "陰魂旅社",
-      "tmdb_id": 1430077,
-      "matched_title": "陰魂旅社",
-      "poster_url": "https://image.tmdb.org/t/p/w500/93xtN8BmdVNkLfHnVD2xhmypnl7.jpg"
     },
     {
       "title": "驚聲尖笑6",
