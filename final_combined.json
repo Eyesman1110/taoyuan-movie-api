@@ -19,22 +19,28 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/lu7TD4kt5g2qRkU0LRZXLwKMTTP.jpg"
     },
     {
+      "title": "幹夫狂想曲",
+      "tmdb_id": 1657504,
+      "matched_title": "幹夫狂想曲",
+      "poster_url": "https://image.tmdb.org/t/p/w500/iqPjdsdnbIbGX1g1WJOqbX3d5nT.jpg"
+    },
+    {
       "title": "揭密日",
       "tmdb_id": 1275779,
       "matched_title": "揭密日",
       "poster_url": "https://image.tmdb.org/t/p/w500/2ce0xoPEjsKvc1HVPxftF29Rl73.jpg"
     },
     {
+      "title": "火?鳥之鳴",
+      "tmdb_id": 1530325,
+      "matched_title": "火喰鳥之鳴",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7pJu6CtVT7vTkiXUvZFIQw4ldWg.jpg"
+    },
+    {
       "title": "火遮眼",
       "tmdb_id": 1280738,
       "matched_title": "火遮眼",
       "poster_url": "https://image.tmdb.org/t/p/w500/wFpjismmcLQVkciNA0ZK1PRQt8c.jpg"
-    },
-    {
-      "title": "狼的孩子雨和雪",
-      "tmdb_id": 110420,
-      "matched_title": "狼的孩子雨和雪",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7VKJQ3TMG8K9Cqa6tnfIrPkyvjY.jpg"
     },
     {
       "title": "玩具總動員5",
@@ -53,6 +59,12 @@
       "tmdb_id": 1368314,
       "matched_title": "鬼上車",
       "poster_url": "https://image.tmdb.org/t/p/w500/wPWumCUIYvtzTbiZjn5B9Z3pPIQ.jpg"
+    },
+    {
+      "title": "鬼囚",
+      "tmdb_id": 523638,
+      "matched_title": "鬼域囚徒",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6tRVPrLsN0LVLLXYQ4HA4nR8AvQ.jpg"
     }
   ],
   "星橋國際影城": [
@@ -81,6 +93,18 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/ul0dWExN1UXn5ktN7x4KKp5ISNr.jpg"
     },
     {
+      "title": "屍速禁區",
+      "tmdb_id": 1375646,
+      "matched_title": "屍速禁區",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lu7TD4kt5g2qRkU0LRZXLwKMTTP.jpg"
+    },
+    {
+      "title": "幹夫狂想曲",
+      "tmdb_id": 1657504,
+      "matched_title": "幹夫狂想曲",
+      "poster_url": "https://image.tmdb.org/t/p/w500/iqPjdsdnbIbGX1g1WJOqbX3d5nT.jpg"
+    },
+    {
       "title": "後室",
       "tmdb_id": 1083381,
       "matched_title": "後室",
@@ -91,6 +115,12 @@
       "tmdb_id": 1275779,
       "matched_title": "揭密日",
       "poster_url": "https://image.tmdb.org/t/p/w500/2ce0xoPEjsKvc1HVPxftF29Rl73.jpg"
+    },
+    {
+      "title": "火?鳥之鳴",
+      "tmdb_id": 1530325,
+      "matched_title": "火喰鳥之鳴",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7pJu6CtVT7vTkiXUvZFIQw4ldWg.jpg"
     },
     {
       "title": "火遮眼",
@@ -105,22 +135,16 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/hS0NzRWzwsYxjOKuC3OfX1LGLMA.jpg"
     },
     {
-      "title": "狼的孩子雨和雪",
-      "tmdb_id": 110420,
-      "matched_title": "狼的孩子雨和雪",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7VKJQ3TMG8K9Cqa6tnfIrPkyvjY.jpg"
-    },
-    {
       "title": "玩具總動員5",
       "tmdb_id": 1084244,
       "matched_title": "玩具總動員5",
       "poster_url": "https://image.tmdb.org/t/p/w500/1vhjC7Ra5C6BPeZskeMz0WUmrnr.jpg"
     },
     {
-      "title": "藍色亞馬遜",
-      "tmdb_id": 1172265,
-      "matched_title": "藍色亞馬遜",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1q2kNizeHMPBRxvJOWdwRzKLo3x.jpg"
+      "title": "腎上腺 母侵",
+      "tmdb_id": 1433051,
+      "matched_title": "腎上腺-母侵",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7vMJYmGU4MsKwHK3Wzk2bvhfApc.jpg"
     },
     {
       "title": "超少女",
@@ -139,6 +163,12 @@
       "tmdb_id": 1368314,
       "matched_title": "鬼上車",
       "poster_url": "https://image.tmdb.org/t/p/w500/wPWumCUIYvtzTbiZjn5B9Z3pPIQ.jpg"
+    },
+    {
+      "title": "鬼囚",
+      "tmdb_id": 523638,
+      "matched_title": "鬼域囚徒",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6tRVPrLsN0LVLLXYQ4HA4nR8AvQ.jpg"
     }
   ],
   "威尼斯影城": [
@@ -147,12 +177,6 @@
       "tmdb_id": 1545621,
       "matched_title": "名偵探柯南：高速公路的墮天使",
       "poster_url": "https://image.tmdb.org/t/p/w500/vsre1rnZ9mA8Tb4Lejp1UbZ6ca9.jpg"
-    },
-    {
-      "title": "妳最後留下的歌",
-      "tmdb_id": 1559185,
-      "matched_title": "妳最後留下的歌",
-      "poster_url": "https://image.tmdb.org/t/p/w500/2FjTdAsPqRhQqaA2aM2Vv2bMngT.jpg"
     },
     {
       "title": "小小兵&大怪獸",
@@ -179,6 +203,12 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/1vhjC7Ra5C6BPeZskeMz0WUmrnr.jpg"
     },
     {
+      "title": "絕殺路人甲",
+      "tmdb_id": 1010755,
+      "matched_title": "絕殺路人甲",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4OA8SW1XQhMQz2wOgmUAt3Ba49W.jpg"
+    },
+    {
       "title": "超少女",
       "tmdb_id": 1081003,
       "matched_title": "超少女",
@@ -189,12 +219,6 @@
       "tmdb_id": 1430077,
       "matched_title": "陰魂旅社",
       "poster_url": "https://image.tmdb.org/t/p/w500/93xtN8BmdVNkLfHnVD2xhmypnl7.jpg"
-    },
-    {
-      "title": "驚聲尖笑6",
-      "tmdb_id": 1273221,
-      "matched_title": "驚聲尖笑",
-      "poster_url": "https://image.tmdb.org/t/p/w500/oRXf8V8B3i80u3ZHmIOpRsKae0k.jpg"
     },
     {
       "title": "鬼上車",
@@ -209,12 +233,6 @@
       "tmdb_id": 1545621,
       "matched_title": "名偵探柯南：高速公路的墮天使",
       "poster_url": "https://image.tmdb.org/t/p/w500/vsre1rnZ9mA8Tb4Lejp1UbZ6ca9.jpg"
-    },
-    {
-      "title": "太空超人",
-      "tmdb_id": 454639,
-      "matched_title": "太空超人",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1MbMFS1G8Od2BAhEiqgJLlhbBwC.jpg"
     },
     {
       "title": "小小兵&大怪獸",
@@ -241,16 +259,16 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/2ce0xoPEjsKvc1HVPxftF29Rl73.jpg"
     },
     {
+      "title": "火?鳥之鳴",
+      "tmdb_id": 1530325,
+      "matched_title": "火喰鳥之鳴",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7pJu6CtVT7vTkiXUvZFIQw4ldWg.jpg"
+    },
+    {
       "title": "火遮眼",
       "tmdb_id": 1280738,
       "matched_title": "火遮眼",
       "poster_url": "https://image.tmdb.org/t/p/w500/wFpjismmcLQVkciNA0ZK1PRQt8c.jpg"
-    },
-    {
-      "title": "狼的孩子雨和雪",
-      "tmdb_id": 110420,
-      "matched_title": "狼的孩子雨和雪",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7VKJQ3TMG8K9Cqa6tnfIrPkyvjY.jpg"
     },
     {
       "title": "玩具總動員5",
@@ -265,16 +283,16 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/tpHA7ZTFPysn9uMQjvnjBh818fr.jpg"
     },
     {
-      "title": "驚聲尖笑6",
-      "tmdb_id": 1273221,
-      "matched_title": "驚聲尖笑",
-      "poster_url": "https://image.tmdb.org/t/p/w500/oRXf8V8B3i80u3ZHmIOpRsKae0k.jpg"
-    },
-    {
       "title": "鬼上車",
       "tmdb_id": 1368314,
       "matched_title": "鬼上車",
       "poster_url": "https://image.tmdb.org/t/p/w500/wPWumCUIYvtzTbiZjn5B9Z3pPIQ.jpg"
+    },
+    {
+      "title": "鬼囚",
+      "tmdb_id": 523638,
+      "matched_title": "鬼域囚徒",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6tRVPrLsN0LVLLXYQ4HA4nR8AvQ.jpg"
     }
   ],
   "桃園統領威秀影城": [
@@ -327,6 +345,12 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/lu7TD4kt5g2qRkU0LRZXLwKMTTP.jpg"
     },
     {
+      "title": "幹夫狂想曲",
+      "tmdb_id": 1657504,
+      "matched_title": "幹夫狂想曲",
+      "poster_url": "https://image.tmdb.org/t/p/w500/iqPjdsdnbIbGX1g1WJOqbX3d5nT.jpg"
+    },
+    {
       "title": "後室",
       "tmdb_id": 1083381,
       "matched_title": "後室",
@@ -351,6 +375,12 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/jrubxFgThfkIU3lRjYFLGobYa8z.jpg"
     },
     {
+      "title": "火?鳥之鳴",
+      "tmdb_id": 1530325,
+      "matched_title": "火喰鳥之鳴",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7pJu6CtVT7vTkiXUvZFIQw4ldWg.jpg"
+    },
+    {
       "title": "火遮眼",
       "tmdb_id": 1280738,
       "matched_title": "火遮眼",
@@ -361,12 +391,6 @@
       "tmdb_id": 1682908,
       "matched_title": "為一切人，成為一切",
       "poster_url": "https://image.tmdb.org/t/p/w500/hS0NzRWzwsYxjOKuC3OfX1LGLMA.jpg"
-    },
-    {
-      "title": "狼的孩子雨和雪",
-      "tmdb_id": 110420,
-      "matched_title": "狼的孩子雨和雪",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7VKJQ3TMG8K9Cqa6tnfIrPkyvjY.jpg"
     },
     {
       "title": "玩具總動員5",
@@ -393,16 +417,22 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/pep61TOT2GJjT0ck2JbtMwIZNyJ.jpg"
     },
     {
+      "title": "絕殺路人甲",
+      "tmdb_id": 1010755,
+      "matched_title": "絕殺路人甲",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4OA8SW1XQhMQz2wOgmUAt3Ba49W.jpg"
+    },
+    {
       "title": "超少女",
       "tmdb_id": 1081003,
       "matched_title": "超少女",
       "poster_url": "https://image.tmdb.org/t/p/w500/tpHA7ZTFPysn9uMQjvnjBh818fr.jpg"
     },
     {
-      "title": "陰魂旅社",
-      "tmdb_id": 1430077,
-      "matched_title": "陰魂旅社",
-      "poster_url": "https://image.tmdb.org/t/p/w500/93xtN8BmdVNkLfHnVD2xhmypnl7.jpg"
+      "title": "跟蹤",
+      "tmdb_id": 37984,
+      "matched_title": "跟蹤",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7dbbZ3l857CP4z1XPJHnPxaI7fJ.jpg"
     },
     {
       "title": "陽光女子合唱團",
@@ -421,6 +451,12 @@
       "tmdb_id": 1368314,
       "matched_title": "鬼上車",
       "poster_url": "https://image.tmdb.org/t/p/w500/wPWumCUIYvtzTbiZjn5B9Z3pPIQ.jpg"
+    },
+    {
+      "title": "鬼囚",
+      "tmdb_id": 523638,
+      "matched_title": "鬼域囚徒",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6tRVPrLsN0LVLLXYQ4HA4nR8AvQ.jpg"
     },
     {
       "title": "麥可傑克森",
@@ -461,10 +497,10 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/2ce0xoPEjsKvc1HVPxftF29Rl73.jpg"
     },
     {
-      "title": "火遮眼",
-      "tmdb_id": 1280738,
-      "matched_title": "火遮眼",
-      "poster_url": "https://image.tmdb.org/t/p/w500/wFpjismmcLQVkciNA0ZK1PRQt8c.jpg"
+      "title": "火?鳥之鳴",
+      "tmdb_id": 1530325,
+      "matched_title": "火喰鳥之鳴",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7pJu6CtVT7vTkiXUvZFIQw4ldWg.jpg"
     },
     {
       "title": "玩具總動員5",
@@ -483,6 +519,12 @@
       "tmdb_id": 1368314,
       "matched_title": "鬼上車",
       "poster_url": "https://image.tmdb.org/t/p/w500/wPWumCUIYvtzTbiZjn5B9Z3pPIQ.jpg"
+    },
+    {
+      "title": "鬼囚",
+      "tmdb_id": 523638,
+      "matched_title": "鬼域囚徒",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6tRVPrLsN0LVLLXYQ4HA4nR8AvQ.jpg"
     }
   ],
   "桃園桃知道威秀影城": [
@@ -505,12 +547,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/lu7TD4kt5g2qRkU0LRZXLwKMTTP.jpg"
     },
     {
-      "title": "揭密日",
-      "tmdb_id": 1275779,
-      "matched_title": "揭密日",
-      "poster_url": "https://image.tmdb.org/t/p/w500/2ce0xoPEjsKvc1HVPxftF29Rl73.jpg"
-    },
-    {
       "title": "玩具總動員5",
       "tmdb_id": 1084244,
       "matched_title": "玩具總動員5",
@@ -524,12 +560,6 @@
     }
   ],
   "桃園新光影城": [
-    {
-      "title": "ENHYPEN : IMMERSION IN CINEMAS",
-      "tmdb_id": 1675093,
-      "matched_title": "ENHYPEN: IMMERSION IN CINEMAS",
-      "poster_url": "https://image.tmdb.org/t/p/w500/oKVm9iUPlajp1jKKKdoArtM8nrK.jpg"
-    },
     {
       "title": "名偵探柯南 高速公路的墮天使",
       "tmdb_id": 1545621,
@@ -567,10 +597,10 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/2ce0xoPEjsKvc1HVPxftF29Rl73.jpg"
     },
     {
-      "title": "狼的孩子雨和雪",
-      "tmdb_id": 110420,
-      "matched_title": "狼的孩子雨和雪",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7VKJQ3TMG8K9Cqa6tnfIrPkyvjY.jpg"
+      "title": "火?鳥之鳴",
+      "tmdb_id": 1530325,
+      "matched_title": "火喰鳥之鳴",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7pJu6CtVT7vTkiXUvZFIQw4ldWg.jpg"
     },
     {
       "title": "玩具總動員5",
@@ -579,22 +609,16 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/1vhjC7Ra5C6BPeZskeMz0WUmrnr.jpg"
     },
     {
-      "title": "空之境界劇場版：終章",
-      "tmdb_id": 47747,
-      "matched_title": "空之境界 第八章：終章",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bpnNkxpTuZugsGsnZRcHzAxUZ7O.jpg"
-    },
-    {
       "title": "超少女",
       "tmdb_id": 1081003,
       "matched_title": "超少女",
       "poster_url": "https://image.tmdb.org/t/p/w500/tpHA7ZTFPysn9uMQjvnjBh818fr.jpg"
     },
     {
-      "title": "鬼上車",
-      "tmdb_id": 1368314,
-      "matched_title": "鬼上車",
-      "poster_url": "https://image.tmdb.org/t/p/w500/wPWumCUIYvtzTbiZjn5B9Z3pPIQ.jpg"
+      "title": "鬼囚",
+      "tmdb_id": 523638,
+      "matched_title": "鬼域囚徒",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6tRVPrLsN0LVLLXYQ4HA4nR8AvQ.jpg"
     }
   ]
 }

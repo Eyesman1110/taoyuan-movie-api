@@ -44,6 +44,11 @@
     "matched_title": "屍速禁區",
     "poster_url": "https://image.tmdb.org/t/p/w500/lu7TD4kt5g2qRkU0LRZXLwKMTTP.jpg"
   },
+  "幹夫狂想曲": {
+    "tmdb_id": 1657504,
+    "matched_title": "幹夫狂想曲",
+    "poster_url": "https://image.tmdb.org/t/p/w500/iqPjdsdnbIbGX1g1WJOqbX3d5nT.jpg"
+  },
   "後室": {
     "tmdb_id": 1083381,
     "matched_title": "後室",
@@ -64,6 +69,11 @@
     "matched_title": "極限返航",
     "poster_url": "https://image.tmdb.org/t/p/w500/jrubxFgThfkIU3lRjYFLGobYa8z.jpg"
   },
+  "火?鳥之鳴": {
+    "tmdb_id": 1530325,
+    "matched_title": "火喰鳥之鳴",
+    "poster_url": "https://image.tmdb.org/t/p/w500/7pJu6CtVT7vTkiXUvZFIQw4ldWg.jpg"
+  },
   "火遮眼": {
     "tmdb_id": 1280738,
     "matched_title": "火遮眼",
@@ -73,11 +83,6 @@
     "tmdb_id": 1682908,
     "matched_title": "為一切人，成為一切",
     "poster_url": "https://image.tmdb.org/t/p/w500/hS0NzRWzwsYxjOKuC3OfX1LGLMA.jpg"
-  },
-  "狼的孩子雨和雪": {
-    "tmdb_id": 110420,
-    "matched_title": "狼的孩子雨和雪",
-    "poster_url": "https://image.tmdb.org/t/p/w500/7VKJQ3TMG8K9Cqa6tnfIrPkyvjY.jpg"
   },
   "玩具總動員5": {
     "tmdb_id": 1084244,
@@ -99,15 +104,25 @@
     "matched_title": "穿著PRADA的惡魔2",
     "poster_url": "https://image.tmdb.org/t/p/w500/pep61TOT2GJjT0ck2JbtMwIZNyJ.jpg"
   },
-  "藍色亞馬遜": {
-    "tmdb_id": 1172265,
-    "matched_title": "藍色亞馬遜",
-    "poster_url": "https://image.tmdb.org/t/p/w500/1q2kNizeHMPBRxvJOWdwRzKLo3x.jpg"
+  "絕殺路人甲": {
+    "tmdb_id": 1010755,
+    "matched_title": "絕殺路人甲",
+    "poster_url": "https://image.tmdb.org/t/p/w500/4OA8SW1XQhMQz2wOgmUAt3Ba49W.jpg"
+  },
+  "腎上腺 母侵": {
+    "tmdb_id": 1433051,
+    "matched_title": "腎上腺-母侵",
+    "poster_url": "https://image.tmdb.org/t/p/w500/7vMJYmGU4MsKwHK3Wzk2bvhfApc.jpg"
   },
   "超少女": {
     "tmdb_id": 1081003,
     "matched_title": "超少女",
     "poster_url": "https://image.tmdb.org/t/p/w500/tpHA7ZTFPysn9uMQjvnjBh818fr.jpg"
+  },
+  "跟蹤": {
+    "tmdb_id": 37984,
+    "matched_title": "跟蹤",
+    "poster_url": "https://image.tmdb.org/t/p/w500/7dbbZ3l857CP4z1XPJHnPxaI7fJ.jpg"
   },
   "陰魂旅社": {
     "tmdb_id": 1430077,
@@ -128,6 +143,11 @@
     "tmdb_id": 1368314,
     "matched_title": "鬼上車",
     "poster_url": "https://image.tmdb.org/t/p/w500/wPWumCUIYvtzTbiZjn5B9Z3pPIQ.jpg"
+  },
+  "鬼囚": {
+    "tmdb_id": 523638,
+    "matched_title": "鬼域囚徒",
+    "poster_url": "https://image.tmdb.org/t/p/w500/6tRVPrLsN0LVLLXYQ4HA4nR8AvQ.jpg"
   },
   "麥可傑克森": {
     "tmdb_id": 936075,
