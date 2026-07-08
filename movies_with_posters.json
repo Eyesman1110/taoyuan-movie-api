@@ -1,8 +1,8 @@
 {
-  "ENHYPEN : IMMERSION IN CINEMAS": {
-    "tmdb_id": 1675093,
-    "matched_title": "ENHYPEN: IMMERSION IN CINEMAS",
-    "poster_url": "https://image.tmdb.org/t/p/w500/oKVm9iUPlajp1jKKKdoArtM8nrK.jpg"
+  "偶像禁愛令": {
+    "tmdb_id": 1433087,
+    "matched_title": "偶像禁愛令",
+    "poster_url": "https://image.tmdb.org/t/p/w500/8AfGaoFbOj8Gp8rkKFzi351F9qo.jpg"
   },
   "催眠麥克風": {
     "tmdb_id": 1412811,
@@ -18,6 +18,11 @@
     "tmdb_id": 1545621,
     "matched_title": "名偵探柯南：高速公路的墮天使",
     "poster_url": "https://image.tmdb.org/t/p/w500/vsre1rnZ9mA8Tb4Lejp1UbZ6ca9.jpg"
+  },
+  "外賣": {
+    "tmdb_id": 1187462,
+    "matched_title": "外賣情人",
+    "poster_url": "https://image.tmdb.org/t/p/w500/suXF3DpzNXvZEJcNwAxivFjlhEQ.jpg"
   },
   "太空超人": {
     "tmdb_id": 454639,
@@ -39,6 +44,11 @@
     "matched_title": "小小兵&大怪獸",
     "poster_url": "https://image.tmdb.org/t/p/w500/ul0dWExN1UXn5ktN7x4KKp5ISNr.jpg"
   },
+  "屍變焚場": {
+    "tmdb_id": 1212763,
+    "matched_title": "屍變焚場",
+    "poster_url": "https://image.tmdb.org/t/p/w500/ifwgHdNobcGGSnL3neGH4n5Y4WB.jpg"
+  },
   "屍速禁區": {
     "tmdb_id": 1375646,
     "matched_title": "屍速禁區",
@@ -59,15 +69,30 @@
     "matched_title": "揭密日",
     "poster_url": "https://image.tmdb.org/t/p/w500/2ce0xoPEjsKvc1HVPxftF29Rl73.jpg"
   },
+  "攻殼機動隊 2026": {
+    "tmdb_id": 1706919,
+    "matched_title": "攻殼機動隊 2026",
+    "poster_url": "https://image.tmdb.org/t/p/w500/dtSrLSFuBgSXh3txUvMxGucA217.jpg"
+  },
   "新劇場版 銀魂 吉原大炎上": {
     "tmdb_id": 1530941,
     "matched_title": "新劇場版 銀魂 -吉原大炎上-",
     "poster_url": "https://image.tmdb.org/t/p/w500/nSNHGYHXDckxSxLsVithEX7hiuy.jpg"
   },
+  "新浪潮": {
+    "tmdb_id": 1254808,
+    "matched_title": "新浪潮",
+    "poster_url": "https://image.tmdb.org/t/p/w500/pEcAfVyp2XRRoMvlkUdHvgbFqNW.jpg"
+  },
   "極限返航": {
     "tmdb_id": 687163,
     "matched_title": "極限返航",
     "poster_url": "https://image.tmdb.org/t/p/w500/jrubxFgThfkIU3lRjYFLGobYa8z.jpg"
+  },
+  "海洋奇緣": {
+    "tmdb_id": 1108427,
+    "matched_title": "海洋奇緣",
+    "poster_url": "https://image.tmdb.org/t/p/w500/tAjwKOQHHRgtMpt1sR28sIFWrO5.jpg"
   },
   "火?鳥之鳴": {
     "tmdb_id": 1530325,
@@ -79,25 +104,10 @@
     "matched_title": "火遮眼",
     "poster_url": "https://image.tmdb.org/t/p/w500/wFpjismmcLQVkciNA0ZK1PRQt8c.jpg"
   },
-  "為一切人，成為一切": {
-    "tmdb_id": 1682908,
-    "matched_title": "為一切人，成為一切",
-    "poster_url": "https://image.tmdb.org/t/p/w500/hS0NzRWzwsYxjOKuC3OfX1LGLMA.jpg"
-  },
   "玩具總動員5": {
     "tmdb_id": 1084244,
     "matched_title": "玩具總動員5",
     "poster_url": "https://image.tmdb.org/t/p/w500/1vhjC7Ra5C6BPeZskeMz0WUmrnr.jpg"
-  },
-  "神木之島": {
-    "tmdb_id": 1668367,
-    "matched_title": "神木之島",
-    "poster_url": "https://image.tmdb.org/t/p/w500/ixASE2x4h11tujN4sVHRtXPBCqg.jpg"
-  },
-  "空之境界劇場版：終章": {
-    "tmdb_id": 47747,
-    "matched_title": "空之境界 第八章：終章",
-    "poster_url": "https://image.tmdb.org/t/p/w500/bpnNkxpTuZugsGsnZRcHzAxUZ7O.jpg"
   },
   "穿著Prada的惡魔2": {
     "tmdb_id": 1314481,
@@ -124,11 +134,6 @@
     "matched_title": "跟蹤",
     "poster_url": "https://image.tmdb.org/t/p/w500/7dbbZ3l857CP4z1XPJHnPxaI7fJ.jpg"
   },
-  "陰魂旅社": {
-    "tmdb_id": 1430077,
-    "matched_title": "陰魂旅社",
-    "poster_url": "https://image.tmdb.org/t/p/w500/93xtN8BmdVNkLfHnVD2xhmypnl7.jpg"
-  },
   "陽光女子合唱團": {
     "tmdb_id": 1481955,
     "matched_title": "陽光女子合唱團",
@@ -148,6 +153,11 @@
     "tmdb_id": 1543151,
     "matched_title": "鬼囚",
     "poster_url": "https://image.tmdb.org/t/p/w500/A4KspE36QzEWZGyA0WbyWMZWzJ3.jpg"
+  },
+  "魯冰花": {
+    "tmdb_id": 316880,
+    "matched_title": "魯冰花",
+    "poster_url": "https://image.tmdb.org/t/p/w500/5VbCAUESrofnCMJrcOx5lhfR6xF.jpg"
   },
   "麥可傑克森": {
     "tmdb_id": 936075,
