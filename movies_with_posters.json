@@ -19,25 +19,10 @@
     "matched_title": "名偵探柯南：高速公路的墮天使",
     "poster_url": "https://image.tmdb.org/t/p/w500/vsre1rnZ9mA8Tb4Lejp1UbZ6ca9.jpg"
   },
-  "外賣": {
-    "tmdb_id": 1187462,
-    "matched_title": "外賣情人",
-    "poster_url": "https://image.tmdb.org/t/p/w500/suXF3DpzNXvZEJcNwAxivFjlhEQ.jpg"
-  },
-  "太空超人": {
-    "tmdb_id": 454639,
-    "matched_title": "太空超人",
-    "poster_url": "https://image.tmdb.org/t/p/w500/1MbMFS1G8Od2BAhEiqgJLlhbBwC.jpg"
-  },
   "失樂園": {
     "tmdb_id": 1164559,
     "matched_title": "失樂園",
     "poster_url": "https://image.tmdb.org/t/p/w500/sgj5QhBlVlzZqGl5Mc9mF3xpEpF.jpg"
-  },
-  "妳最後留下的歌": {
-    "tmdb_id": 1559185,
-    "matched_title": "妳最後留下的歌",
-    "poster_url": "https://image.tmdb.org/t/p/w500/2FjTdAsPqRhQqaA2aM2Vv2bMngT.jpg"
   },
   "小小兵&大怪獸": {
     "tmdb_id": 1315772,
@@ -89,11 +74,6 @@
     "matched_title": "極限返航",
     "poster_url": "https://image.tmdb.org/t/p/w500/jrubxFgThfkIU3lRjYFLGobYa8z.jpg"
   },
-  "海洋奇緣": {
-    "tmdb_id": 1108427,
-    "matched_title": "海洋奇緣",
-    "poster_url": "https://image.tmdb.org/t/p/w500/tAjwKOQHHRgtMpt1sR28sIFWrO5.jpg"
-  },
   "火?鳥之鳴": {
     "tmdb_id": 1530325,
     "matched_title": "火喰鳥之鳴",
@@ -104,6 +84,11 @@
     "matched_title": "火遮眼",
     "poster_url": "https://image.tmdb.org/t/p/w500/wFpjismmcLQVkciNA0ZK1PRQt8c.jpg"
   },
+  "為一切人，成為一切": {
+    "tmdb_id": 1682908,
+    "matched_title": "為一切人，成為一切",
+    "poster_url": "https://image.tmdb.org/t/p/w500/hS0NzRWzwsYxjOKuC3OfX1LGLMA.jpg"
+  },
   "玩具總動員5": {
     "tmdb_id": 1084244,
     "matched_title": "玩具總動員5",
@@ -113,11 +98,6 @@
     "tmdb_id": 1314481,
     "matched_title": "穿著PRADA的惡魔2",
     "poster_url": "https://image.tmdb.org/t/p/w500/pep61TOT2GJjT0ck2JbtMwIZNyJ.jpg"
-  },
-  "絕殺路人甲": {
-    "tmdb_id": 1010755,
-    "matched_title": "絕殺路人甲",
-    "poster_url": "https://image.tmdb.org/t/p/w500/wgIyKTgJDhXwUCjlTSgfnMk0feu.jpg"
   },
   "腎上腺 母侵": {
     "tmdb_id": 1433051,
@@ -153,11 +133,6 @@
     "tmdb_id": 1543151,
     "matched_title": "鬼囚",
     "poster_url": "https://image.tmdb.org/t/p/w500/A4KspE36QzEWZGyA0WbyWMZWzJ3.jpg"
-  },
-  "魯冰花": {
-    "tmdb_id": 316880,
-    "matched_title": "魯冰花",
-    "poster_url": "https://image.tmdb.org/t/p/w500/5VbCAUESrofnCMJrcOx5lhfR6xF.jpg"
   },
   "麥可傑克森": {
     "tmdb_id": 936075,
