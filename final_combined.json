@@ -1,6 +1,602 @@
 {
   "美麗新台茂影城": [
     {
+      "title": "勇者傳奇",
+      "tmdb_id": 677561,
+      "matched_title": "勇者傳奇",
+      "poster_url": "https://image.tmdb.org/t/p/w500/sDqTM5ipAP4xwbX0RrFa6xwkBm3.jpg"
+    },
+    {
+      "title": "名偵探柯南 高速公路的墮天使",
+      "tmdb_id": 1545621,
+      "matched_title": "名偵探柯南：高速公路的墮天使",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vsre1rnZ9mA8Tb4Lejp1UbZ6ca9.jpg"
+    },
+    {
+      "title": "奧德賽",
+      "tmdb_id": 1368337,
+      "matched_title": "奧德賽",
+      "poster_url": "https://image.tmdb.org/t/p/w500/d7MiRRamaAe58DacYEo2ZgziBBv.jpg"
+    },
+    {
+      "title": "小小兵&大怪獸",
+      "tmdb_id": 1315772,
+      "matched_title": "小小兵&大怪獸",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ul0dWExN1UXn5ktN7x4KKp5ISNr.jpg"
+    },
+    {
+      "title": "屍變焚場",
+      "tmdb_id": 1212763,
+      "matched_title": "屍變焚場",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ifwgHdNobcGGSnL3neGH4n5Y4WB.jpg"
+    },
+    {
+      "title": "屍速禁區",
+      "tmdb_id": 1375646,
+      "matched_title": "屍速禁區",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lu7TD4kt5g2qRkU0LRZXLwKMTTP.jpg"
+    },
+    {
+      "title": "最後的我們",
+      "tmdb_id": 1636593,
+      "matched_title": "最後的我們",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qqriCnikIAA8cATHN2ewAn32Uw4.jpg"
+    },
+    {
+      "title": "海洋奇緣(真人版)",
+      "tmdb_id": null,
+      "matched_title": null,
+      "poster_url": null
+    },
+    {
+      "title": "玩具總動員5",
+      "tmdb_id": 1084244,
+      "matched_title": "玩具總動員5",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1vhjC7Ra5C6BPeZskeMz0WUmrnr.jpg"
+    },
+    {
+      "title": "鬼侵身",
+      "tmdb_id": 1500890,
+      "matched_title": "鬼侵身",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gd1pzqx2unb4juoie7hqXlLvKiZ.jpg"
+    },
+    {
+      "title": "鬼汙",
+      "tmdb_id": 1417285,
+      "matched_title": "鬼汙",
+      "poster_url": "https://image.tmdb.org/t/p/w500/19ULSlHwnrl7u6bFLnE0gNfP3S.jpg"
+    }
+  ],
+  "星橋國際影城": [
+    {
+      "title": "世界的主人",
+      "tmdb_id": 1317512,
+      "matched_title": "世界的主人",
+      "poster_url": "https://image.tmdb.org/t/p/w500/epHCB5QLM0TiTRLYYfoJUNkJ7kI.jpg"
+    },
+    {
+      "title": "偶像禁愛令",
+      "tmdb_id": 1433087,
+      "matched_title": "偶像禁愛令",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8AfGaoFbOj8Gp8rkKFzi351F9qo.jpg"
+    },
+    {
+      "title": "劇場版 境界的彼方 -I'LL BE HERE- 未來篇",
+      "tmdb_id": 333622,
+      "matched_title": "劇場版 境界的彼方－I'LL BE HERE－未來篇",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8AjCxD9Sg6OAXOAMfNVWnxhYaKE.jpg"
+    },
+    {
+      "title": "勇者傳奇",
+      "tmdb_id": 677561,
+      "matched_title": "勇者傳奇",
+      "poster_url": "https://image.tmdb.org/t/p/w500/sDqTM5ipAP4xwbX0RrFa6xwkBm3.jpg"
+    },
+    {
+      "title": "名偵探柯南 高速公路的墮天使",
+      "tmdb_id": 1545621,
+      "matched_title": "名偵探柯南：高速公路的墮天使",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vsre1rnZ9mA8Tb4Lejp1UbZ6ca9.jpg"
+    },
+    {
+      "title": "奧德賽",
+      "tmdb_id": 1368337,
+      "matched_title": "奧德賽",
+      "poster_url": "https://image.tmdb.org/t/p/w500/d7MiRRamaAe58DacYEo2ZgziBBv.jpg"
+    },
+    {
+      "title": "小小兵&大怪獸",
+      "tmdb_id": 1315772,
+      "matched_title": "小小兵&大怪獸",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ul0dWExN1UXn5ktN7x4KKp5ISNr.jpg"
+    },
+    {
+      "title": "屍變焚場",
+      "tmdb_id": 1212763,
+      "matched_title": "屍變焚場",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ifwgHdNobcGGSnL3neGH4n5Y4WB.jpg"
+    },
+    {
+      "title": "屍速禁區",
+      "tmdb_id": 1375646,
+      "matched_title": "屍速禁區",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lu7TD4kt5g2qRkU0LRZXLwKMTTP.jpg"
+    },
+    {
+      "title": "幹夫狂想曲",
+      "tmdb_id": 1657504,
+      "matched_title": "幹夫狂想曲",
+      "poster_url": "https://image.tmdb.org/t/p/w500/iqPjdsdnbIbGX1g1WJOqbX3d5nT.jpg"
+    },
+    {
+      "title": "後室",
+      "tmdb_id": 1083381,
+      "matched_title": "後室",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pV2RJV27vTK4jqUXiX2wutxy5ab.jpg"
+    },
+    {
+      "title": "新浪潮",
+      "tmdb_id": 1254808,
+      "matched_title": "新浪潮",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cqjnwiiFwlVk39m18axxXV3avjm.jpg"
+    },
+    {
+      "title": "最後的我們",
+      "tmdb_id": 1636593,
+      "matched_title": "最後的我們",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qqriCnikIAA8cATHN2ewAn32Uw4.jpg"
+    },
+    {
+      "title": "海洋奇緣(真人版)",
+      "tmdb_id": null,
+      "matched_title": null,
+      "poster_url": null
+    },
+    {
+      "title": "火?鳥之鳴",
+      "tmdb_id": 1530325,
+      "matched_title": "火喰鳥之鳴",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7pJu6CtVT7vTkiXUvZFIQw4ldWg.jpg"
+    },
+    {
+      "title": "玩具總動員5",
+      "tmdb_id": 1084244,
+      "matched_title": "玩具總動員5",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1vhjC7Ra5C6BPeZskeMz0WUmrnr.jpg"
+    },
+    {
+      "title": "超少女",
+      "tmdb_id": 1081003,
+      "matched_title": "超少女",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1yk2HwZrKcA18nYtli6X2doHtO5.jpg"
+    },
+    {
+      "title": "鬼侵身",
+      "tmdb_id": 1500890,
+      "matched_title": "鬼侵身",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gd1pzqx2unb4juoie7hqXlLvKiZ.jpg"
+    },
+    {
+      "title": "鬼汙",
+      "tmdb_id": 1417285,
+      "matched_title": "鬼汙",
+      "poster_url": "https://image.tmdb.org/t/p/w500/19ULSlHwnrl7u6bFLnE0gNfP3S.jpg"
+    },
+    {
+      "title": "魯冰花(數位修復版)",
+      "tmdb_id": null,
+      "matched_title": null,
+      "poster_url": null
+    }
+  ],
+  "威尼斯影城": [
+    {
+      "title": "名偵探柯南 高速公路的墮天使",
+      "tmdb_id": 1545621,
+      "matched_title": "名偵探柯南：高速公路的墮天使",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vsre1rnZ9mA8Tb4Lejp1UbZ6ca9.jpg"
+    },
+    {
+      "title": "奧德賽",
+      "tmdb_id": 1368337,
+      "matched_title": "奧德賽",
+      "poster_url": "https://image.tmdb.org/t/p/w500/d7MiRRamaAe58DacYEo2ZgziBBv.jpg"
+    },
+    {
+      "title": "小小兵&大怪獸",
+      "tmdb_id": 1315772,
+      "matched_title": "小小兵&大怪獸",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ul0dWExN1UXn5ktN7x4KKp5ISNr.jpg"
+    },
+    {
+      "title": "屍變焚場",
+      "tmdb_id": 1212763,
+      "matched_title": "屍變焚場",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ifwgHdNobcGGSnL3neGH4n5Y4WB.jpg"
+    },
+    {
+      "title": "海洋奇緣(真人版)",
+      "tmdb_id": null,
+      "matched_title": null,
+      "poster_url": null
+    },
+    {
+      "title": "玩具總動員5",
+      "tmdb_id": 1084244,
+      "matched_title": "玩具總動員5",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1vhjC7Ra5C6BPeZskeMz0WUmrnr.jpg"
+    },
+    {
+      "title": "鬼汙",
+      "tmdb_id": 1417285,
+      "matched_title": "鬼汙",
+      "poster_url": "https://image.tmdb.org/t/p/w500/19ULSlHwnrl7u6bFLnE0gNfP3S.jpg"
+    },
+    {
+      "title": "魯冰花(數位修復版)",
+      "tmdb_id": null,
+      "matched_title": null,
+      "poster_url": null
+    }
+  ],
+  "國賓桃園八德": [
+    {
+      "title": "名偵探柯南 高速公路的墮天使",
+      "tmdb_id": 1545621,
+      "matched_title": "名偵探柯南：高速公路的墮天使",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vsre1rnZ9mA8Tb4Lejp1UbZ6ca9.jpg"
+    },
+    {
+      "title": "奧德賽",
+      "tmdb_id": 1368337,
+      "matched_title": "奧德賽",
+      "poster_url": "https://image.tmdb.org/t/p/w500/d7MiRRamaAe58DacYEo2ZgziBBv.jpg"
+    },
+    {
+      "title": "小小兵&大怪獸",
+      "tmdb_id": 1315772,
+      "matched_title": "小小兵&大怪獸",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ul0dWExN1UXn5ktN7x4KKp5ISNr.jpg"
+    },
+    {
+      "title": "屍變焚場",
+      "tmdb_id": 1212763,
+      "matched_title": "屍變焚場",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ifwgHdNobcGGSnL3neGH4n5Y4WB.jpg"
+    },
+    {
+      "title": "屍速禁區",
+      "tmdb_id": 1375646,
+      "matched_title": "屍速禁區",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lu7TD4kt5g2qRkU0LRZXLwKMTTP.jpg"
+    },
+    {
+      "title": "海洋奇緣(真人版)",
+      "tmdb_id": null,
+      "matched_title": null,
+      "poster_url": null
+    },
+    {
+      "title": "玩具總動員5",
+      "tmdb_id": 1084244,
+      "matched_title": "玩具總動員5",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1vhjC7Ra5C6BPeZskeMz0WUmrnr.jpg"
+    },
+    {
+      "title": "鬼侵身",
+      "tmdb_id": 1500890,
+      "matched_title": "鬼侵身",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gd1pzqx2unb4juoie7hqXlLvKiZ.jpg"
+    }
+  ],
+  "桃園統領威秀影城": [
+    {
+      "title": "世界的主人",
+      "tmdb_id": 1317512,
+      "matched_title": "世界的主人",
+      "poster_url": "https://image.tmdb.org/t/p/w500/epHCB5QLM0TiTRLYYfoJUNkJ7kI.jpg"
+    },
+    {
+      "title": "人為什麼寫情書",
+      "tmdb_id": 1593275,
+      "matched_title": "人為什麼寫情書",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6qfSXke7BoD7713u64CzrmKdZDR.jpg"
+    },
+    {
+      "title": "催眠麥克風",
+      "tmdb_id": 1412811,
+      "matched_title": "催眠麥克風",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uqN6xWv2gardy3WAhzCfu4imzFZ.jpg"
+    },
+    {
+      "title": "劇場版 境界的彼方 -I'LL BE HERE- 過去篇",
+      "tmdb_id": 311056,
+      "matched_title": "劇場版 境界的彼方－I'LL BE HERE－過去篇",
+      "poster_url": "https://image.tmdb.org/t/p/w500/z7RZrZDROuk0mgjvWYHIMRGB15l.jpg"
+    },
+    {
+      "title": "勇者傳奇",
+      "tmdb_id": 677561,
+      "matched_title": "勇者傳奇",
+      "poster_url": "https://image.tmdb.org/t/p/w500/sDqTM5ipAP4xwbX0RrFa6xwkBm3.jpg"
+    },
+    {
+      "title": "名偵探柯南 高速公路的墮天使",
+      "tmdb_id": 1545621,
+      "matched_title": "名偵探柯南：高速公路的墮天使",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vsre1rnZ9mA8Tb4Lejp1UbZ6ca9.jpg"
+    },
+    {
+      "title": "外賣(4K數位紀念版)",
+      "tmdb_id": null,
+      "matched_title": null,
+      "poster_url": null
+    },
+    {
+      "title": "奧德賽",
+      "tmdb_id": 1368337,
+      "matched_title": "奧德賽",
+      "poster_url": "https://image.tmdb.org/t/p/w500/d7MiRRamaAe58DacYEo2ZgziBBv.jpg"
+    },
+    {
+      "title": "小小兵&大怪獸",
+      "tmdb_id": 1315772,
+      "matched_title": "小小兵&大怪獸",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ul0dWExN1UXn5ktN7x4KKp5ISNr.jpg"
+    },
+    {
+      "title": "屍變焚場",
+      "tmdb_id": 1212763,
+      "matched_title": "屍變焚場",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ifwgHdNobcGGSnL3neGH4n5Y4WB.jpg"
+    },
+    {
+      "title": "屍速禁區",
+      "tmdb_id": 1375646,
+      "matched_title": "屍速禁區",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lu7TD4kt5g2qRkU0LRZXLwKMTTP.jpg"
+    },
+    {
+      "title": "後室",
+      "tmdb_id": 1083381,
+      "matched_title": "後室",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pV2RJV27vTK4jqUXiX2wutxy5ab.jpg"
+    },
+    {
+      "title": "揭密日",
+      "tmdb_id": 1275779,
+      "matched_title": "揭密日",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2ce0xoPEjsKvc1HVPxftF29Rl73.jpg"
+    },
+    {
+      "title": "攻殼機動隊 2026",
+      "tmdb_id": 1706919,
+      "matched_title": "攻殼機動隊 2026",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dtSrLSFuBgSXh3txUvMxGucA217.jpg"
+    },
+    {
+      "title": "新劇場版 銀魂 吉原大炎上",
+      "tmdb_id": 1530941,
+      "matched_title": "新劇場版 銀魂 -吉原大炎上-",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nSNHGYHXDckxSxLsVithEX7hiuy.jpg"
+    },
+    {
+      "title": "最後的我們",
+      "tmdb_id": 1636593,
+      "matched_title": "最後的我們",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qqriCnikIAA8cATHN2ewAn32Uw4.jpg"
+    },
+    {
+      "title": "極限返航",
+      "tmdb_id": 687163,
+      "matched_title": "極限返航",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jrubxFgThfkIU3lRjYFLGobYa8z.jpg"
+    },
+    {
+      "title": "海洋奇緣(真人版)",
+      "tmdb_id": null,
+      "matched_title": null,
+      "poster_url": null
+    },
+    {
+      "title": "為一切人，成為一切",
+      "tmdb_id": 1682908,
+      "matched_title": "為一切人，成為一切",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hS0NzRWzwsYxjOKuC3OfX1LGLMA.jpg"
+    },
+    {
+      "title": "玩具總動員5",
+      "tmdb_id": 1084244,
+      "matched_title": "玩具總動員5",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1vhjC7Ra5C6BPeZskeMz0WUmrnr.jpg"
+    },
+    {
+      "title": "穿著Prada的惡魔2",
+      "tmdb_id": 1314481,
+      "matched_title": "穿著PRADA的惡魔2",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pep61TOT2GJjT0ck2JbtMwIZNyJ.jpg"
+    },
+    {
+      "title": "航海王劇場版：紅髮歌姬",
+      "tmdb_id": 900667,
+      "matched_title": "航海王：紅髮歌姬",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7BwSqu2nRRwHmMXhr72phz3Tv6w.jpg"
+    },
+    {
+      "title": "超少女",
+      "tmdb_id": 1081003,
+      "matched_title": "超少女",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1yk2HwZrKcA18nYtli6X2doHtO5.jpg"
+    },
+    {
+      "title": "跟蹤",
+      "tmdb_id": 37984,
+      "matched_title": "跟蹤",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7dbbZ3l857CP4z1XPJHnPxaI7fJ.jpg"
+    },
+    {
+      "title": "陽光女子合唱團",
+      "tmdb_id": 1481955,
+      "matched_title": "陽光女子合唱團",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ww87zLgAK1I6DzZPL4Za13e8jpx.jpg"
+    },
+    {
+      "title": "驚聲尖笑6",
+      "tmdb_id": 1273221,
+      "matched_title": "驚聲尖笑",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oRXf8V8B3i80u3ZHmIOpRsKae0k.jpg"
+    },
+    {
+      "title": "鬼上車",
+      "tmdb_id": 1368314,
+      "matched_title": "鬼上車",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wPWumCUIYvtzTbiZjn5B9Z3pPIQ.jpg"
+    },
+    {
+      "title": "鬼侵身",
+      "tmdb_id": 1500890,
+      "matched_title": "鬼侵身",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gd1pzqx2unb4juoie7hqXlLvKiZ.jpg"
+    },
+    {
+      "title": "鬼囚",
+      "tmdb_id": 1543151,
+      "matched_title": "鬼囚",
+      "poster_url": "https://image.tmdb.org/t/p/w500/A4KspE36QzEWZGyA0WbyWMZWzJ3.jpg"
+    },
+    {
+      "title": "鬼汙",
+      "tmdb_id": 1417285,
+      "matched_title": "鬼汙",
+      "poster_url": "https://image.tmdb.org/t/p/w500/19ULSlHwnrl7u6bFLnE0gNfP3S.jpg"
+    },
+    {
+      "title": "魯冰花(數位修復版)",
+      "tmdb_id": null,
+      "matched_title": null,
+      "poster_url": null
+    }
+  ],
+  "桃園站前in89豪華影城": [
+    {
+      "title": "名偵探柯南 高速公路的墮天使",
+      "tmdb_id": 1545621,
+      "matched_title": "名偵探柯南：高速公路的墮天使",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vsre1rnZ9mA8Tb4Lejp1UbZ6ca9.jpg"
+    },
+    {
+      "title": "奧德賽",
+      "tmdb_id": 1368337,
+      "matched_title": "奧德賽",
+      "poster_url": "https://image.tmdb.org/t/p/w500/d7MiRRamaAe58DacYEo2ZgziBBv.jpg"
+    },
+    {
+      "title": "小小兵&大怪獸",
+      "tmdb_id": 1315772,
+      "matched_title": "小小兵&大怪獸",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ul0dWExN1UXn5ktN7x4KKp5ISNr.jpg"
+    },
+    {
+      "title": "屍變焚場",
+      "tmdb_id": 1212763,
+      "matched_title": "屍變焚場",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ifwgHdNobcGGSnL3neGH4n5Y4WB.jpg"
+    },
+    {
+      "title": "屍速禁區",
+      "tmdb_id": 1375646,
+      "matched_title": "屍速禁區",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lu7TD4kt5g2qRkU0LRZXLwKMTTP.jpg"
+    },
+    {
+      "title": "最後的我們",
+      "tmdb_id": 1636593,
+      "matched_title": "最後的我們",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qqriCnikIAA8cATHN2ewAn32Uw4.jpg"
+    },
+    {
+      "title": "海洋奇緣(真人版)",
+      "tmdb_id": null,
+      "matched_title": null,
+      "poster_url": null
+    },
+    {
+      "title": "玩具總動員5",
+      "tmdb_id": 1084244,
+      "matched_title": "玩具總動員5",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1vhjC7Ra5C6BPeZskeMz0WUmrnr.jpg"
+    },
+    {
+      "title": "鬼侵身",
+      "tmdb_id": 1500890,
+      "matched_title": "鬼侵身",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gd1pzqx2unb4juoie7hqXlLvKiZ.jpg"
+    },
+    {
+      "title": "鬼囚",
+      "tmdb_id": 1543151,
+      "matched_title": "鬼囚",
+      "poster_url": "https://image.tmdb.org/t/p/w500/A4KspE36QzEWZGyA0WbyWMZWzJ3.jpg"
+    },
+    {
+      "title": "鬼汙",
+      "tmdb_id": 1417285,
+      "matched_title": "鬼汙",
+      "poster_url": "https://image.tmdb.org/t/p/w500/19ULSlHwnrl7u6bFLnE0gNfP3S.jpg"
+    },
+    {
+      "title": "魯冰花(數位修復版)",
+      "tmdb_id": null,
+      "matched_title": null,
+      "poster_url": null
+    }
+  ],
+  "桃園桃知道威秀影城": [
+    {
+      "title": "勇者傳奇",
+      "tmdb_id": 677561,
+      "matched_title": "勇者傳奇",
+      "poster_url": "https://image.tmdb.org/t/p/w500/sDqTM5ipAP4xwbX0RrFa6xwkBm3.jpg"
+    },
+    {
+      "title": "名偵探柯南 高速公路的墮天使",
+      "tmdb_id": 1545621,
+      "matched_title": "名偵探柯南：高速公路的墮天使",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vsre1rnZ9mA8Tb4Lejp1UbZ6ca9.jpg"
+    },
+    {
+      "title": "奧德賽",
+      "tmdb_id": 1368337,
+      "matched_title": "奧德賽",
+      "poster_url": "https://image.tmdb.org/t/p/w500/d7MiRRamaAe58DacYEo2ZgziBBv.jpg"
+    },
+    {
+      "title": "小小兵&大怪獸",
+      "tmdb_id": 1315772,
+      "matched_title": "小小兵&大怪獸",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ul0dWExN1UXn5ktN7x4KKp5ISNr.jpg"
+    },
+    {
+      "title": "海洋奇緣(真人版)",
+      "tmdb_id": null,
+      "matched_title": null,
+      "poster_url": null
+    },
+    {
+      "title": "玩具總動員5",
+      "tmdb_id": 1084244,
+      "matched_title": "玩具總動員5",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1vhjC7Ra5C6BPeZskeMz0WUmrnr.jpg"
+    }
+  ],
+  "桃園新光影城": [
+    {
+      "title": "劇場版 境界的彼方 -I'LL BE HERE- 過去篇",
+      "tmdb_id": 311056,
+      "matched_title": "劇場版 境界的彼方－I'LL BE HERE－過去篇",
+      "poster_url": "https://image.tmdb.org/t/p/w500/z7RZrZDROuk0mgjvWYHIMRGB15l.jpg"
+    },
+    {
       "title": "名偵探柯南 高速公路的墮天使",
       "tmdb_id": 1545621,
       "matched_title": "名偵探柯南：高速公路的墮天使",
@@ -55,588 +651,22 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/1vhjC7Ra5C6BPeZskeMz0WUmrnr.jpg"
     },
     {
-      "title": "超少女",
-      "tmdb_id": 1081003,
-      "matched_title": "超少女",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1yk2HwZrKcA18nYtli6X2doHtO5.jpg"
+      "title": "航海王劇場版：紅髮歌姬",
+      "tmdb_id": 900667,
+      "matched_title": "航海王：紅髮歌姬",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7BwSqu2nRRwHmMXhr72phz3Tv6w.jpg"
     },
     {
-      "title": "魯冰花(數位修復版)",
-      "tmdb_id": null,
-      "matched_title": null,
-      "poster_url": null
-    }
-  ],
-  "星橋國際影城": [
-    {
-      "title": "名偵探柯南 高速公路的墮天使",
-      "tmdb_id": 1545621,
-      "matched_title": "名偵探柯南：高速公路的墮天使",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vsre1rnZ9mA8Tb4Lejp1UbZ6ca9.jpg"
-    },
-    {
-      "title": "小小兵&大怪獸",
-      "tmdb_id": 1315772,
-      "matched_title": "小小兵&大怪獸",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ul0dWExN1UXn5ktN7x4KKp5ISNr.jpg"
-    },
-    {
-      "title": "屍變焚場",
-      "tmdb_id": 1212763,
-      "matched_title": "屍變焚場",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ifwgHdNobcGGSnL3neGH4n5Y4WB.jpg"
-    },
-    {
-      "title": "屍速禁區",
-      "tmdb_id": 1375646,
-      "matched_title": "屍速禁區",
-      "poster_url": "https://image.tmdb.org/t/p/w500/lu7TD4kt5g2qRkU0LRZXLwKMTTP.jpg"
-    },
-    {
-      "title": "幹夫狂想曲",
-      "tmdb_id": 1657504,
-      "matched_title": "幹夫狂想曲",
-      "poster_url": "https://image.tmdb.org/t/p/w500/iqPjdsdnbIbGX1g1WJOqbX3d5nT.jpg"
-    },
-    {
-      "title": "後室",
-      "tmdb_id": 1083381,
-      "matched_title": "後室",
-      "poster_url": "https://image.tmdb.org/t/p/w500/pV2RJV27vTK4jqUXiX2wutxy5ab.jpg"
-    },
-    {
-      "title": "揭密日",
-      "tmdb_id": 1275779,
-      "matched_title": "揭密日",
-      "poster_url": "https://image.tmdb.org/t/p/w500/2ce0xoPEjsKvc1HVPxftF29Rl73.jpg"
-    },
-    {
-      "title": "攻殼機動隊 2026",
-      "tmdb_id": 1706919,
-      "matched_title": "攻殼機動隊 2026",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dtSrLSFuBgSXh3txUvMxGucA217.jpg"
-    },
-    {
-      "title": "新浪潮",
-      "tmdb_id": 1254808,
-      "matched_title": "新浪潮",
-      "poster_url": "https://image.tmdb.org/t/p/w500/cqjnwiiFwlVk39m18axxXV3avjm.jpg"
-    },
-    {
-      "title": "最後的我們",
-      "tmdb_id": 1636593,
-      "matched_title": "最後的我們",
-      "poster_url": "https://image.tmdb.org/t/p/w500/qqriCnikIAA8cATHN2ewAn32Uw4.jpg"
-    },
-    {
-      "title": "海洋奇緣(真人版)",
-      "tmdb_id": null,
-      "matched_title": null,
-      "poster_url": null
-    },
-    {
-      "title": "火?鳥之鳴",
-      "tmdb_id": 1530325,
-      "matched_title": "火喰鳥之鳴",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7pJu6CtVT7vTkiXUvZFIQw4ldWg.jpg"
-    },
-    {
-      "title": "玩具總動員5",
-      "tmdb_id": 1084244,
-      "matched_title": "玩具總動員5",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1vhjC7Ra5C6BPeZskeMz0WUmrnr.jpg"
-    },
-    {
-      "title": "超少女",
-      "tmdb_id": 1081003,
-      "matched_title": "超少女",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1yk2HwZrKcA18nYtli6X2doHtO5.jpg"
-    },
-    {
-      "title": "鬼囚",
-      "tmdb_id": 1543151,
-      "matched_title": "鬼囚",
-      "poster_url": "https://image.tmdb.org/t/p/w500/A4KspE36QzEWZGyA0WbyWMZWzJ3.jpg"
-    },
-    {
-      "title": "魯冰花(數位修復版)",
-      "tmdb_id": null,
-      "matched_title": null,
-      "poster_url": null
-    }
-  ],
-  "威尼斯影城": [
-    {
-      "title": "名偵探柯南 高速公路的墮天使",
-      "tmdb_id": 1545621,
-      "matched_title": "名偵探柯南：高速公路的墮天使",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vsre1rnZ9mA8Tb4Lejp1UbZ6ca9.jpg"
-    },
-    {
-      "title": "小小兵&大怪獸",
-      "tmdb_id": 1315772,
-      "matched_title": "小小兵&大怪獸",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ul0dWExN1UXn5ktN7x4KKp5ISNr.jpg"
-    },
-    {
-      "title": "屍變焚場",
-      "tmdb_id": 1212763,
-      "matched_title": "屍變焚場",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ifwgHdNobcGGSnL3neGH4n5Y4WB.jpg"
-    },
-    {
-      "title": "最後的我們",
-      "tmdb_id": 1636593,
-      "matched_title": "最後的我們",
-      "poster_url": "https://image.tmdb.org/t/p/w500/qqriCnikIAA8cATHN2ewAn32Uw4.jpg"
-    },
-    {
-      "title": "海洋奇緣(真人版)",
-      "tmdb_id": null,
-      "matched_title": null,
-      "poster_url": null
-    },
-    {
-      "title": "玩具總動員5",
-      "tmdb_id": 1084244,
-      "matched_title": "玩具總動員5",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1vhjC7Ra5C6BPeZskeMz0WUmrnr.jpg"
-    },
-    {
-      "title": "超少女",
-      "tmdb_id": 1081003,
-      "matched_title": "超少女",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1yk2HwZrKcA18nYtli6X2doHtO5.jpg"
-    },
-    {
-      "title": "魯冰花(數位修復版)",
-      "tmdb_id": null,
-      "matched_title": null,
-      "poster_url": null
-    }
-  ],
-  "國賓桃園八德": [
-    {
-      "title": "名偵探柯南 高速公路的墮天使",
-      "tmdb_id": 1545621,
-      "matched_title": "名偵探柯南：高速公路的墮天使",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vsre1rnZ9mA8Tb4Lejp1UbZ6ca9.jpg"
-    },
-    {
-      "title": "小小兵&大怪獸",
-      "tmdb_id": 1315772,
-      "matched_title": "小小兵&大怪獸",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ul0dWExN1UXn5ktN7x4KKp5ISNr.jpg"
-    },
-    {
-      "title": "屍變焚場",
-      "tmdb_id": 1212763,
-      "matched_title": "屍變焚場",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ifwgHdNobcGGSnL3neGH4n5Y4WB.jpg"
-    },
-    {
-      "title": "屍速禁區",
-      "tmdb_id": 1375646,
-      "matched_title": "屍速禁區",
-      "poster_url": "https://image.tmdb.org/t/p/w500/lu7TD4kt5g2qRkU0LRZXLwKMTTP.jpg"
-    },
-    {
-      "title": "攻殼機動隊 2026",
-      "tmdb_id": 1706919,
-      "matched_title": "攻殼機動隊 2026",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dtSrLSFuBgSXh3txUvMxGucA217.jpg"
-    },
-    {
-      "title": "海洋奇緣(真人版)",
-      "tmdb_id": null,
-      "matched_title": null,
-      "poster_url": null
-    },
-    {
-      "title": "玩具總動員5",
-      "tmdb_id": 1084244,
-      "matched_title": "玩具總動員5",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1vhjC7Ra5C6BPeZskeMz0WUmrnr.jpg"
-    },
-    {
-      "title": "超少女",
-      "tmdb_id": 1081003,
-      "matched_title": "超少女",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1yk2HwZrKcA18nYtli6X2doHtO5.jpg"
-    },
-    {
-      "title": "鬼囚",
-      "tmdb_id": 1543151,
-      "matched_title": "鬼囚",
-      "poster_url": "https://image.tmdb.org/t/p/w500/A4KspE36QzEWZGyA0WbyWMZWzJ3.jpg"
-    }
-  ],
-  "桃園統領威秀影城": [
-    {
-      "title": "人為什麼寫情書",
-      "tmdb_id": 1593275,
-      "matched_title": "人為什麼寫情書",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6qfSXke7BoD7713u64CzrmKdZDR.jpg"
-    },
-    {
-      "title": "偶像禁愛令",
-      "tmdb_id": 1433087,
-      "matched_title": "偶像禁愛令",
-      "poster_url": "https://image.tmdb.org/t/p/w500/8AfGaoFbOj8Gp8rkKFzi351F9qo.jpg"
-    },
-    {
-      "title": "催眠麥克風",
-      "tmdb_id": 1412811,
-      "matched_title": "催眠麥克風",
-      "poster_url": "https://image.tmdb.org/t/p/w500/uqN6xWv2gardy3WAhzCfu4imzFZ.jpg"
-    },
-    {
-      "title": "別離無恙",
-      "tmdb_id": 1559123,
-      "matched_title": "別離無恙",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bzEdT5YPV1c7SjcBIeFpx1J3QhS.jpg"
-    },
-    {
-      "title": "名偵探柯南 高速公路的墮天使",
-      "tmdb_id": 1545621,
-      "matched_title": "名偵探柯南：高速公路的墮天使",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vsre1rnZ9mA8Tb4Lejp1UbZ6ca9.jpg"
-    },
-    {
-      "title": "外賣(4K數位紀念版)",
-      "tmdb_id": null,
-      "matched_title": null,
-      "poster_url": null
-    },
-    {
-      "title": "失樂園",
-      "tmdb_id": 1164559,
-      "matched_title": "失樂園",
-      "poster_url": "https://image.tmdb.org/t/p/w500/sgj5QhBlVlzZqGl5Mc9mF3xpEpF.jpg"
-    },
-    {
-      "title": "妳最後留下的歌",
-      "tmdb_id": 1559185,
-      "matched_title": "妳最後留下的歌",
-      "poster_url": "https://image.tmdb.org/t/p/w500/2FjTdAsPqRhQqaA2aM2Vv2bMngT.jpg"
-    },
-    {
-      "title": "小小兵&大怪獸",
-      "tmdb_id": 1315772,
-      "matched_title": "小小兵&大怪獸",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ul0dWExN1UXn5ktN7x4KKp5ISNr.jpg"
-    },
-    {
-      "title": "屍變焚場",
-      "tmdb_id": 1212763,
-      "matched_title": "屍變焚場",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ifwgHdNobcGGSnL3neGH4n5Y4WB.jpg"
-    },
-    {
-      "title": "屍速禁區",
-      "tmdb_id": 1375646,
-      "matched_title": "屍速禁區",
-      "poster_url": "https://image.tmdb.org/t/p/w500/lu7TD4kt5g2qRkU0LRZXLwKMTTP.jpg"
-    },
-    {
-      "title": "後室",
-      "tmdb_id": 1083381,
-      "matched_title": "後室",
-      "poster_url": "https://image.tmdb.org/t/p/w500/pV2RJV27vTK4jqUXiX2wutxy5ab.jpg"
-    },
-    {
-      "title": "揭密日",
-      "tmdb_id": 1275779,
-      "matched_title": "揭密日",
-      "poster_url": "https://image.tmdb.org/t/p/w500/2ce0xoPEjsKvc1HVPxftF29Rl73.jpg"
-    },
-    {
-      "title": "攻殼機動隊 2026",
-      "tmdb_id": 1706919,
-      "matched_title": "攻殼機動隊 2026",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dtSrLSFuBgSXh3txUvMxGucA217.jpg"
-    },
-    {
-      "title": "新劇場版 銀魂 吉原大炎上",
-      "tmdb_id": 1530941,
-      "matched_title": "新劇場版 銀魂 -吉原大炎上-",
-      "poster_url": "https://image.tmdb.org/t/p/w500/nSNHGYHXDckxSxLsVithEX7hiuy.jpg"
-    },
-    {
-      "title": "新浪潮",
-      "tmdb_id": 1254808,
-      "matched_title": "新浪潮",
-      "poster_url": "https://image.tmdb.org/t/p/w500/cqjnwiiFwlVk39m18axxXV3avjm.jpg"
-    },
-    {
-      "title": "最後的我們",
-      "tmdb_id": 1636593,
-      "matched_title": "最後的我們",
-      "poster_url": "https://image.tmdb.org/t/p/w500/qqriCnikIAA8cATHN2ewAn32Uw4.jpg"
-    },
-    {
-      "title": "極限返航",
-      "tmdb_id": 687163,
-      "matched_title": "極限返航",
-      "poster_url": "https://image.tmdb.org/t/p/w500/jrubxFgThfkIU3lRjYFLGobYa8z.jpg"
-    },
-    {
-      "title": "海洋奇緣(真人版)",
-      "tmdb_id": null,
-      "matched_title": null,
-      "poster_url": null
-    },
-    {
-      "title": "火遮眼",
-      "tmdb_id": 1280738,
-      "matched_title": "火遮眼",
-      "poster_url": "https://image.tmdb.org/t/p/w500/wFpjismmcLQVkciNA0ZK1PRQt8c.jpg"
-    },
-    {
-      "title": "玩具總動員5",
-      "tmdb_id": 1084244,
-      "matched_title": "玩具總動員5",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1vhjC7Ra5C6BPeZskeMz0WUmrnr.jpg"
-    },
-    {
-      "title": "穿著Prada的惡魔2",
-      "tmdb_id": 1314481,
-      "matched_title": "穿著PRADA的惡魔2",
-      "poster_url": "https://image.tmdb.org/t/p/w500/pep61TOT2GJjT0ck2JbtMwIZNyJ.jpg"
-    },
-    {
-      "title": "超少女",
-      "tmdb_id": 1081003,
-      "matched_title": "超少女",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1yk2HwZrKcA18nYtli6X2doHtO5.jpg"
-    },
-    {
-      "title": "跟蹤",
-      "tmdb_id": 37984,
-      "matched_title": "跟蹤",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7dbbZ3l857CP4z1XPJHnPxaI7fJ.jpg"
-    },
-    {
-      "title": "陽光女子合唱團",
-      "tmdb_id": 1481955,
-      "matched_title": "陽光女子合唱團",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ww87zLgAK1I6DzZPL4Za13e8jpx.jpg"
-    },
-    {
-      "title": "驚聲尖笑6",
-      "tmdb_id": 1273221,
-      "matched_title": "驚聲尖笑",
-      "poster_url": "https://image.tmdb.org/t/p/w500/oRXf8V8B3i80u3ZHmIOpRsKae0k.jpg"
-    },
-    {
-      "title": "鬼上車",
-      "tmdb_id": 1368314,
-      "matched_title": "鬼上車",
-      "poster_url": "https://image.tmdb.org/t/p/w500/wPWumCUIYvtzTbiZjn5B9Z3pPIQ.jpg"
-    },
-    {
-      "title": "鬼囚",
-      "tmdb_id": 1543151,
-      "matched_title": "鬼囚",
-      "poster_url": "https://image.tmdb.org/t/p/w500/A4KspE36QzEWZGyA0WbyWMZWzJ3.jpg"
-    },
-    {
-      "title": "魯冰花(數位修復版)",
-      "tmdb_id": null,
-      "matched_title": null,
-      "poster_url": null
-    },
-    {
-      "title": "麥可傑克森",
-      "tmdb_id": 936075,
-      "matched_title": "麥可傑克森",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rNDmBoFFYSwF62sWthIo3Bum1uj.jpg"
-    }
-  ],
-  "桃園站前in89豪華影城": [
-    {
-      "title": "名偵探柯南 高速公路的墮天使",
-      "tmdb_id": 1545621,
-      "matched_title": "名偵探柯南：高速公路的墮天使",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vsre1rnZ9mA8Tb4Lejp1UbZ6ca9.jpg"
-    },
-    {
-      "title": "小小兵&大怪獸",
-      "tmdb_id": 1315772,
-      "matched_title": "小小兵&大怪獸",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ul0dWExN1UXn5ktN7x4KKp5ISNr.jpg"
-    },
-    {
-      "title": "屍變焚場",
-      "tmdb_id": 1212763,
-      "matched_title": "屍變焚場",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ifwgHdNobcGGSnL3neGH4n5Y4WB.jpg"
-    },
-    {
-      "title": "屍速禁區",
-      "tmdb_id": 1375646,
-      "matched_title": "屍速禁區",
-      "poster_url": "https://image.tmdb.org/t/p/w500/lu7TD4kt5g2qRkU0LRZXLwKMTTP.jpg"
-    },
-    {
-      "title": "後室",
-      "tmdb_id": 1083381,
-      "matched_title": "後室",
-      "poster_url": "https://image.tmdb.org/t/p/w500/pV2RJV27vTK4jqUXiX2wutxy5ab.jpg"
-    },
-    {
-      "title": "攻殼機動隊 2026",
-      "tmdb_id": 1706919,
-      "matched_title": "攻殼機動隊 2026",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dtSrLSFuBgSXh3txUvMxGucA217.jpg"
-    },
-    {
-      "title": "最後的我們",
-      "tmdb_id": 1636593,
-      "matched_title": "最後的我們",
-      "poster_url": "https://image.tmdb.org/t/p/w500/qqriCnikIAA8cATHN2ewAn32Uw4.jpg"
-    },
-    {
-      "title": "海洋奇緣(真人版)",
-      "tmdb_id": null,
-      "matched_title": null,
-      "poster_url": null
-    },
-    {
-      "title": "玩具總動員5",
-      "tmdb_id": 1084244,
-      "matched_title": "玩具總動員5",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1vhjC7Ra5C6BPeZskeMz0WUmrnr.jpg"
-    },
-    {
-      "title": "超少女",
-      "tmdb_id": 1081003,
-      "matched_title": "超少女",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1yk2HwZrKcA18nYtli6X2doHtO5.jpg"
-    },
-    {
-      "title": "鬼上車",
-      "tmdb_id": 1368314,
-      "matched_title": "鬼上車",
-      "poster_url": "https://image.tmdb.org/t/p/w500/wPWumCUIYvtzTbiZjn5B9Z3pPIQ.jpg"
-    },
-    {
-      "title": "鬼囚",
-      "tmdb_id": 1543151,
-      "matched_title": "鬼囚",
-      "poster_url": "https://image.tmdb.org/t/p/w500/A4KspE36QzEWZGyA0WbyWMZWzJ3.jpg"
-    },
-    {
-      "title": "魯冰花(數位修復版)",
-      "tmdb_id": null,
-      "matched_title": null,
-      "poster_url": null
-    }
-  ],
-  "桃園桃知道威秀影城": [
-    {
-      "title": "名偵探柯南 高速公路的墮天使",
-      "tmdb_id": 1545621,
-      "matched_title": "名偵探柯南：高速公路的墮天使",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vsre1rnZ9mA8Tb4Lejp1UbZ6ca9.jpg"
-    },
-    {
-      "title": "小小兵&大怪獸",
-      "tmdb_id": 1315772,
-      "matched_title": "小小兵&大怪獸",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ul0dWExN1UXn5ktN7x4KKp5ISNr.jpg"
-    },
-    {
-      "title": "屍變焚場",
-      "tmdb_id": 1212763,
-      "matched_title": "屍變焚場",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ifwgHdNobcGGSnL3neGH4n5Y4WB.jpg"
-    },
-    {
-      "title": "海洋奇緣(真人版)",
-      "tmdb_id": null,
-      "matched_title": null,
-      "poster_url": null
-    },
-    {
-      "title": "玩具總動員5",
-      "tmdb_id": 1084244,
-      "matched_title": "玩具總動員5",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1vhjC7Ra5C6BPeZskeMz0WUmrnr.jpg"
-    }
-  ],
-  "桃園新光影城": [
-    {
-      "title": "偶像禁愛令",
-      "tmdb_id": 1433087,
-      "matched_title": "偶像禁愛令",
-      "poster_url": "https://image.tmdb.org/t/p/w500/8AfGaoFbOj8Gp8rkKFzi351F9qo.jpg"
-    },
-    {
-      "title": "名偵探柯南 高速公路的墮天使",
-      "tmdb_id": 1545621,
-      "matched_title": "名偵探柯南：高速公路的墮天使",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vsre1rnZ9mA8Tb4Lejp1UbZ6ca9.jpg"
-    },
-    {
-      "title": "小小兵&大怪獸",
-      "tmdb_id": 1315772,
-      "matched_title": "小小兵&大怪獸",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ul0dWExN1UXn5ktN7x4KKp5ISNr.jpg"
-    },
-    {
-      "title": "屍變焚場",
-      "tmdb_id": 1212763,
-      "matched_title": "屍變焚場",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ifwgHdNobcGGSnL3neGH4n5Y4WB.jpg"
-    },
-    {
-      "title": "屍速禁區",
-      "tmdb_id": 1375646,
-      "matched_title": "屍速禁區",
-      "poster_url": "https://image.tmdb.org/t/p/w500/lu7TD4kt5g2qRkU0LRZXLwKMTTP.jpg"
-    },
-    {
-      "title": "後室",
-      "tmdb_id": 1083381,
-      "matched_title": "後室",
-      "poster_url": "https://image.tmdb.org/t/p/w500/pV2RJV27vTK4jqUXiX2wutxy5ab.jpg"
-    },
-    {
-      "title": "揭密日",
-      "tmdb_id": 1275779,
-      "matched_title": "揭密日",
-      "poster_url": "https://image.tmdb.org/t/p/w500/2ce0xoPEjsKvc1HVPxftF29Rl73.jpg"
-    },
-    {
-      "title": "攻殼機動隊 2026",
-      "tmdb_id": 1706919,
-      "matched_title": "攻殼機動隊 2026",
-      "poster_url": "https://image.tmdb.org/t/p/w500/dtSrLSFuBgSXh3txUvMxGucA217.jpg"
-    },
-    {
-      "title": "最後的我們",
-      "tmdb_id": 1636593,
-      "matched_title": "最後的我們",
-      "poster_url": "https://image.tmdb.org/t/p/w500/qqriCnikIAA8cATHN2ewAn32Uw4.jpg"
-    },
-    {
-      "title": "海洋奇緣(真人版)",
-      "tmdb_id": null,
-      "matched_title": null,
-      "poster_url": null
-    },
-    {
-      "title": "玩具總動員5",
-      "tmdb_id": 1084244,
-      "matched_title": "玩具總動員5",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1vhjC7Ra5C6BPeZskeMz0WUmrnr.jpg"
+      "title": "鬼侵身",
+      "tmdb_id": 1500890,
+      "matched_title": "鬼侵身",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gd1pzqx2unb4juoie7hqXlLvKiZ.jpg"
     },
     {
-      "title": "超少女",
-      "tmdb_id": 1081003,
-      "matched_title": "超少女",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1yk2HwZrKcA18nYtli6X2doHtO5.jpg"
+      "title": "鬼汙",
+      "tmdb_id": 1417285,
+      "matched_title": "鬼汙",
+      "poster_url": "https://image.tmdb.org/t/p/w500/19ULSlHwnrl7u6bFLnE0gNfP3S.jpg"
     },
     {
       "title": "魯冰花(數位修復版)",
