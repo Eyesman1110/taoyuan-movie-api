@@ -132,7 +132,7 @@
       "title": "後室",
       "tmdb_id": 1083381,
       "matched_title": "後室",
-      "poster_url": "https://image.tmdb.org/t/p/w500/pV2RJV27vTK4jqUXiX2wutxy5ab.jpg"
+      "poster_url": "https://image.tmdb.org/t/p/w500/pDKcLjN9lZQpMkBshCxVwo8mKin.jpg"
     },
     {
       "title": "新浪潮",
@@ -271,6 +271,12 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/lu7TD4kt5g2qRkU0LRZXLwKMTTP.jpg"
     },
     {
+      "title": "攻殼機動隊 2026",
+      "tmdb_id": 1706919,
+      "matched_title": "攻殼機動隊 2026",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dtSrLSFuBgSXh3txUvMxGucA217.jpg"
+    },
+    {
       "title": "海洋奇緣(真人版)",
       "tmdb_id": null,
       "matched_title": null,
@@ -303,6 +309,12 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/6qfSXke7BoD7713u64CzrmKdZDR.jpg"
     },
     {
+      "title": "偶像禁愛令",
+      "tmdb_id": 1433087,
+      "matched_title": "偶像禁愛令",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8AfGaoFbOj8Gp8rkKFzi351F9qo.jpg"
+    },
+    {
       "title": "催眠麥克風",
       "tmdb_id": 1412811,
       "matched_title": "催眠麥克風",
@@ -325,12 +337,6 @@
       "tmdb_id": 1545621,
       "matched_title": "名偵探柯南：高速公路的墮天使",
       "poster_url": "https://image.tmdb.org/t/p/w500/vsre1rnZ9mA8Tb4Lejp1UbZ6ca9.jpg"
-    },
-    {
-      "title": "外賣(4K數位紀念版)",
-      "tmdb_id": null,
-      "matched_title": null,
-      "poster_url": null
     },
     {
       "title": "奧德賽",
@@ -360,7 +366,7 @@
       "title": "後室",
       "tmdb_id": 1083381,
       "matched_title": "後室",
-      "poster_url": "https://image.tmdb.org/t/p/w500/pV2RJV27vTK4jqUXiX2wutxy5ab.jpg"
+      "poster_url": "https://image.tmdb.org/t/p/w500/pDKcLjN9lZQpMkBshCxVwo8mKin.jpg"
     },
     {
       "title": "揭密日",
@@ -373,12 +379,6 @@
       "tmdb_id": 1706919,
       "matched_title": "攻殼機動隊 2026",
       "poster_url": "https://image.tmdb.org/t/p/w500/dtSrLSFuBgSXh3txUvMxGucA217.jpg"
-    },
-    {
-      "title": "新劇場版 銀魂 吉原大炎上",
-      "tmdb_id": 1530941,
-      "matched_title": "新劇場版 銀魂 -吉原大炎上-",
-      "poster_url": "https://image.tmdb.org/t/p/w500/nSNHGYHXDckxSxLsVithEX7hiuy.jpg"
     },
     {
       "title": "最後的我們",
@@ -397,12 +397,6 @@
       "tmdb_id": null,
       "matched_title": null,
       "poster_url": null
-    },
-    {
-      "title": "為一切人，成為一切",
-      "tmdb_id": 1682908,
-      "matched_title": "為一切人，成為一切",
-      "poster_url": "https://image.tmdb.org/t/p/w500/hS0NzRWzwsYxjOKuC3OfX1LGLMA.jpg"
     },
     {
       "title": "玩具總動員5",
