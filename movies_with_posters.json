@@ -39,10 +39,15 @@
     "matched_title": "名偵探柯南：高速公路的墮天使",
     "poster_url": "https://image.tmdb.org/t/p/w500/vsre1rnZ9mA8Tb4Lejp1UbZ6ca9.jpg"
   },
+  "夢的力量": {
+    "tmdb_id": 1401106,
+    "matched_title": "夢的力量",
+    "poster_url": "https://image.tmdb.org/t/p/w500/zZykzNty5NxEJThZpfg3XiuLT8j.jpg"
+  },
   "奧德賽": {
     "tmdb_id": 1368337,
     "matched_title": "奧德賽",
-    "poster_url": "https://image.tmdb.org/t/p/w500/d7MiRRamaAe58DacYEo2ZgziBBv.jpg"
+    "poster_url": "https://image.tmdb.org/t/p/w500/pQ7YpJJqa2Qxrjh0LCdiQxBdQ3P.jpg"
   },
   "小小兵&大怪獸": {
     "tmdb_id": 1315772,
@@ -78,6 +83,11 @@
     "tmdb_id": 1706919,
     "matched_title": "攻殼機動隊 2026",
     "poster_url": "https://image.tmdb.org/t/p/w500/dtSrLSFuBgSXh3txUvMxGucA217.jpg"
+  },
+  "新劇場版 銀魂 吉原大炎上": {
+    "tmdb_id": 1530941,
+    "matched_title": "新劇場版 銀魂 -吉原大炎上-",
+    "poster_url": "https://image.tmdb.org/t/p/w500/nSNHGYHXDckxSxLsVithEX7hiuy.jpg"
   },
   "新浪潮": {
     "tmdb_id": 1254808,
