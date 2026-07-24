@@ -4,30 +4,15 @@
     "matched_title": "世界的主人",
     "poster_url": "https://image.tmdb.org/t/p/w500/epHCB5QLM0TiTRLYYfoJUNkJ7kI.jpg"
   },
-  "人為什麼寫情書": {
-    "tmdb_id": 1593275,
-    "matched_title": "人為什麼寫情書",
-    "poster_url": "https://image.tmdb.org/t/p/w500/2TpyEaX3CxOZG98wIbnPxuCSifP.jpg"
-  },
-  "偶像禁愛令": {
-    "tmdb_id": 1433087,
-    "matched_title": "偶像禁愛令",
-    "poster_url": "https://image.tmdb.org/t/p/w500/8AfGaoFbOj8Gp8rkKFzi351F9qo.jpg"
-  },
   "催眠麥克風": {
     "tmdb_id": 1412811,
     "matched_title": "催眠麥克風",
     "poster_url": "https://image.tmdb.org/t/p/w500/uqN6xWv2gardy3WAhzCfu4imzFZ.jpg"
   },
-  "劇場版 境界的彼方 -I'LL BE HERE- 未來篇": {
-    "tmdb_id": 333622,
-    "matched_title": "劇場版 境界的彼方－I'LL BE HERE－未來篇",
-    "poster_url": "https://image.tmdb.org/t/p/w500/8AjCxD9Sg6OAXOAMfNVWnxhYaKE.jpg"
-  },
-  "劇場版 境界的彼方 -I'LL BE HERE- 過去篇": {
-    "tmdb_id": 311056,
-    "matched_title": "劇場版 境界的彼方－I'LL BE HERE－過去篇",
-    "poster_url": "https://image.tmdb.org/t/p/w500/z7RZrZDROuk0mgjvWYHIMRGB15l.jpg"
+  "再生家族": {
+    "tmdb_id": 1553969,
+    "matched_title": "再生家族",
+    "poster_url": "https://image.tmdb.org/t/p/w500/vfGgLfBmsLV2VEB8vFnc1ws1ifN.jpg"
   },
   "勇者傳奇": {
     "tmdb_id": 677561,
@@ -59,11 +44,6 @@
     "matched_title": "屍速禁區",
     "poster_url": "https://image.tmdb.org/t/p/w500/lu7TD4kt5g2qRkU0LRZXLwKMTTP.jpg"
   },
-  "幹夫狂想曲": {
-    "tmdb_id": 1657504,
-    "matched_title": "幹夫狂想曲",
-    "poster_url": "https://image.tmdb.org/t/p/w500/iqPjdsdnbIbGX1g1WJOqbX3d5nT.jpg"
-  },
   "後室": {
     "tmdb_id": 1083381,
     "matched_title": "後室",
@@ -74,90 +54,65 @@
     "matched_title": "揭密日",
     "poster_url": "https://image.tmdb.org/t/p/w500/2ce0xoPEjsKvc1HVPxftF29Rl73.jpg"
   },
-  "攻殼機動隊 2026": {
-    "tmdb_id": 1706919,
-    "matched_title": "攻殼機動隊 2026",
-    "poster_url": "https://image.tmdb.org/t/p/w500/dtSrLSFuBgSXh3txUvMxGucA217.jpg"
-  },
-  "新劇場版 銀魂 吉原大炎上": {
-    "tmdb_id": 1530941,
-    "matched_title": "新劇場版 銀魂 -吉原大炎上-",
-    "poster_url": "https://image.tmdb.org/t/p/w500/nSNHGYHXDckxSxLsVithEX7hiuy.jpg"
-  },
-  "新浪潮": {
-    "tmdb_id": 1254808,
-    "matched_title": "新浪潮",
-    "poster_url": "https://image.tmdb.org/t/p/w500/cqjnwiiFwlVk39m18axxXV3avjm.jpg"
-  },
   "最後的我們": {
     "tmdb_id": 1636593,
     "matched_title": "最後的我們",
     "poster_url": "https://image.tmdb.org/t/p/w500/qqriCnikIAA8cATHN2ewAn32Uw4.jpg"
   },
-  "極限返航": {
-    "tmdb_id": 687163,
-    "matched_title": "極限返航",
-    "poster_url": "https://image.tmdb.org/t/p/w500/jrubxFgThfkIU3lRjYFLGobYa8z.jpg"
+  "未來": {
+    "tmdb_id": 41535,
+    "matched_title": "未來警察",
+    "poster_url": "https://image.tmdb.org/t/p/w500/uDdJ36RM9iFuQU4gNeCtz40gMls.jpg"
   },
-  "火?鳥之鳴": {
-    "tmdb_id": 1530325,
-    "matched_title": "火喰鳥之鳴",
-    "poster_url": "https://image.tmdb.org/t/p/w500/7pJu6CtVT7vTkiXUvZFIQw4ldWg.jpg"
-  },
-  "為一切人，成為一切": {
-    "tmdb_id": 1682908,
-    "matched_title": "為一切人，成為一切",
-    "poster_url": "https://image.tmdb.org/t/p/w500/hS0NzRWzwsYxjOKuC3OfX1LGLMA.jpg"
+  "極鼠方程式": {
+    "tmdb_id": 1316147,
+    "matched_title": "極鼠方程式",
+    "poster_url": "https://image.tmdb.org/t/p/w500/vPzmbxUEGG5M0pxXMov8HEPDfgr.jpg"
   },
   "玩具總動員5": {
     "tmdb_id": 1084244,
     "matched_title": "玩具總動員5",
     "poster_url": "https://image.tmdb.org/t/p/w500/1vhjC7Ra5C6BPeZskeMz0WUmrnr.jpg"
   },
-  "穿著Prada的惡魔2": {
-    "tmdb_id": 1314481,
-    "matched_title": "穿著PRADA的惡魔2",
-    "poster_url": "https://image.tmdb.org/t/p/w500/pep61TOT2GJjT0ck2JbtMwIZNyJ.jpg"
-  },
   "航海王劇場版：紅髮歌姬": {
     "tmdb_id": 900667,
     "matched_title": "航海王：紅髮歌姬",
     "poster_url": "https://image.tmdb.org/t/p/w500/7BwSqu2nRRwHmMXhr72phz3Tv6w.jpg"
+  },
+  "航海王：阿拉巴斯坦戰記": {
+    "tmdb_id": 25278,
+    "matched_title": "航海王：阿拉巴斯坦戰記 沙漠王女與海賊們",
+    "poster_url": "https://image.tmdb.org/t/p/w500/jg25E9zI57mRR1K7qGQezb80s0D.jpg"
+  },
+  "赤身裸愛": {
+    "tmdb_id": 1281195,
+    "matched_title": "赤身裸愛",
+    "poster_url": "https://image.tmdb.org/t/p/w500/2oBbCmQ7ZK5IQK6hzmqdQ7y9Eqv.jpg"
   },
   "超少女": {
     "tmdb_id": 1081003,
     "matched_title": "超少女",
     "poster_url": "https://image.tmdb.org/t/p/w500/1yk2HwZrKcA18nYtli6X2doHtO5.jpg"
   },
-  "跟蹤": {
-    "tmdb_id": 37984,
-    "matched_title": "跟蹤",
-    "poster_url": "https://image.tmdb.org/t/p/w500/7dbbZ3l857CP4z1XPJHnPxaI7fJ.jpg"
+  "這年夏天，愛之尋謎": {
+    "tmdb_id": 1182861,
+    "matched_title": "這年夏天，愛之尋謎",
+    "poster_url": "https://image.tmdb.org/t/p/w500/svscmm7MZml1JqBMl62REnbxhjP.jpg"
   },
   "陽光女子合唱團": {
     "tmdb_id": 1481955,
     "matched_title": "陽光女子合唱團",
     "poster_url": "https://image.tmdb.org/t/p/w500/ww87zLgAK1I6DzZPL4Za13e8jpx.jpg"
   },
-  "驚聲尖笑6": {
-    "tmdb_id": 1273221,
-    "matched_title": "驚聲尖笑",
-    "poster_url": "https://image.tmdb.org/t/p/w500/oRXf8V8B3i80u3ZHmIOpRsKae0k.jpg"
-  },
-  "鬼上車": {
-    "tmdb_id": 1368314,
-    "matched_title": "鬼上車",
-    "poster_url": "https://image.tmdb.org/t/p/w500/wPWumCUIYvtzTbiZjn5B9Z3pPIQ.jpg"
+  "香巴拉物語": {
+    "tmdb_id": 1531435,
+    "matched_title": "香巴拉物語",
+    "poster_url": "https://image.tmdb.org/t/p/w500/aAv9Z8QENrhylCuTw8sOLDn6gkb.jpg"
   },
   "鬼侵身": {
     "tmdb_id": 1500890,
     "matched_title": "鬼侵身",
     "poster_url": "https://image.tmdb.org/t/p/w500/gd1pzqx2unb4juoie7hqXlLvKiZ.jpg"
-  },
-  "鬼囚": {
-    "tmdb_id": 1543151,
-    "matched_title": "鬼囚",
-    "poster_url": "https://image.tmdb.org/t/p/w500/A4KspE36QzEWZGyA0WbyWMZWzJ3.jpg"
   },
   "鬼汙": {
     "tmdb_id": 1417285,
