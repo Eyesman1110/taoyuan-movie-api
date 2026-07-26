@@ -183,12 +183,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/svscmm7MZml1JqBMl62REnbxhjP.jpg"
     },
     {
-      "title": "香巴拉物語",
-      "tmdb_id": 1531435,
-      "matched_title": "香巴拉物語",
-      "poster_url": "https://image.tmdb.org/t/p/w500/aAv9Z8QENrhylCuTw8sOLDn6gkb.jpg"
-    },
-    {
       "title": "魯冰花(數位修復版)",
       "tmdb_id": null,
       "matched_title": null,
@@ -327,12 +321,6 @@
       "poster_url": null
     },
     {
-      "title": "催眠麥克風",
-      "tmdb_id": 1412811,
-      "matched_title": "催眠麥克風",
-      "poster_url": "https://image.tmdb.org/t/p/w500/uqN6xWv2gardy3WAhzCfu4imzFZ.jpg"
-    },
-    {
       "title": "再生家族",
       "tmdb_id": 1553969,
       "matched_title": "再生家族",
@@ -379,6 +367,12 @@
       "tmdb_id": 1083381,
       "matched_title": "後室",
       "poster_url": "https://image.tmdb.org/t/p/w500/pDKcLjN9lZQpMkBshCxVwo8mKin.jpg"
+    },
+    {
+      "title": "揭密日",
+      "tmdb_id": 1275779,
+      "matched_title": "揭密日",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2ce0xoPEjsKvc1HVPxftF29Rl73.jpg"
     },
     {
       "title": "最後的我們",
