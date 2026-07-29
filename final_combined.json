@@ -31,18 +31,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/ul0dWExN1UXn5ktN7x4KKp5ISNr.jpg"
     },
     {
-      "title": "屍變焚場",
-      "tmdb_id": 1212763,
-      "matched_title": "屍變焚場",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ifwgHdNobcGGSnL3neGH4n5Y4WB.jpg"
-    },
-    {
-      "title": "屍速禁區",
-      "tmdb_id": 1375646,
-      "matched_title": "屍速禁區",
-      "poster_url": "https://image.tmdb.org/t/p/w500/9XHBlpDp9c60uNlhMyjMOymsCAn.jpg"
-    },
-    {
       "title": "極鼠方程式",
       "tmdb_id": 1316147,
       "matched_title": "極鼠方程式",
@@ -61,10 +49,10 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/1vhjC7Ra5C6BPeZskeMz0WUmrnr.jpg"
     },
     {
-      "title": "鬼汙",
-      "tmdb_id": 1417285,
-      "matched_title": "鬼汙",
-      "poster_url": "https://image.tmdb.org/t/p/w500/19ULSlHwnrl7u6bFLnE0gNfP3S.jpg"
+      "title": "蜘蛛人：重生日",
+      "tmdb_id": 969681,
+      "matched_title": "蜘蛛人：重生日",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2zO573CUiqm4QDuIPycE1d1GUYc.jpg"
     }
   ],
   "星橋國際影城": [
@@ -129,12 +117,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/pDKcLjN9lZQpMkBshCxVwo8mKin.jpg"
     },
     {
-      "title": "最後的我們",
-      "tmdb_id": 1636593,
-      "matched_title": "最後的我們",
-      "poster_url": "https://image.tmdb.org/t/p/w500/qqriCnikIAA8cATHN2ewAn32Uw4.jpg"
-    },
-    {
       "title": "極鼠方程式",
       "tmdb_id": 1316147,
       "matched_title": "極鼠方程式",
@@ -151,6 +133,12 @@
       "tmdb_id": 1084244,
       "matched_title": "玩具總動員5",
       "poster_url": "https://image.tmdb.org/t/p/w500/1vhjC7Ra5C6BPeZskeMz0WUmrnr.jpg"
+    },
+    {
+      "title": "蜘蛛人：重生日",
+      "tmdb_id": 969681,
+      "matched_title": "蜘蛛人：重生日",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2zO573CUiqm4QDuIPycE1d1GUYc.jpg"
     },
     {
       "title": "赤身裸愛",
@@ -227,16 +215,16 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/1vhjC7Ra5C6BPeZskeMz0WUmrnr.jpg"
     },
     {
+      "title": "蜘蛛人：重生日",
+      "tmdb_id": 969681,
+      "matched_title": "蜘蛛人：重生日",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2zO573CUiqm4QDuIPycE1d1GUYc.jpg"
+    },
+    {
       "title": "鬼汙",
       "tmdb_id": 1417285,
       "matched_title": "鬼汙",
       "poster_url": "https://image.tmdb.org/t/p/w500/19ULSlHwnrl7u6bFLnE0gNfP3S.jpg"
-    },
-    {
-      "title": "魯冰花(數位修復版)",
-      "tmdb_id": null,
-      "matched_title": null,
-      "poster_url": null
     }
   ],
   "國賓桃園八德": [
@@ -293,6 +281,12 @@
       "tmdb_id": 1084244,
       "matched_title": "玩具總動員5",
       "poster_url": "https://image.tmdb.org/t/p/w500/1vhjC7Ra5C6BPeZskeMz0WUmrnr.jpg"
+    },
+    {
+      "title": "蜘蛛人：重生日",
+      "tmdb_id": 969681,
+      "matched_title": "蜘蛛人：重生日",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2zO573CUiqm4QDuIPycE1d1GUYc.jpg"
     }
   ],
   "桃園統領威秀影城": [
@@ -301,12 +295,6 @@
       "tmdb_id": null,
       "matched_title": null,
       "poster_url": null
-    },
-    {
-      "title": "催眠麥克風",
-      "tmdb_id": 1412811,
-      "matched_title": "催眠麥克風",
-      "poster_url": "https://image.tmdb.org/t/p/w500/uqN6xWv2gardy3WAhzCfu4imzFZ.jpg"
     },
     {
       "title": "再生家族",
@@ -333,12 +321,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/ul0dWExN1UXn5ktN7x4KKp5ISNr.jpg"
     },
     {
-      "title": "屍變焚場",
-      "tmdb_id": 1212763,
-      "matched_title": "屍變焚場",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ifwgHdNobcGGSnL3neGH4n5Y4WB.jpg"
-    },
-    {
       "title": "屍速禁區",
       "tmdb_id": 1375646,
       "matched_title": "屍速禁區",
@@ -349,30 +331,6 @@
       "tmdb_id": 1083381,
       "matched_title": "後室",
       "poster_url": "https://image.tmdb.org/t/p/w500/pDKcLjN9lZQpMkBshCxVwo8mKin.jpg"
-    },
-    {
-      "title": "揭密日",
-      "tmdb_id": 1275779,
-      "matched_title": "揭密日",
-      "poster_url": "https://image.tmdb.org/t/p/w500/2ce0xoPEjsKvc1HVPxftF29Rl73.jpg"
-    },
-    {
-      "title": "最後的我們",
-      "tmdb_id": 1636593,
-      "matched_title": "最後的我們",
-      "poster_url": "https://image.tmdb.org/t/p/w500/qqriCnikIAA8cATHN2ewAn32Uw4.jpg"
-    },
-    {
-      "title": "未來",
-      "tmdb_id": 41535,
-      "matched_title": "未來警察",
-      "poster_url": "https://image.tmdb.org/t/p/w500/uDdJ36RM9iFuQU4gNeCtz40gMls.jpg"
-    },
-    {
-      "title": "極鼠方程式",
-      "tmdb_id": 1316147,
-      "matched_title": "極鼠方程式",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vPzmbxUEGG5M0pxXMov8HEPDfgr.jpg"
     },
     {
       "title": "海洋奇緣(真人版)",
@@ -399,16 +357,16 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/jg25E9zI57mRR1K7qGQezb80s0D.jpg"
     },
     {
+      "title": "蜘蛛人：重生日",
+      "tmdb_id": 969681,
+      "matched_title": "蜘蛛人：重生日",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2zO573CUiqm4QDuIPycE1d1GUYc.jpg"
+    },
+    {
       "title": "赤身裸愛",
       "tmdb_id": 1281195,
       "matched_title": "赤身裸愛",
       "poster_url": "https://image.tmdb.org/t/p/w500/2oBbCmQ7ZK5IQK6hzmqdQ7y9Eqv.jpg"
-    },
-    {
-      "title": "這年夏天，愛之尋謎",
-      "tmdb_id": 1182861,
-      "matched_title": "這年夏天，愛之尋謎",
-      "poster_url": "https://image.tmdb.org/t/p/w500/svscmm7MZml1JqBMl62REnbxhjP.jpg"
     },
     {
       "title": "陽光女子合唱團",
@@ -421,12 +379,6 @@
       "tmdb_id": 1531435,
       "matched_title": "香巴拉物語",
       "poster_url": "https://image.tmdb.org/t/p/w500/aAv9Z8QENrhylCuTw8sOLDn6gkb.jpg"
-    },
-    {
-      "title": "鬼侵身",
-      "tmdb_id": 1500890,
-      "matched_title": "鬼侵身",
-      "poster_url": "https://image.tmdb.org/t/p/w500/gd1pzqx2unb4juoie7hqXlLvKiZ.jpg"
     },
     {
       "title": "鬼汙",
@@ -442,6 +394,12 @@
     }
   ],
   "桃園站前in89豪華影城": [
+    {
+      "title": "你的名字。(十周年重映)",
+      "tmdb_id": null,
+      "matched_title": null,
+      "poster_url": null
+    },
     {
       "title": "再生家族",
       "tmdb_id": 1553969,
@@ -473,18 +431,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/ifwgHdNobcGGSnL3neGH4n5Y4WB.jpg"
     },
     {
-      "title": "屍速禁區",
-      "tmdb_id": 1375646,
-      "matched_title": "屍速禁區",
-      "poster_url": "https://image.tmdb.org/t/p/w500/9XHBlpDp9c60uNlhMyjMOymsCAn.jpg"
-    },
-    {
-      "title": "最後的我們",
-      "tmdb_id": 1636593,
-      "matched_title": "最後的我們",
-      "poster_url": "https://image.tmdb.org/t/p/w500/qqriCnikIAA8cATHN2ewAn32Uw4.jpg"
-    },
-    {
       "title": "極鼠方程式",
       "tmdb_id": 1316147,
       "matched_title": "極鼠方程式",
@@ -501,6 +447,12 @@
       "tmdb_id": 1084244,
       "matched_title": "玩具總動員5",
       "poster_url": "https://image.tmdb.org/t/p/w500/1vhjC7Ra5C6BPeZskeMz0WUmrnr.jpg"
+    },
+    {
+      "title": "蜘蛛人：重生日",
+      "tmdb_id": 969681,
+      "matched_title": "蜘蛛人：重生日",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2zO573CUiqm4QDuIPycE1d1GUYc.jpg"
     },
     {
       "title": "鬼侵身",
@@ -551,6 +503,12 @@
       "tmdb_id": 1084244,
       "matched_title": "玩具總動員5",
       "poster_url": "https://image.tmdb.org/t/p/w500/1vhjC7Ra5C6BPeZskeMz0WUmrnr.jpg"
+    },
+    {
+      "title": "蜘蛛人：重生日",
+      "tmdb_id": 969681,
+      "matched_title": "蜘蛛人：重生日",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2zO573CUiqm4QDuIPycE1d1GUYc.jpg"
     }
   ],
   "桃園新光影城": [
@@ -585,12 +543,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/ul0dWExN1UXn5ktN7x4KKp5ISNr.jpg"
     },
     {
-      "title": "屍變焚場",
-      "tmdb_id": 1212763,
-      "matched_title": "屍變焚場",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ifwgHdNobcGGSnL3neGH4n5Y4WB.jpg"
-    },
-    {
       "title": "海洋奇緣(真人版)",
       "tmdb_id": null,
       "matched_title": null,
@@ -615,10 +567,10 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/jg25E9zI57mRR1K7qGQezb80s0D.jpg"
     },
     {
-      "title": "魯冰花(數位修復版)",
-      "tmdb_id": null,
-      "matched_title": null,
-      "poster_url": null
+      "title": "蜘蛛人：重生日",
+      "tmdb_id": 969681,
+      "matched_title": "蜘蛛人：重生日",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2zO573CUiqm4QDuIPycE1d1GUYc.jpg"
     }
   ]
 }
