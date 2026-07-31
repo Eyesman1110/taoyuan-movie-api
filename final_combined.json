@@ -7,16 +7,22 @@
       "poster_url": null
     },
     {
-      "title": "再生家族",
-      "tmdb_id": 1553969,
-      "matched_title": "再生家族",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vfGgLfBmsLV2VEB8vFnc1ws1ifN.jpg"
+      "title": "劇場版 吉伊卡哇 人魚島的秘密",
+      "tmdb_id": 1586876,
+      "matched_title": "劇場版 吉伊卡哇 人魚島的秘密",
+      "poster_url": "https://image.tmdb.org/t/p/w500/AuScmbIwpqa12bwhorWEdo9LZX.jpg"
     },
     {
       "title": "名偵探柯南 高速公路的墮天使",
       "tmdb_id": 1545621,
       "matched_title": "名偵探柯南：高速公路的墮天使",
       "poster_url": "https://image.tmdb.org/t/p/w500/vsre1rnZ9mA8Tb4Lejp1UbZ6ca9.jpg"
+    },
+    {
+      "title": "天魔村",
+      "tmdb_id": 1391149,
+      "matched_title": "天魔村",
+      "poster_url": "https://image.tmdb.org/t/p/w500/aYqzI4EJYcjfrlyVcOKhArEHlT8.jpg"
     },
     {
       "title": "奧德賽",
@@ -29,12 +35,6 @@
       "tmdb_id": 1315772,
       "matched_title": "小小兵&大怪獸",
       "poster_url": "https://image.tmdb.org/t/p/w500/ul0dWExN1UXn5ktN7x4KKp5ISNr.jpg"
-    },
-    {
-      "title": "極鼠方程式",
-      "tmdb_id": 1316147,
-      "matched_title": "極鼠方程式",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vPzmbxUEGG5M0pxXMov8HEPDfgr.jpg"
     },
     {
       "title": "海洋奇緣(真人版)",
@@ -75,6 +75,12 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/vfGgLfBmsLV2VEB8vFnc1ws1ifN.jpg"
     },
     {
+      "title": "劇場版 吉伊卡哇 人魚島的秘密",
+      "tmdb_id": 1586876,
+      "matched_title": "劇場版 吉伊卡哇 人魚島的秘密",
+      "poster_url": "https://image.tmdb.org/t/p/w500/AuScmbIwpqa12bwhorWEdo9LZX.jpg"
+    },
+    {
       "title": "勇者傳奇",
       "tmdb_id": 677561,
       "matched_title": "勇者傳奇",
@@ -85,6 +91,12 @@
       "tmdb_id": 1545621,
       "matched_title": "名偵探柯南：高速公路的墮天使",
       "poster_url": "https://image.tmdb.org/t/p/w500/vsre1rnZ9mA8Tb4Lejp1UbZ6ca9.jpg"
+    },
+    {
+      "title": "天魔村",
+      "tmdb_id": 1391149,
+      "matched_title": "天魔村",
+      "poster_url": "https://image.tmdb.org/t/p/w500/aYqzI4EJYcjfrlyVcOKhArEHlT8.jpg"
     },
     {
       "title": "奧德賽",
@@ -103,18 +115,6 @@
       "tmdb_id": 1212763,
       "matched_title": "屍變焚場",
       "poster_url": "https://image.tmdb.org/t/p/w500/ifwgHdNobcGGSnL3neGH4n5Y4WB.jpg"
-    },
-    {
-      "title": "屍速禁區",
-      "tmdb_id": 1375646,
-      "matched_title": "屍速禁區",
-      "poster_url": "https://image.tmdb.org/t/p/w500/9XHBlpDp9c60uNlhMyjMOymsCAn.jpg"
-    },
-    {
-      "title": "後室",
-      "tmdb_id": 1083381,
-      "matched_title": "後室",
-      "poster_url": "https://image.tmdb.org/t/p/w500/pDKcLjN9lZQpMkBshCxVwo8mKin.jpg"
     },
     {
       "title": "極鼠方程式",
@@ -135,6 +135,12 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/1vhjC7Ra5C6BPeZskeMz0WUmrnr.jpg"
     },
     {
+      "title": "空之境界劇場版：未來福音",
+      "tmdb_id": 212156,
+      "matched_title": "空之境界 未來福音",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pGqY3fWs0f5Yg60hUzq1Qkv9Rf1.jpg"
+    },
+    {
       "title": "蜘蛛人：重生日",
       "tmdb_id": 969681,
       "matched_title": "蜘蛛人：重生日",
@@ -147,10 +153,10 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/2oBbCmQ7ZK5IQK6hzmqdQ7y9Eqv.jpg"
     },
     {
-      "title": "超少女",
-      "tmdb_id": 1081003,
-      "matched_title": "超少女",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rJbcrmogANaj9CEMDUjauUdnq9f.jpg"
+      "title": "這年夏天，愛之尋謎",
+      "tmdb_id": 1182861,
+      "matched_title": "這年夏天，愛之尋謎",
+      "poster_url": "https://image.tmdb.org/t/p/w500/svscmm7MZml1JqBMl62REnbxhjP.jpg"
     },
     {
       "title": "香巴拉物語",
@@ -166,6 +172,12 @@
     }
   ],
   "威尼斯影城": [
+    {
+      "title": "劇場版 吉伊卡哇 人魚島的秘密",
+      "tmdb_id": 1586876,
+      "matched_title": "劇場版 吉伊卡哇 人魚島的秘密",
+      "poster_url": "https://image.tmdb.org/t/p/w500/AuScmbIwpqa12bwhorWEdo9LZX.jpg"
+    },
     {
       "title": "名偵探柯南 高速公路的墮天使",
       "tmdb_id": 1545621,
@@ -183,18 +195,6 @@
       "tmdb_id": 1315772,
       "matched_title": "小小兵&大怪獸",
       "poster_url": "https://image.tmdb.org/t/p/w500/ul0dWExN1UXn5ktN7x4KKp5ISNr.jpg"
-    },
-    {
-      "title": "屍變焚場",
-      "tmdb_id": 1212763,
-      "matched_title": "屍變焚場",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ifwgHdNobcGGSnL3neGH4n5Y4WB.jpg"
-    },
-    {
-      "title": "極鼠方程式",
-      "tmdb_id": 1316147,
-      "matched_title": "極鼠方程式",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vPzmbxUEGG5M0pxXMov8HEPDfgr.jpg"
     },
     {
       "title": "海洋奇緣(真人版)",
@@ -235,10 +235,22 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/vfGgLfBmsLV2VEB8vFnc1ws1ifN.jpg"
     },
     {
+      "title": "劇場版 吉伊卡哇 人魚島的秘密",
+      "tmdb_id": 1586876,
+      "matched_title": "劇場版 吉伊卡哇 人魚島的秘密",
+      "poster_url": "https://image.tmdb.org/t/p/w500/AuScmbIwpqa12bwhorWEdo9LZX.jpg"
+    },
+    {
       "title": "名偵探柯南 高速公路的墮天使",
       "tmdb_id": 1545621,
       "matched_title": "名偵探柯南：高速公路的墮天使",
       "poster_url": "https://image.tmdb.org/t/p/w500/vsre1rnZ9mA8Tb4Lejp1UbZ6ca9.jpg"
+    },
+    {
+      "title": "天魔村",
+      "tmdb_id": 1391149,
+      "matched_title": "天魔村",
+      "poster_url": "https://image.tmdb.org/t/p/w500/aYqzI4EJYcjfrlyVcOKhArEHlT8.jpg"
     },
     {
       "title": "奧德賽",
@@ -251,18 +263,6 @@
       "tmdb_id": 1315772,
       "matched_title": "小小兵&大怪獸",
       "poster_url": "https://image.tmdb.org/t/p/w500/ul0dWExN1UXn5ktN7x4KKp5ISNr.jpg"
-    },
-    {
-      "title": "屍變焚場",
-      "tmdb_id": 1212763,
-      "matched_title": "屍變焚場",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ifwgHdNobcGGSnL3neGH4n5Y4WB.jpg"
-    },
-    {
-      "title": "屍速禁區",
-      "tmdb_id": 1375646,
-      "matched_title": "屍速禁區",
-      "poster_url": "https://image.tmdb.org/t/p/w500/9XHBlpDp9c60uNlhMyjMOymsCAn.jpg"
     },
     {
       "title": "海洋奇緣(真人版)",
@@ -297,10 +297,22 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/vfGgLfBmsLV2VEB8vFnc1ws1ifN.jpg"
     },
     {
+      "title": "劇場版 吉伊卡哇 人魚島的秘密",
+      "tmdb_id": 1586876,
+      "matched_title": "劇場版 吉伊卡哇 人魚島的秘密",
+      "poster_url": "https://image.tmdb.org/t/p/w500/AuScmbIwpqa12bwhorWEdo9LZX.jpg"
+    },
+    {
       "title": "名偵探柯南 高速公路的墮天使",
       "tmdb_id": 1545621,
       "matched_title": "名偵探柯南：高速公路的墮天使",
       "poster_url": "https://image.tmdb.org/t/p/w500/vsre1rnZ9mA8Tb4Lejp1UbZ6ca9.jpg"
+    },
+    {
+      "title": "壞痞子(4K修復版)",
+      "tmdb_id": null,
+      "matched_title": null,
+      "poster_url": null
     },
     {
       "title": "奧德賽",
@@ -327,12 +339,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/pDKcLjN9lZQpMkBshCxVwo8mKin.jpg"
     },
     {
-      "title": "未來",
-      "tmdb_id": 41535,
-      "matched_title": "未來警察",
-      "poster_url": "https://image.tmdb.org/t/p/w500/uDdJ36RM9iFuQU4gNeCtz40gMls.jpg"
-    },
-    {
       "title": "海洋奇緣(真人版)",
       "tmdb_id": null,
       "matched_title": null,
@@ -345,10 +351,22 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/1vhjC7Ra5C6BPeZskeMz0WUmrnr.jpg"
     },
     {
+      "title": "空之境界劇場版：未來福音",
+      "tmdb_id": 212156,
+      "matched_title": "空之境界 未來福音",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pGqY3fWs0f5Yg60hUzq1Qkv9Rf1.jpg"
+    },
+    {
       "title": "航海王劇場版：紅髮歌姬",
       "tmdb_id": 900667,
       "matched_title": "航海王：紅髮歌姬",
       "poster_url": "https://image.tmdb.org/t/p/w500/7BwSqu2nRRwHmMXhr72phz3Tv6w.jpg"
+    },
+    {
+      "title": "航海王劇場版：被詛咒的聖劍",
+      "tmdb_id": 44728,
+      "matched_title": "航海王：被詛咒的聖劍",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kmhlVZQ6r9c9xU906Q6UZVYabhj.jpg"
     },
     {
       "title": "航海王：阿拉巴斯坦戰記",
@@ -363,28 +381,10 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/2zO573CUiqm4QDuIPycE1d1GUYc.jpg"
     },
     {
-      "title": "這年夏天，愛之尋謎",
-      "tmdb_id": 1182861,
-      "matched_title": "這年夏天，愛之尋謎",
-      "poster_url": "https://image.tmdb.org/t/p/w500/svscmm7MZml1JqBMl62REnbxhjP.jpg"
-    },
-    {
-      "title": "陽光女子合唱團",
-      "tmdb_id": 1481955,
-      "matched_title": "陽光女子合唱團",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ww87zLgAK1I6DzZPL4Za13e8jpx.jpg"
-    },
-    {
       "title": "鬼汙",
       "tmdb_id": 1417285,
       "matched_title": "鬼汙",
       "poster_url": "https://image.tmdb.org/t/p/w500/19ULSlHwnrl7u6bFLnE0gNfP3S.jpg"
-    },
-    {
-      "title": "魯冰花(數位修復版)",
-      "tmdb_id": null,
-      "matched_title": null,
-      "poster_url": null
     }
   ],
   "桃園站前in89豪華影城": [
@@ -401,10 +401,22 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/vfGgLfBmsLV2VEB8vFnc1ws1ifN.jpg"
     },
     {
+      "title": "劇場版 吉伊卡哇 人魚島的秘密",
+      "tmdb_id": 1586876,
+      "matched_title": "劇場版 吉伊卡哇 人魚島的秘密",
+      "poster_url": "https://image.tmdb.org/t/p/w500/AuScmbIwpqa12bwhorWEdo9LZX.jpg"
+    },
+    {
       "title": "名偵探柯南 高速公路的墮天使",
       "tmdb_id": 1545621,
       "matched_title": "名偵探柯南：高速公路的墮天使",
       "poster_url": "https://image.tmdb.org/t/p/w500/vsre1rnZ9mA8Tb4Lejp1UbZ6ca9.jpg"
+    },
+    {
+      "title": "天魔村",
+      "tmdb_id": 1391149,
+      "matched_title": "天魔村",
+      "poster_url": "https://image.tmdb.org/t/p/w500/aYqzI4EJYcjfrlyVcOKhArEHlT8.jpg"
     },
     {
       "title": "奧德賽",
@@ -469,6 +481,12 @@
   ],
   "桃園桃知道威秀影城": [
     {
+      "title": "劇場版 吉伊卡哇 人魚島的秘密",
+      "tmdb_id": 1586876,
+      "matched_title": "劇場版 吉伊卡哇 人魚島的秘密",
+      "poster_url": "https://image.tmdb.org/t/p/w500/AuScmbIwpqa12bwhorWEdo9LZX.jpg"
+    },
+    {
       "title": "名偵探柯南 高速公路的墮天使",
       "tmdb_id": 1545621,
       "matched_title": "名偵探柯南：高速公路的墮天使",
@@ -507,16 +525,22 @@
       "poster_url": null
     },
     {
-      "title": "再生家族",
-      "tmdb_id": 1553969,
-      "matched_title": "再生家族",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vfGgLfBmsLV2VEB8vFnc1ws1ifN.jpg"
+      "title": "劇場版 吉伊卡哇 人魚島的秘密",
+      "tmdb_id": 1586876,
+      "matched_title": "劇場版 吉伊卡哇 人魚島的秘密",
+      "poster_url": "https://image.tmdb.org/t/p/w500/AuScmbIwpqa12bwhorWEdo9LZX.jpg"
     },
     {
       "title": "名偵探柯南 高速公路的墮天使",
       "tmdb_id": 1545621,
       "matched_title": "名偵探柯南：高速公路的墮天使",
       "poster_url": "https://image.tmdb.org/t/p/w500/vsre1rnZ9mA8Tb4Lejp1UbZ6ca9.jpg"
+    },
+    {
+      "title": "天魔村",
+      "tmdb_id": 1391149,
+      "matched_title": "天魔村",
+      "poster_url": "https://image.tmdb.org/t/p/w500/aYqzI4EJYcjfrlyVcOKhArEHlT8.jpg"
     },
     {
       "title": "奧德賽",
@@ -543,16 +567,16 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/1vhjC7Ra5C6BPeZskeMz0WUmrnr.jpg"
     },
     {
-      "title": "航海王劇場版：紅髮歌姬",
-      "tmdb_id": 900667,
-      "matched_title": "航海王：紅髮歌姬",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7BwSqu2nRRwHmMXhr72phz3Tv6w.jpg"
+      "title": "空之境界劇場版：未來福音",
+      "tmdb_id": 212156,
+      "matched_title": "空之境界 未來福音",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pGqY3fWs0f5Yg60hUzq1Qkv9Rf1.jpg"
     },
     {
-      "title": "航海王：阿拉巴斯坦戰記",
-      "tmdb_id": 25278,
-      "matched_title": "航海王：阿拉巴斯坦戰記 沙漠王女與海賊們",
-      "poster_url": "https://image.tmdb.org/t/p/w500/jg25E9zI57mRR1K7qGQezb80s0D.jpg"
+      "title": "航海王劇場版：被詛咒的聖劍",
+      "tmdb_id": 44728,
+      "matched_title": "航海王：被詛咒的聖劍",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kmhlVZQ6r9c9xU906Q6UZVYabhj.jpg"
     },
     {
       "title": "蜘蛛人：重生日",

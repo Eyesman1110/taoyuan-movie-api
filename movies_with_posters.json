@@ -9,6 +9,11 @@
     "matched_title": "再生家族",
     "poster_url": "https://image.tmdb.org/t/p/w500/vfGgLfBmsLV2VEB8vFnc1ws1ifN.jpg"
   },
+  "劇場版 吉伊卡哇 人魚島的秘密": {
+    "tmdb_id": 1586876,
+    "matched_title": "劇場版 吉伊卡哇 人魚島的秘密",
+    "poster_url": "https://image.tmdb.org/t/p/w500/AuScmbIwpqa12bwhorWEdo9LZX.jpg"
+  },
   "勇者傳奇": {
     "tmdb_id": 677561,
     "matched_title": "勇者傳奇",
@@ -18,6 +23,11 @@
     "tmdb_id": 1545621,
     "matched_title": "名偵探柯南：高速公路的墮天使",
     "poster_url": "https://image.tmdb.org/t/p/w500/vsre1rnZ9mA8Tb4Lejp1UbZ6ca9.jpg"
+  },
+  "天魔村": {
+    "tmdb_id": 1391149,
+    "matched_title": "天魔村",
+    "poster_url": "https://image.tmdb.org/t/p/w500/aYqzI4EJYcjfrlyVcOKhArEHlT8.jpg"
   },
   "奧德賽": {
     "tmdb_id": 1368337,
@@ -44,11 +54,6 @@
     "matched_title": "後室",
     "poster_url": "https://image.tmdb.org/t/p/w500/pDKcLjN9lZQpMkBshCxVwo8mKin.jpg"
   },
-  "未來": {
-    "tmdb_id": 41535,
-    "matched_title": "未來警察",
-    "poster_url": "https://image.tmdb.org/t/p/w500/uDdJ36RM9iFuQU4gNeCtz40gMls.jpg"
-  },
   "極鼠方程式": {
     "tmdb_id": 1316147,
     "matched_title": "極鼠方程式",
@@ -59,10 +64,20 @@
     "matched_title": "玩具總動員5",
     "poster_url": "https://image.tmdb.org/t/p/w500/1vhjC7Ra5C6BPeZskeMz0WUmrnr.jpg"
   },
+  "空之境界劇場版：未來福音": {
+    "tmdb_id": 212156,
+    "matched_title": "空之境界 未來福音",
+    "poster_url": "https://image.tmdb.org/t/p/w500/pGqY3fWs0f5Yg60hUzq1Qkv9Rf1.jpg"
+  },
   "航海王劇場版：紅髮歌姬": {
     "tmdb_id": 900667,
     "matched_title": "航海王：紅髮歌姬",
     "poster_url": "https://image.tmdb.org/t/p/w500/7BwSqu2nRRwHmMXhr72phz3Tv6w.jpg"
+  },
+  "航海王劇場版：被詛咒的聖劍": {
+    "tmdb_id": 44728,
+    "matched_title": "航海王：被詛咒的聖劍",
+    "poster_url": "https://image.tmdb.org/t/p/w500/kmhlVZQ6r9c9xU906Q6UZVYabhj.jpg"
   },
   "航海王：阿拉巴斯坦戰記": {
     "tmdb_id": 25278,
@@ -79,20 +94,10 @@
     "matched_title": "赤身裸愛",
     "poster_url": "https://image.tmdb.org/t/p/w500/2oBbCmQ7ZK5IQK6hzmqdQ7y9Eqv.jpg"
   },
-  "超少女": {
-    "tmdb_id": 1081003,
-    "matched_title": "超少女",
-    "poster_url": "https://image.tmdb.org/t/p/w500/rJbcrmogANaj9CEMDUjauUdnq9f.jpg"
-  },
   "這年夏天，愛之尋謎": {
     "tmdb_id": 1182861,
     "matched_title": "這年夏天，愛之尋謎",
     "poster_url": "https://image.tmdb.org/t/p/w500/svscmm7MZml1JqBMl62REnbxhjP.jpg"
-  },
-  "陽光女子合唱團": {
-    "tmdb_id": 1481955,
-    "matched_title": "陽光女子合唱團",
-    "poster_url": "https://image.tmdb.org/t/p/w500/ww87zLgAK1I6DzZPL4Za13e8jpx.jpg"
   },
   "香巴拉物語": {
     "tmdb_id": 1531435,
