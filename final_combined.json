@@ -81,12 +81,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/AuScmbIwpqa12bwhorWEdo9LZX.jpg"
     },
     {
-      "title": "勇者傳奇",
-      "tmdb_id": 677561,
-      "matched_title": "勇者傳奇",
-      "poster_url": "https://image.tmdb.org/t/p/w500/sDqTM5ipAP4xwbX0RrFa6xwkBm3.jpg"
-    },
-    {
       "title": "名偵探柯南 高速公路的墮天使",
       "tmdb_id": 1545621,
       "matched_title": "名偵探柯南：高速公路的墮天使",
@@ -309,10 +303,10 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/vsre1rnZ9mA8Tb4Lejp1UbZ6ca9.jpg"
     },
     {
-      "title": "壞痞子(4K修復版)",
-      "tmdb_id": null,
-      "matched_title": null,
-      "poster_url": null
+      "title": "天魔村",
+      "tmdb_id": 1391149,
+      "matched_title": "天魔村",
+      "poster_url": "https://image.tmdb.org/t/p/w500/aYqzI4EJYcjfrlyVcOKhArEHlT8.jpg"
     },
     {
       "title": "奧德賽",
@@ -385,6 +379,12 @@
       "tmdb_id": 1417285,
       "matched_title": "鬼汙",
       "poster_url": "https://image.tmdb.org/t/p/w500/19ULSlHwnrl7u6bFLnE0gNfP3S.jpg"
+    },
+    {
+      "title": "魯冰花(數位修復版)",
+      "tmdb_id": null,
+      "matched_title": null,
+      "poster_url": null
     }
   ],
   "桃園站前in89豪華影城": [
@@ -503,12 +503,6 @@
       "tmdb_id": 1315772,
       "matched_title": "小小兵&大怪獸",
       "poster_url": "https://image.tmdb.org/t/p/w500/ul0dWExN1UXn5ktN7x4KKp5ISNr.jpg"
-    },
-    {
-      "title": "玩具總動員5",
-      "tmdb_id": 1084244,
-      "matched_title": "玩具總動員5",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1vhjC7Ra5C6BPeZskeMz0WUmrnr.jpg"
     },
     {
       "title": "蜘蛛人：重生日",
