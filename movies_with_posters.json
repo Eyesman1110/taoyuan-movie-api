@@ -1,9 +1,4 @@
 {
-  "世界的主人": {
-    "tmdb_id": 1317512,
-    "matched_title": "世界的主人",
-    "poster_url": "https://image.tmdb.org/t/p/w500/epHCB5QLM0TiTRLYYfoJUNkJ7kI.jpg"
-  },
   "再生家族": {
     "tmdb_id": 1553969,
     "matched_title": "再生家族",
@@ -13,6 +8,11 @@
     "tmdb_id": 1586876,
     "matched_title": "劇場版 吉伊卡哇 人魚島的秘密",
     "poster_url": "https://image.tmdb.org/t/p/w500/AuScmbIwpqa12bwhorWEdo9LZX.jpg"
+  },
+  "勇者傳奇": {
+    "tmdb_id": 677561,
+    "matched_title": "勇者傳奇",
+    "poster_url": "https://image.tmdb.org/t/p/w500/sDqTM5ipAP4xwbX0RrFa6xwkBm3.jpg"
   },
   "名偵探柯南 高速公路的墮天使": {
     "tmdb_id": 1545621,
@@ -83,11 +83,6 @@
     "tmdb_id": 969681,
     "matched_title": "蜘蛛人：重生日",
     "poster_url": "https://image.tmdb.org/t/p/w500/2zO573CUiqm4QDuIPycE1d1GUYc.jpg"
-  },
-  "赤身裸愛": {
-    "tmdb_id": 1281195,
-    "matched_title": "赤身裸愛",
-    "poster_url": "https://image.tmdb.org/t/p/w500/2oBbCmQ7ZK5IQK6hzmqdQ7y9Eqv.jpg"
   },
   "這年夏天，愛之尋謎": {
     "tmdb_id": 1182861,
