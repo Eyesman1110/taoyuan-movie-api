@@ -57,6 +57,12 @@
   ],
   "星橋國際影城": [
     {
+      "title": "世界的主人",
+      "tmdb_id": 1317512,
+      "matched_title": "世界的主人",
+      "poster_url": "https://image.tmdb.org/t/p/w500/epHCB5QLM0TiTRLYYfoJUNkJ7kI.jpg"
+    },
+    {
       "title": "你的名字。(十周年重映)",
       "tmdb_id": null,
       "matched_title": null,
@@ -139,6 +145,12 @@
       "tmdb_id": 969681,
       "matched_title": "蜘蛛人：重生日",
       "poster_url": "https://image.tmdb.org/t/p/w500/2zO573CUiqm4QDuIPycE1d1GUYc.jpg"
+    },
+    {
+      "title": "赤身裸愛",
+      "tmdb_id": 1281195,
+      "matched_title": "赤身裸愛",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2oBbCmQ7ZK5IQK6hzmqdQ7y9Eqv.jpg"
     },
     {
       "title": "這年夏天，愛之尋謎",
@@ -279,6 +291,12 @@
       "poster_url": null
     },
     {
+      "title": "再生家族",
+      "tmdb_id": 1553969,
+      "matched_title": "再生家族",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vfGgLfBmsLV2VEB8vFnc1ws1ifN.jpg"
+    },
+    {
       "title": "劇場版 吉伊卡哇 人魚島的秘密",
       "tmdb_id": 1586876,
       "matched_title": "劇場版 吉伊卡哇 人魚島的秘密",
@@ -291,10 +309,10 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/vsre1rnZ9mA8Tb4Lejp1UbZ6ca9.jpg"
     },
     {
-      "title": "壞痞子(4K修復版)",
-      "tmdb_id": null,
-      "matched_title": null,
-      "poster_url": null
+      "title": "天魔村",
+      "tmdb_id": 1391149,
+      "matched_title": "天魔村",
+      "poster_url": "https://image.tmdb.org/t/p/w500/aYqzI4EJYcjfrlyVcOKhArEHlT8.jpg"
     },
     {
       "title": "奧德賽",
@@ -485,6 +503,12 @@
       "tmdb_id": 1368337,
       "matched_title": "奧德賽",
       "poster_url": "https://image.tmdb.org/t/p/w500/pQ7YpJJqa2Qxrjh0LCdiQxBdQ3P.jpg"
+    },
+    {
+      "title": "小小兵&大怪獸",
+      "tmdb_id": 1315772,
+      "matched_title": "小小兵&大怪獸",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ul0dWExN1UXn5ktN7x4KKp5ISNr.jpg"
     },
     {
       "title": "玩具總動員5",
