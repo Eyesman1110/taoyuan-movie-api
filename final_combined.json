@@ -69,12 +69,6 @@
       "poster_url": null
     },
     {
-      "title": "再生家族",
-      "tmdb_id": 1553969,
-      "matched_title": "再生家族",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vfGgLfBmsLV2VEB8vFnc1ws1ifN.jpg"
-    },
-    {
       "title": "劇場版 吉伊卡哇 人魚島的秘密",
       "tmdb_id": 1586876,
       "matched_title": "劇場版 吉伊卡哇 人魚島的秘密",
@@ -285,6 +279,12 @@
   ],
   "桃園統領威秀影城": [
     {
+      "title": "ATEEZ VR CONCERT LIGHT THE WAY",
+      "tmdb_id": null,
+      "matched_title": null,
+      "poster_url": null
+    },
+    {
       "title": "你的名字。(十周年重映)",
       "tmdb_id": null,
       "matched_title": null,
@@ -309,10 +309,10 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/vsre1rnZ9mA8Tb4Lejp1UbZ6ca9.jpg"
     },
     {
-      "title": "天魔村",
-      "tmdb_id": 1391149,
-      "matched_title": "天魔村",
-      "poster_url": "https://image.tmdb.org/t/p/w500/aYqzI4EJYcjfrlyVcOKhArEHlT8.jpg"
+      "title": "壞痞子(4K修復版)",
+      "tmdb_id": null,
+      "matched_title": null,
+      "poster_url": null
     },
     {
       "title": "奧德賽",
