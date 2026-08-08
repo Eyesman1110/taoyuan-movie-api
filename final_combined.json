@@ -273,12 +273,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/vsre1rnZ9mA8Tb4Lejp1UbZ6ca9.jpg"
     },
     {
-      "title": "喵喵博物館",
-      "tmdb_id": 923579,
-      "matched_title": "喵喵博物館",
-      "poster_url": "https://image.tmdb.org/t/p/w500/apfR43aBtGzeQqvUy7nI0YvpsR6.jpg"
-    },
-    {
       "title": "奧德賽",
       "tmdb_id": 1368337,
       "matched_title": "奧德賽",
@@ -291,6 +285,24 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/ul0dWExN1UXn5ktN7x4KKp5ISNr.jpg"
     },
     {
+      "title": "屍速禁區",
+      "tmdb_id": 1375646,
+      "matched_title": "屍速禁區",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9XHBlpDp9c60uNlhMyjMOymsCAn.jpg"
+    },
+    {
+      "title": "幸福的拉札洛",
+      "tmdb_id": 481432,
+      "matched_title": "幸福的拉札洛",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jwPwk6csZnDLrgvNuDR76LDv7op.jpg"
+    },
+    {
+      "title": "後室",
+      "tmdb_id": 1083381,
+      "matched_title": "後室",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pDKcLjN9lZQpMkBshCxVwo8mKin.jpg"
+    },
+    {
       "title": "愛你致死不渝",
       "tmdb_id": 1339713,
       "matched_title": "愛你致死不渝",
@@ -301,6 +313,12 @@
       "tmdb_id": 1227739,
       "matched_title": "我們要回家",
       "poster_url": "https://image.tmdb.org/t/p/w500/zwRYIC2MsTiLFK2xiXrs76ORex5.jpg"
+    },
+    {
+      "title": "日麗",
+      "tmdb_id": 965150,
+      "matched_title": "日麗",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gbyvMqJevAYazjWISGxLnZ8PobY.jpg"
     },
     {
       "title": "明日的過客",
@@ -339,10 +357,10 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/tbUaqYEUArfPppJ14Tgvr5D1tlS.jpg"
     },
     {
-      "title": "陰錯陽差愛上你",
-      "tmdb_id": 1166170,
-      "matched_title": "陰錯陽差愛上你",
-      "poster_url": "https://image.tmdb.org/t/p/w500/A6ovwEU1ZTtZ8iXOuqTgLOaTMlW.jpg"
+      "title": "鬼汙",
+      "tmdb_id": 1417285,
+      "matched_title": "鬼汙",
+      "poster_url": "https://image.tmdb.org/t/p/w500/19ULSlHwnrl7u6bFLnE0gNfP3S.jpg"
     },
     {
       "title": "魯冰花(數位修復版)",
@@ -352,12 +370,6 @@
     }
   ],
   "桃園站前in89豪華影城": [
-    {
-      "title": "你的名字。(十周年重映)",
-      "tmdb_id": null,
-      "matched_title": null,
-      "poster_url": null
-    },
     {
       "title": "劇場版 吉伊卡哇 人魚島的秘密",
       "tmdb_id": 1586876,
@@ -405,6 +417,12 @@
       "tmdb_id": 1667685,
       "matched_title": "血鬼村",
       "poster_url": "https://image.tmdb.org/t/p/w500/tbUaqYEUArfPppJ14Tgvr5D1tlS.jpg"
+    },
+    {
+      "title": "魯冰花(數位修復版)",
+      "tmdb_id": null,
+      "matched_title": null,
+      "poster_url": null
     }
   ],
   "桃園桃知道威秀影城": [
@@ -477,10 +495,10 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/1vhjC7Ra5C6BPeZskeMz0WUmrnr.jpg"
     },
     {
-      "title": "航海王劇場版：被詛咒的聖劍",
-      "tmdb_id": 44728,
-      "matched_title": "航海王：被詛咒的聖劍",
-      "poster_url": "https://image.tmdb.org/t/p/w500/kmhlVZQ6r9c9xU906Q6UZVYabhj.jpg"
+      "title": "空之境界劇場版：未來福音",
+      "tmdb_id": 212156,
+      "matched_title": "空之境界 未來福音",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pGqY3fWs0f5Yg60hUzq1Qkv9Rf1.jpg"
     },
     {
       "title": "蜘蛛人：重生日",
