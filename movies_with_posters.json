@@ -14,11 +14,6 @@
     "matched_title": "名偵探柯南：高速公路的墮天使",
     "poster_url": "https://image.tmdb.org/t/p/w500/vsre1rnZ9mA8Tb4Lejp1UbZ6ca9.jpg"
   },
-  "喵喵博物館": {
-    "tmdb_id": 923579,
-    "matched_title": "喵喵博物館",
-    "poster_url": "https://image.tmdb.org/t/p/w500/apfR43aBtGzeQqvUy7nI0YvpsR6.jpg"
-  },
   "天魔村": {
     "tmdb_id": 1391149,
     "matched_title": "天魔村",
@@ -59,11 +54,6 @@
     "matched_title": "我們要回家",
     "poster_url": "https://image.tmdb.org/t/p/w500/zwRYIC2MsTiLFK2xiXrs76ORex5.jpg"
   },
-  "日麗": {
-    "tmdb_id": 965150,
-    "matched_title": "日麗",
-    "poster_url": "https://image.tmdb.org/t/p/w500/gbyvMqJevAYazjWISGxLnZ8PobY.jpg"
-  },
   "明日的過客": {
     "tmdb_id": 1537151,
     "matched_title": "明日的過客",
@@ -79,11 +69,6 @@
     "matched_title": "空之境界 未來福音",
     "poster_url": "https://image.tmdb.org/t/p/w500/pGqY3fWs0f5Yg60hUzq1Qkv9Rf1.jpg"
   },
-  "航海王劇場版：被詛咒的聖劍": {
-    "tmdb_id": 44728,
-    "matched_title": "航海王：被詛咒的聖劍",
-    "poster_url": "https://image.tmdb.org/t/p/w500/kmhlVZQ6r9c9xU906Q6UZVYabhj.jpg"
-  },
   "蜘蛛人：重生日": {
     "tmdb_id": 969681,
     "matched_title": "蜘蛛人：重生日",
@@ -98,5 +83,10 @@
     "tmdb_id": 1166170,
     "matched_title": "陰錯陽差愛上你",
     "poster_url": "https://image.tmdb.org/t/p/w500/A6ovwEU1ZTtZ8iXOuqTgLOaTMlW.jpg"
+  },
+  "鬼汙": {
+    "tmdb_id": 1417285,
+    "matched_title": "鬼汙",
+    "poster_url": "https://image.tmdb.org/t/p/w500/19ULSlHwnrl7u6bFLnE0gNfP3S.jpg"
   }
 }
