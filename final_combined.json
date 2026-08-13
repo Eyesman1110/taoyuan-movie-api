@@ -7,12 +7,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/AuScmbIwpqa12bwhorWEdo9LZX.jpg"
     },
     {
-      "title": "名偵探柯南 高速公路的墮天使",
-      "tmdb_id": 1545621,
-      "matched_title": "名偵探柯南：高速公路的墮天使",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vsre1rnZ9mA8Tb4Lejp1UbZ6ca9.jpg"
-    },
-    {
       "title": "奧德賽",
       "tmdb_id": 1368337,
       "matched_title": "奧德賽",
@@ -267,12 +261,6 @@
   ],
   "桃園統領威秀影城": [
     {
-      "title": "KATSEYE: WILD HEARTS",
-      "tmdb_id": 1728113,
-      "matched_title": "KATSEYE: WILD HEARTS",
-      "poster_url": "https://image.tmdb.org/t/p/w500/2iMiErHxi3prW3J2ZjFiChfhptt.jpg"
-    },
-    {
       "title": "你的名字。(十周年重映)",
       "tmdb_id": null,
       "matched_title": null,
@@ -359,6 +347,12 @@
   ],
   "桃園站前in89豪華影城": [
     {
+      "title": "你的名字。(十周年重映)",
+      "tmdb_id": null,
+      "matched_title": null,
+      "poster_url": null
+    },
+    {
       "title": "劇場版 吉伊卡哇 人魚島的秘密",
       "tmdb_id": 1586876,
       "matched_title": "劇場版 吉伊卡哇 人魚島的秘密",
@@ -423,12 +417,6 @@
       "tmdb_id": 1667685,
       "matched_title": "血鬼村",
       "poster_url": "https://image.tmdb.org/t/p/w500/tbUaqYEUArfPppJ14Tgvr5D1tlS.jpg"
-    },
-    {
-      "title": "魯冰花(數位修復版)",
-      "tmdb_id": null,
-      "matched_title": null,
-      "poster_url": null
     }
   ],
   "桃園桃知道威秀影城": [
