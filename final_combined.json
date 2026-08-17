@@ -303,12 +303,6 @@
   ],
   "桃園統領威秀影城": [
     {
-      "title": "KATSEYE: WILD HEARTS",
-      "tmdb_id": 1728113,
-      "matched_title": "KATSEYE: WILD HEARTS",
-      "poster_url": "https://image.tmdb.org/t/p/w500/2iMiErHxi3prW3J2ZjFiChfhptt.jpg"
-    },
-    {
       "title": "你的名字。(十周年重映)",
       "tmdb_id": null,
       "matched_title": null,
@@ -393,12 +387,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/1vhjC7Ra5C6BPeZskeMz0WUmrnr.jpg"
     },
     {
-      "title": "禍禍女",
-      "tmdb_id": 1536720,
-      "matched_title": "禍禍女",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6kRQKq3DLv5NZhQiGF8rJbGl6Wo.jpg"
-    },
-    {
       "title": "空之境界劇場版：未來福音",
       "tmdb_id": 212156,
       "matched_title": "空之境界 未來福音",
@@ -439,12 +427,6 @@
       "tmdb_id": 1154538,
       "matched_title": "超拖樂團之我要幹大事啦！",
       "poster_url": "https://image.tmdb.org/t/p/w500/qC8bvcL2RDQdWNFpXbDn8YH2T1p.jpg"
-    },
-    {
-      "title": "那些山教我的事",
-      "tmdb_id": 1532481,
-      "matched_title": "那些山教我的事",
-      "poster_url": "https://image.tmdb.org/t/p/w500/tGO9kkgjXbGQhLXYKd3I5ujl9EJ.jpg"
     }
   ],
   "桃園站前in89豪華影城": [
@@ -453,12 +435,6 @@
       "tmdb_id": 1586876,
       "matched_title": "劇場版 吉伊卡哇 人魚島的秘密",
       "poster_url": "https://image.tmdb.org/t/p/w500/AuScmbIwpqa12bwhorWEdo9LZX.jpg"
-    },
-    {
-      "title": "名偵探柯南 高速公路的墮天使",
-      "tmdb_id": 1545621,
-      "matched_title": "名偵探柯南：高速公路的墮天使",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vsre1rnZ9mA8Tb4Lejp1UbZ6ca9.jpg"
     },
     {
       "title": "奧德賽",
@@ -519,6 +495,12 @@
       "tmdb_id": 1667685,
       "matched_title": "血鬼村",
       "poster_url": "https://image.tmdb.org/t/p/w500/tbUaqYEUArfPppJ14Tgvr5D1tlS.jpg"
+    },
+    {
+      "title": "魯冰花(數位修復版)",
+      "tmdb_id": null,
+      "matched_title": null,
+      "poster_url": null
     }
   ],
   "桃園桃知道威秀影城": [
@@ -553,6 +535,12 @@
       "tmdb_id": 1586876,
       "matched_title": "劇場版 吉伊卡哇 人魚島的秘密",
       "poster_url": "https://image.tmdb.org/t/p/w500/AuScmbIwpqa12bwhorWEdo9LZX.jpg"
+    },
+    {
+      "title": "名偵探柯南 高速公路的墮天使",
+      "tmdb_id": 1545621,
+      "matched_title": "名偵探柯南：高速公路的墮天使",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vsre1rnZ9mA8Tb4Lejp1UbZ6ca9.jpg"
     },
     {
       "title": "奧德賽",
@@ -595,12 +583,6 @@
       "tmdb_id": 1307247,
       "matched_title": "特務搞飛機2",
       "poster_url": "https://image.tmdb.org/t/p/w500/66iXxqnBzsjSnmamIkWcVRCz8zX.jpg"
-    },
-    {
-      "title": "玩具總動員5",
-      "tmdb_id": 1084244,
-      "matched_title": "玩具總動員5",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1vhjC7Ra5C6BPeZskeMz0WUmrnr.jpg"
     },
     {
       "title": "航海王劇場版：奪寶爭霸戰",
