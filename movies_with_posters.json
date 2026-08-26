@@ -74,11 +74,6 @@
     "matched_title": "愛的魔樣",
     "poster_url": "https://image.tmdb.org/t/p/w500/m4omNoYEwqwOlqFYXdWNOoOM7lv.jpg"
   },
-  "愛重奏": {
-    "tmdb_id": 12197,
-    "matched_title": "愛重奏",
-    "poster_url": "https://image.tmdb.org/t/p/w500/879vY5qEXV33Zlr8SeQp2nsgJlA.jpg"
-  },
   "我未許願先吹蠟燭": {
     "tmdb_id": 1402984,
     "matched_title": "我未許願先吹蠟燭",
@@ -109,10 +104,15 @@
     "matched_title": "玩命航線",
     "poster_url": "https://image.tmdb.org/t/p/w500/9UmRLdkctpIwvUkmPFvyz67Psu8.jpg"
   },
-  "空之境界劇場版：未來福音": {
-    "tmdb_id": 212156,
-    "matched_title": "空之境界 未來福音",
-    "poster_url": "https://image.tmdb.org/t/p/w500/pGqY3fWs0f5Yg60hUzq1Qkv9Rf1.jpg"
+  "終戰那一天": {
+    "tmdb_id": 1732733,
+    "matched_title": "終戰那一天",
+    "poster_url": "https://image.tmdb.org/t/p/w500/xjjrfXB0EULSb6rxPHkxzpeWDkE.jpg"
+  },
+  "航海王劇場版：奪寶爭霸戰": {
+    "tmdb_id": 568012,
+    "matched_title": "航海王：奪寶爭霸戰",
+    "poster_url": "https://image.tmdb.org/t/p/w500/yIFVyNshtI2CNzM9uxri19xEHXI.jpg"
   },
   "航海王７": {
     "tmdb_id": 44730,
@@ -133,6 +133,11 @@
     "tmdb_id": 1667685,
     "matched_title": "血鬼村",
     "poster_url": "https://image.tmdb.org/t/p/w500/tbUaqYEUArfPppJ14Tgvr5D1tlS.jpg"
+  },
+  "超拖樂團之我要幹大事啦！": {
+    "tmdb_id": 1154538,
+    "matched_title": "超拖樂團之我要幹大事啦！",
+    "poster_url": "https://image.tmdb.org/t/p/w500/qC8bvcL2RDQdWNFpXbDn8YH2T1p.jpg"
   },
   "野生狂廚": {
     "tmdb_id": 1329016,
