@@ -177,6 +177,12 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/p9QLCtwefV6vw3QjtLl9bHrNDF2.jpg"
     },
     {
+      "title": "藍色監獄",
+      "tmdb_id": 1623376,
+      "matched_title": "藍色監獄",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eaqgejzhxIJHAwC7kBbwZ2dBJgH.jpg"
+    },
+    {
       "title": "蜘蛛人：重生日",
       "tmdb_id": 969681,
       "matched_title": "蜘蛛人：重生日",
@@ -545,12 +551,6 @@
   ],
   "桃園站前in89豪華影城": [
     {
-      "title": "Last Man ?全盲搜查官? 劇場版",
-      "tmdb_id": 1437156,
-      "matched_title": "Last Man ー全盲搜查官ー 劇場版",
-      "poster_url": "https://image.tmdb.org/t/p/w500/bfQO3ARGDEkJ1rraf1GG2lorWZz.jpg"
-    },
-    {
       "title": "一夜限定",
       "tmdb_id": 1433367,
       "matched_title": "一夜限定",
@@ -603,6 +603,12 @@
       "tmdb_id": 1532968,
       "matched_title": "網紅老爸",
       "poster_url": "https://image.tmdb.org/t/p/w500/p9QLCtwefV6vw3QjtLl9bHrNDF2.jpg"
+    },
+    {
+      "title": "藍色監獄",
+      "tmdb_id": 1623376,
+      "matched_title": "藍色監獄",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eaqgejzhxIJHAwC7kBbwZ2dBJgH.jpg"
     },
     {
       "title": "蜘蛛人：重生日",
