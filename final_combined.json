@@ -13,12 +13,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/28fsM6AloV9qNQO7chv0dTHvx80.jpg"
     },
     {
-      "title": "天鵝與蝙蝠",
-      "tmdb_id": 1621964,
-      "matched_title": "天鵝與蝙蝠",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rjRI3z3lFepMlxk9ScUvlfNxrR3.jpg"
-    },
-    {
       "title": "奧德賽",
       "tmdb_id": 1368337,
       "matched_title": "奧德賽",
@@ -49,10 +43,10 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/3gKTC3PT2qN6tCE7d3epsXUT9p8.jpg"
     },
     {
-      "title": "橡樹街末日",
-      "tmdb_id": 1101383,
-      "matched_title": "橡樹街末日",
-      "poster_url": "https://image.tmdb.org/t/p/w500/yJxLZruKq4iodYteRk1WaKKoXV1.jpg"
+      "title": "慶州殺遊紀",
+      "tmdb_id": 1235769,
+      "matched_title": "慶州殺遊紀",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2dAd2APyFUyJ6qEv9VFHdHQtQI6.jpg"
     },
     {
       "title": "玩命航線",
@@ -77,6 +71,24 @@
       "tmdb_id": 969681,
       "matched_title": "蜘蛛人：重生日",
       "poster_url": "https://image.tmdb.org/t/p/w500/2zO573CUiqm4QDuIPycE1d1GUYc.jpg"
+    },
+    {
+      "title": "超異能快感2",
+      "tmdb_id": 1302904,
+      "matched_title": "超異能快感：魔法之書",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1ZV993SXBBhWucr6AdCNdvWPi29.jpg"
+    },
+    {
+      "title": "驀然回首",
+      "tmdb_id": 1244492,
+      "matched_title": "驀然回首",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8JjlnxNPgmS4U4pA7X9aKFwH3AO.jpg"
+    },
+    {
+      "title": "鬼附體",
+      "tmdb_id": 1664760,
+      "matched_title": "鬼附體",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fAQ309nl5rgXWixGn0gbHBTWXfj.jpg"
     }
   ],
   "星橋國際影城": [
@@ -93,6 +105,12 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/28fsM6AloV9qNQO7chv0dTHvx80.jpg"
     },
     {
+      "title": "大仙尪仔",
+      "tmdb_id": 1467519,
+      "matched_title": "大仙尪仔",
+      "poster_url": "https://image.tmdb.org/t/p/w500/g6jkQEEuAehKDjc72S0fR6namf4.jpg"
+    },
+    {
       "title": "天鵝與蝙蝠",
       "tmdb_id": 1621964,
       "matched_title": "天鵝與蝙蝠",
@@ -111,12 +129,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/mhCYb5x6NW2jK6yoJPtQqZAYPO2.jpg"
     },
     {
-      "title": "小小兵&大怪獸",
-      "tmdb_id": 1315772,
-      "matched_title": "小小兵&大怪獸",
-      "poster_url": "https://image.tmdb.org/t/p/w500/nib2TDZ1AX6tlkWTCCwMX0ncdsw.jpg"
-    },
-    {
       "title": "希望：末日血戰",
       "tmdb_id": 1058424,
       "matched_title": "希望：末日血戰",
@@ -129,28 +141,16 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/myDhMRgMKe0jBNVZu7k7ZwZIkQE.jpg"
     },
     {
-      "title": "愛你致死不渝",
-      "tmdb_id": 1339713,
-      "matched_title": "愛你致死不渝",
-      "poster_url": "https://image.tmdb.org/t/p/w500/3gKTC3PT2qN6tCE7d3epsXUT9p8.jpg"
-    },
-    {
-      "title": "我的爸爸是死刑犯",
-      "tmdb_id": 1564172,
-      "matched_title": "我的爸爸是死刑犯",
-      "poster_url": "https://image.tmdb.org/t/p/w500/b29dMsx7bcwzV9x80Z1azHnronS.jpg"
+      "title": "慶州殺遊紀",
+      "tmdb_id": 1235769,
+      "matched_title": "慶州殺遊紀",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2dAd2APyFUyJ6qEv9VFHdHQtQI6.jpg"
     },
     {
       "title": "橡樹街末日",
       "tmdb_id": 1101383,
       "matched_title": "橡樹街末日",
       "poster_url": "https://image.tmdb.org/t/p/w500/yJxLZruKq4iodYteRk1WaKKoXV1.jpg"
-    },
-    {
-      "title": "炎上",
-      "tmdb_id": 1559189,
-      "matched_title": "炎上",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6jrxLGrgYVK50oOJNxlU2znlsKw.jpg"
     },
     {
       "title": "玩命航線",
@@ -171,10 +171,22 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/p9QLCtwefV6vw3QjtLl9bHrNDF2.jpg"
     },
     {
+      "title": "藍色監獄",
+      "tmdb_id": 1623376,
+      "matched_title": "藍色監獄",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eaqgejzhxIJHAwC7kBbwZ2dBJgH.jpg"
+    },
+    {
       "title": "蜘蛛人：重生日",
       "tmdb_id": 969681,
       "matched_title": "蜘蛛人：重生日",
       "poster_url": "https://image.tmdb.org/t/p/w500/2zO573CUiqm4QDuIPycE1d1GUYc.jpg"
+    },
+    {
+      "title": "被偷走的情歌",
+      "tmdb_id": 1284016,
+      "matched_title": "被偷走的情歌",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ydaH0Cpk3IQ8TtxDwdAxJ5lpEBD.jpg"
     },
     {
       "title": "超人力霸王．起源",
@@ -183,10 +195,22 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/qqDn5zPaHnqBWsWo8rx8yYUW57x.jpg"
     },
     {
-      "title": "驀然回首(2024)",
-      "tmdb_id": null,
-      "matched_title": null,
-      "poster_url": null
+      "title": "超異能快感2",
+      "tmdb_id": 1302904,
+      "matched_title": "超異能快感：魔法之書",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1ZV993SXBBhWucr6AdCNdvWPi29.jpg"
+    },
+    {
+      "title": "驀然回首",
+      "tmdb_id": 1244492,
+      "matched_title": "驀然回首",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8JjlnxNPgmS4U4pA7X9aKFwH3AO.jpg"
+    },
+    {
+      "title": "鬼附體",
+      "tmdb_id": 1664760,
+      "matched_title": "鬼附體",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fAQ309nl5rgXWixGn0gbHBTWXfj.jpg"
     }
   ],
   "威尼斯影城": [
@@ -203,16 +227,16 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/x2xLnSgaMN2ODozYBzCdV5mKmyO.jpg"
     },
     {
+      "title": "大仙尪仔",
+      "tmdb_id": 1467519,
+      "matched_title": "大仙尪仔",
+      "poster_url": "https://image.tmdb.org/t/p/w500/g6jkQEEuAehKDjc72S0fR6namf4.jpg"
+    },
+    {
       "title": "奧德賽",
       "tmdb_id": 1368337,
       "matched_title": "奧德賽",
       "poster_url": "https://image.tmdb.org/t/p/w500/d7MiRRamaAe58DacYEo2ZgziBBv.jpg"
-    },
-    {
-      "title": "寂地",
-      "tmdb_id": 1384216,
-      "matched_title": "寂地",
-      "poster_url": "https://image.tmdb.org/t/p/w500/mhCYb5x6NW2jK6yoJPtQqZAYPO2.jpg"
     },
     {
       "title": "希望：末日血戰",
@@ -233,10 +257,10 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/3gKTC3PT2qN6tCE7d3epsXUT9p8.jpg"
     },
     {
-      "title": "橡樹街末日",
-      "tmdb_id": 1101383,
-      "matched_title": "橡樹街末日",
-      "poster_url": "https://image.tmdb.org/t/p/w500/yJxLZruKq4iodYteRk1WaKKoXV1.jpg"
+      "title": "慶州殺遊紀",
+      "tmdb_id": 1235769,
+      "matched_title": "慶州殺遊紀",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2dAd2APyFUyJ6qEv9VFHdHQtQI6.jpg"
     },
     {
       "title": "粽邪4",
@@ -257,16 +281,10 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/2zO573CUiqm4QDuIPycE1d1GUYc.jpg"
     },
     {
-      "title": "超人力霸王．起源",
-      "tmdb_id": 1677118,
-      "matched_title": "超人力霸王．起源",
-      "poster_url": "https://image.tmdb.org/t/p/w500/qqDn5zPaHnqBWsWo8rx8yYUW57x.jpg"
-    },
-    {
-      "title": "陰兒房：穿越陰深處",
-      "tmdb_id": 1291595,
-      "matched_title": "陰兒房：穿越陰深處",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4iWnb67ay2UeGNURe4WmF4MEwtO.jpg"
+      "title": "超異能快感2",
+      "tmdb_id": 1302904,
+      "matched_title": "超異能快感：魔法之書",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1ZV993SXBBhWucr6AdCNdvWPi29.jpg"
     }
   ],
   "國賓桃園八德": [
@@ -289,22 +307,10 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/28fsM6AloV9qNQO7chv0dTHvx80.jpg"
     },
     {
-      "title": "天鵝與蝙蝠",
-      "tmdb_id": 1621964,
-      "matched_title": "天鵝與蝙蝠",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rjRI3z3lFepMlxk9ScUvlfNxrR3.jpg"
-    },
-    {
       "title": "奧德賽",
       "tmdb_id": 1368337,
       "matched_title": "奧德賽",
       "poster_url": "https://image.tmdb.org/t/p/w500/d7MiRRamaAe58DacYEo2ZgziBBv.jpg"
-    },
-    {
-      "title": "寂地",
-      "tmdb_id": 1384216,
-      "matched_title": "寂地",
-      "poster_url": "https://image.tmdb.org/t/p/w500/mhCYb5x6NW2jK6yoJPtQqZAYPO2.jpg"
     },
     {
       "title": "希望：末日血戰",
@@ -313,16 +319,22 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/7ad5bqevd4TUZphJLi3qyTIj5U6.jpg"
     },
     {
+      "title": "怎麼可能我家的祖先是你家的鬼",
+      "tmdb_id": 1193673,
+      "matched_title": "怎麼可能我家的祖先是你家的鬼",
+      "poster_url": "https://image.tmdb.org/t/p/w500/myDhMRgMKe0jBNVZu7k7ZwZIkQE.jpg"
+    },
+    {
       "title": "愛你致死不渝",
       "tmdb_id": 1339713,
       "matched_title": "愛你致死不渝",
       "poster_url": "https://image.tmdb.org/t/p/w500/3gKTC3PT2qN6tCE7d3epsXUT9p8.jpg"
     },
     {
-      "title": "橡樹街末日",
-      "tmdb_id": 1101383,
-      "matched_title": "橡樹街末日",
-      "poster_url": "https://image.tmdb.org/t/p/w500/yJxLZruKq4iodYteRk1WaKKoXV1.jpg"
+      "title": "玩具總動員5",
+      "tmdb_id": 1084244,
+      "matched_title": "玩具總動員5",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8IfNwMFlqggaZ5dcJo8t4QIaSPX.jpg"
     },
     {
       "title": "玩命航線",
@@ -349,10 +361,22 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/2zO573CUiqm4QDuIPycE1d1GUYc.jpg"
     },
     {
-      "title": "陰兒房：穿越陰深處",
-      "tmdb_id": 1291595,
-      "matched_title": "陰兒房：穿越陰深處",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4iWnb67ay2UeGNURe4WmF4MEwtO.jpg"
+      "title": "超異能快感2",
+      "tmdb_id": 1302904,
+      "matched_title": "超異能快感：魔法之書",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1ZV993SXBBhWucr6AdCNdvWPi29.jpg"
+    },
+    {
+      "title": "驀然回首",
+      "tmdb_id": 1244492,
+      "matched_title": "驀然回首",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8JjlnxNPgmS4U4pA7X9aKFwH3AO.jpg"
+    },
+    {
+      "title": "鬼附體",
+      "tmdb_id": 1664760,
+      "matched_title": "鬼附體",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fAQ309nl5rgXWixGn0gbHBTWXfj.jpg"
     }
   ],
   "桃園統領威秀影城": [
@@ -369,18 +393,6 @@
       "poster_url": null
     },
     {
-      "title": "偶像學園！×星光樂園 THE MOVIE -相遇的奇蹟！",
-      "tmdb_id": 1469405,
-      "matched_title": "偶像學園! ×星光樂園THE MOVIE -相遇的奇蹟!-",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1n8FIPX2iiVhHhLEhtXOGIzMlCa.jpg"
-    },
-    {
-      "title": "催眠麥克風",
-      "tmdb_id": 1412811,
-      "matched_title": "催眠麥克風",
-      "poster_url": "https://image.tmdb.org/t/p/w500/uqN6xWv2gardy3WAhzCfu4imzFZ.jpg"
-    },
-    {
       "title": "劇場版 吉伊卡哇 人魚島的秘密",
       "tmdb_id": 1586876,
       "matched_title": "劇場版 吉伊卡哇 人魚島的秘密",
@@ -393,16 +405,28 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/x2xLnSgaMN2ODozYBzCdV5mKmyO.jpg"
     },
     {
-      "title": "名偵探柯南 高速公路的墮天使",
-      "tmdb_id": 1545621,
-      "matched_title": "名偵探柯南：高速公路的墮天使",
-      "poster_url": "https://image.tmdb.org/t/p/w500/vsre1rnZ9mA8Tb4Lejp1UbZ6ca9.jpg"
+      "title": "哈姆雷特—Hiran Abeysekera版",
+      "tmdb_id": null,
+      "matched_title": null,
+      "poster_url": null
     },
     {
       "title": "墜2",
       "tmdb_id": 1101412,
       "matched_title": "墜2",
       "poster_url": "https://image.tmdb.org/t/p/w500/28fsM6AloV9qNQO7chv0dTHvx80.jpg"
+    },
+    {
+      "title": "大仙尪仔",
+      "tmdb_id": 1467519,
+      "matched_title": "大仙尪仔",
+      "poster_url": "https://image.tmdb.org/t/p/w500/g6jkQEEuAehKDjc72S0fR6namf4.jpg"
+    },
+    {
+      "title": "大起義",
+      "tmdb_id": 1432596,
+      "matched_title": "大起義",
+      "poster_url": "https://image.tmdb.org/t/p/w500/njHvKCs8WGFihziUpH1ImYv1fYH.jpg"
     },
     {
       "title": "天鵝與蝙蝠",
@@ -435,10 +459,10 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/3gKTC3PT2qN6tCE7d3epsXUT9p8.jpg"
     },
     {
-      "title": "愛的魔樣",
-      "tmdb_id": 1564614,
-      "matched_title": "愛的魔樣",
-      "poster_url": "https://image.tmdb.org/t/p/w500/m4omNoYEwqwOlqFYXdWNOoOM7lv.jpg"
+      "title": "慶州殺遊紀",
+      "tmdb_id": 1235769,
+      "matched_title": "慶州殺遊紀",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2dAd2APyFUyJ6qEv9VFHdHQtQI6.jpg"
     },
     {
       "title": "我的爸爸是死刑犯",
@@ -451,12 +475,6 @@
       "tmdb_id": 9323,
       "matched_title": "攻殻機動隊 / GHOST IN THE SHELL",
       "poster_url": "https://image.tmdb.org/t/p/w500/vBS6tpdsMybQfIoGmfmuZRiYy7i.jpg"
-    },
-    {
-      "title": "最終樂章 吹響吧！上低音號 前篇",
-      "tmdb_id": 1449433,
-      "matched_title": "最終樂章 吹響吧！上低音號 前篇",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6MeOQiciVhuoGLpuN6Plyesrz2h.jpg"
     },
     {
       "title": "橡樹街末日",
@@ -495,6 +513,18 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/tQAaf3WzbcR4ja5VsHnScLiNDfz.jpg"
     },
     {
+      "title": "航海王劇場版：Z",
+      "tmdb_id": 176983,
+      "matched_title": "航海王：Z",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tQAaf3WzbcR4ja5VsHnScLiNDfz.jpg"
+    },
+    {
+      "title": "草間∞彌生",
+      "tmdb_id": 490794,
+      "matched_title": "草間∞彌生",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6ZkFQUiKWvE99cnGP3Dih3SFLxp.jpg"
+    },
+    {
       "title": "藍色監獄",
       "tmdb_id": 1623376,
       "matched_title": "藍色監獄",
@@ -507,10 +537,10 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/2zO573CUiqm4QDuIPycE1d1GUYc.jpg"
     },
     {
-      "title": "超人力霸王．起源",
-      "tmdb_id": 1677118,
-      "matched_title": "超人力霸王．起源",
-      "poster_url": "https://image.tmdb.org/t/p/w500/qqDn5zPaHnqBWsWo8rx8yYUW57x.jpg"
+      "title": "被偷走的情歌",
+      "tmdb_id": 1284016,
+      "matched_title": "被偷走的情歌",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ydaH0Cpk3IQ8TtxDwdAxJ5lpEBD.jpg"
     },
     {
       "title": "超拖樂團之我要幹大事啦！",
@@ -519,10 +549,10 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/qC8bvcL2RDQdWNFpXbDn8YH2T1p.jpg"
     },
     {
-      "title": "超時空甩尾 經典重映",
-      "tmdb_id": null,
-      "matched_title": null,
-      "poster_url": null
+      "title": "超異能快感2",
+      "tmdb_id": 1302904,
+      "matched_title": "超異能快感：魔法之書",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1ZV993SXBBhWucr6AdCNdvWPi29.jpg"
     },
     {
       "title": "陰兒房：穿越陰深處",
@@ -531,10 +561,28 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/4iWnb67ay2UeGNURe4WmF4MEwtO.jpg"
     },
     {
+      "title": "颱風俱樂部",
+      "tmdb_id": 108634,
+      "matched_title": "颱風俱樂部",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hZ1jQPtkMOft9ncdmFO6QhFplWz.jpg"
+    },
+    {
+      "title": "驀然回首",
+      "tmdb_id": 1244492,
+      "matched_title": "驀然回首",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8JjlnxNPgmS4U4pA7X9aKFwH3AO.jpg"
+    },
+    {
       "title": "驀然回首(2024)",
       "tmdb_id": null,
       "matched_title": null,
       "poster_url": null
+    },
+    {
+      "title": "鬼附體",
+      "tmdb_id": 1664760,
+      "matched_title": "鬼附體",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fAQ309nl5rgXWixGn0gbHBTWXfj.jpg"
     }
   ],
   "桃園站前in89豪華影城": [
@@ -545,16 +593,10 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/28fsM6AloV9qNQO7chv0dTHvx80.jpg"
     },
     {
-      "title": "天鵝與蝙蝠",
-      "tmdb_id": 1621964,
-      "matched_title": "天鵝與蝙蝠",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rjRI3z3lFepMlxk9ScUvlfNxrR3.jpg"
-    },
-    {
-      "title": "奧德賽",
-      "tmdb_id": 1368337,
-      "matched_title": "奧德賽",
-      "poster_url": "https://image.tmdb.org/t/p/w500/d7MiRRamaAe58DacYEo2ZgziBBv.jpg"
+      "title": "大仙尪仔",
+      "tmdb_id": 1467519,
+      "matched_title": "大仙尪仔",
+      "poster_url": "https://image.tmdb.org/t/p/w500/g6jkQEEuAehKDjc72S0fR6namf4.jpg"
     },
     {
       "title": "寂地",
@@ -581,16 +623,16 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/3gKTC3PT2qN6tCE7d3epsXUT9p8.jpg"
     },
     {
+      "title": "慶州殺遊紀",
+      "tmdb_id": 1235769,
+      "matched_title": "慶州殺遊紀",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2dAd2APyFUyJ6qEv9VFHdHQtQI6.jpg"
+    },
+    {
       "title": "橡樹街末日",
       "tmdb_id": 1101383,
       "matched_title": "橡樹街末日",
       "poster_url": "https://image.tmdb.org/t/p/w500/yJxLZruKq4iodYteRk1WaKKoXV1.jpg"
-    },
-    {
-      "title": "玩命航線",
-      "tmdb_id": 1288445,
-      "matched_title": "玩命航線",
-      "poster_url": "https://image.tmdb.org/t/p/w500/9UmRLdkctpIwvUkmPFvyz67Psu8.jpg"
     },
     {
       "title": "粽邪4",
@@ -609,6 +651,24 @@
       "tmdb_id": 969681,
       "matched_title": "蜘蛛人：重生日",
       "poster_url": "https://image.tmdb.org/t/p/w500/2zO573CUiqm4QDuIPycE1d1GUYc.jpg"
+    },
+    {
+      "title": "超異能快感2",
+      "tmdb_id": 1302904,
+      "matched_title": "超異能快感：魔法之書",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1ZV993SXBBhWucr6AdCNdvWPi29.jpg"
+    },
+    {
+      "title": "驀然回首",
+      "tmdb_id": 1244492,
+      "matched_title": "驀然回首",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8JjlnxNPgmS4U4pA7X9aKFwH3AO.jpg"
+    },
+    {
+      "title": "鬼附體",
+      "tmdb_id": 1664760,
+      "matched_title": "鬼附體",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fAQ309nl5rgXWixGn0gbHBTWXfj.jpg"
     }
   ],
   "桃園桃知道威秀影城": [
@@ -659,15 +719,15 @@
       "tmdb_id": 969681,
       "matched_title": "蜘蛛人：重生日",
       "poster_url": "https://image.tmdb.org/t/p/w500/2zO573CUiqm4QDuIPycE1d1GUYc.jpg"
+    },
+    {
+      "title": "驀然回首",
+      "tmdb_id": 1244492,
+      "matched_title": "驀然回首",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8JjlnxNPgmS4U4pA7X9aKFwH3AO.jpg"
     }
   ],
   "桃園新光影城": [
-    {
-      "title": "今晚我想來點棒的",
-      "tmdb_id": 1516724,
-      "matched_title": "今晚我想來點棒的",
-      "poster_url": "https://image.tmdb.org/t/p/w500/3xVwZQLrAYl4Uoi2rPYwqzMirWK.jpg"
-    },
     {
       "title": "劇場版 吉伊卡哇 人魚島的秘密",
       "tmdb_id": 1586876,
@@ -681,10 +741,10 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/28fsM6AloV9qNQO7chv0dTHvx80.jpg"
     },
     {
-      "title": "天鵝與蝙蝠",
-      "tmdb_id": 1621964,
-      "matched_title": "天鵝與蝙蝠",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rjRI3z3lFepMlxk9ScUvlfNxrR3.jpg"
+      "title": "大仙尪仔",
+      "tmdb_id": 1467519,
+      "matched_title": "大仙尪仔",
+      "poster_url": "https://image.tmdb.org/t/p/w500/g6jkQEEuAehKDjc72S0fR6namf4.jpg"
     },
     {
       "title": "奧德賽",
@@ -717,6 +777,12 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/3gKTC3PT2qN6tCE7d3epsXUT9p8.jpg"
     },
     {
+      "title": "慶州殺遊紀",
+      "tmdb_id": 1235769,
+      "matched_title": "慶州殺遊紀",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2dAd2APyFUyJ6qEv9VFHdHQtQI6.jpg"
+    },
+    {
       "title": "橡樹街末日",
       "tmdb_id": 1101383,
       "matched_title": "橡樹街末日",
@@ -741,7 +807,7 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/p9QLCtwefV6vw3QjtLl9bHrNDF2.jpg"
     },
     {
-      "title": "航海王",
+      "title": "航海王劇場版：Z",
       "tmdb_id": 176983,
       "matched_title": "航海王：Z",
       "poster_url": "https://image.tmdb.org/t/p/w500/tQAaf3WzbcR4ja5VsHnScLiNDfz.jpg"
@@ -753,16 +819,28 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/2zO573CUiqm4QDuIPycE1d1GUYc.jpg"
     },
     {
-      "title": "開放性邀請",
-      "tmdb_id": 950028,
-      "matched_title": "開放性邀請",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fYvFr8hmabWNNMa7PXZSGMfA9gY.jpg"
+      "title": "被偷走的情歌",
+      "tmdb_id": 1284016,
+      "matched_title": "被偷走的情歌",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ydaH0Cpk3IQ8TtxDwdAxJ5lpEBD.jpg"
     },
     {
-      "title": "陰兒房：穿越陰深處",
-      "tmdb_id": 1291595,
-      "matched_title": "陰兒房：穿越陰深處",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4iWnb67ay2UeGNURe4WmF4MEwtO.jpg"
+      "title": "超異能快感2",
+      "tmdb_id": 1302904,
+      "matched_title": "超異能快感：魔法之書",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1ZV993SXBBhWucr6AdCNdvWPi29.jpg"
+    },
+    {
+      "title": "驀然回首",
+      "tmdb_id": 1244492,
+      "matched_title": "驀然回首",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8JjlnxNPgmS4U4pA7X9aKFwH3AO.jpg"
+    },
+    {
+      "title": "鬼附體",
+      "tmdb_id": 1664760,
+      "matched_title": "鬼附體",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fAQ309nl5rgXWixGn0gbHBTWXfj.jpg"
     }
   ]
 }
