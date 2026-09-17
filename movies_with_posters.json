@@ -24,11 +24,6 @@
     "matched_title": "大仙尪仔",
     "poster_url": "https://image.tmdb.org/t/p/w500/g6jkQEEuAehKDjc72S0fR6namf4.jpg"
   },
-  "大起義": {
-    "tmdb_id": 1432596,
-    "matched_title": "大起義",
-    "poster_url": "https://image.tmdb.org/t/p/w500/njHvKCs8WGFihziUpH1ImYv1fYH.jpg"
-  },
   "天鵝與蝙蝠": {
     "tmdb_id": 1621964,
     "matched_title": "天鵝與蝙蝠",
@@ -54,6 +49,11 @@
     "matched_title": "怎麼可能我家的祖先是你家的鬼",
     "poster_url": "https://image.tmdb.org/t/p/w500/myDhMRgMKe0jBNVZu7k7ZwZIkQE.jpg"
   },
+  "惡靈古堡：爆發夜": {
+    "tmdb_id": 1423191,
+    "matched_title": "惡靈古堡：爆發夜",
+    "poster_url": "https://image.tmdb.org/t/p/w500/lVXZnG5oCJNsQlThZUgUg7EJPHU.jpg"
+  },
   "愛你致死不渝": {
     "tmdb_id": 1339713,
     "matched_title": "愛你致死不渝",
@@ -69,11 +69,6 @@
     "matched_title": "我的爸爸是死刑犯",
     "poster_url": "https://image.tmdb.org/t/p/w500/b29dMsx7bcwzV9x80Z1azHnronS.jpg"
   },
-  "攻殼機動隊1995": {
-    "tmdb_id": 9323,
-    "matched_title": "攻殻機動隊 / GHOST IN THE SHELL",
-    "poster_url": "https://image.tmdb.org/t/p/w500/vBS6tpdsMybQfIoGmfmuZRiYy7i.jpg"
-  },
   "最終樂章 吹響吧！上低音號 前篇": {
     "tmdb_id": 1449433,
     "matched_title": "最終樂章 吹響吧！上低音號 前篇",
@@ -83,6 +78,11 @@
     "tmdb_id": 1101383,
     "matched_title": "橡樹街末日",
     "poster_url": "https://image.tmdb.org/t/p/w500/yJxLZruKq4iodYteRk1WaKKoXV1.jpg"
+  },
+  "玩具總動員5": {
+    "tmdb_id": 1084244,
+    "matched_title": "玩具總動員5",
+    "poster_url": "https://image.tmdb.org/t/p/w500/8IfNwMFlqggaZ5dcJo8t4QIaSPX.jpg"
   },
   "玩命航線": {
     "tmdb_id": 1288445,
@@ -99,20 +99,10 @@
     "matched_title": "網紅老爸",
     "poster_url": "https://image.tmdb.org/t/p/w500/p9QLCtwefV6vw3QjtLl9bHrNDF2.jpg"
   },
-  "航海王": {
-    "tmdb_id": 176983,
-    "matched_title": "航海王：Z",
-    "poster_url": "https://image.tmdb.org/t/p/w500/tQAaf3WzbcR4ja5VsHnScLiNDfz.jpg"
-  },
   "航海王劇場版：Z": {
     "tmdb_id": 176983,
     "matched_title": "航海王：Z",
     "poster_url": "https://image.tmdb.org/t/p/w500/tQAaf3WzbcR4ja5VsHnScLiNDfz.jpg"
-  },
-  "草間∞彌生": {
-    "tmdb_id": 490794,
-    "matched_title": "草間∞彌生",
-    "poster_url": "https://image.tmdb.org/t/p/w500/6ZkFQUiKWvE99cnGP3Dih3SFLxp.jpg"
   },
   "藍色監獄": {
     "tmdb_id": 1623376,
