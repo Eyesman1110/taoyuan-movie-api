@@ -89,11 +89,6 @@
     "matched_title": "最終樂章 吹響吧！上低音號 前篇",
     "poster_url": "https://image.tmdb.org/t/p/w500/6MeOQiciVhuoGLpuN6Plyesrz2h.jpg"
   },
-  "橡樹街末日": {
-    "tmdb_id": 1101383,
-    "matched_title": "橡樹街末日",
-    "poster_url": "https://image.tmdb.org/t/p/w500/yJxLZruKq4iodYteRk1WaKKoXV1.jpg"
-  },
   "獵殺荒島": {
     "tmdb_id": 1214140,
     "matched_title": "荒島獵殺",
@@ -163,6 +158,11 @@
     "tmdb_id": 1302904,
     "matched_title": "超異能快感：魔法之書",
     "poster_url": "https://image.tmdb.org/t/p/w500/1ZV993SXBBhWucr6AdCNdvWPi29.jpg"
+  },
+  "野獸之心": {
+    "tmdb_id": 1263337,
+    "matched_title": "野獸之心",
+    "poster_url": "https://image.tmdb.org/t/p/w500/kY3pGqJu62TPDINS2KZ0uQbTkz4.jpg"
   },
   "陰兒房：穿越陰深處": {
     "tmdb_id": 1291595,
