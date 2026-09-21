@@ -9,11 +9,6 @@
     "matched_title": "LOVE ≠ COMEDY",
     "poster_url": "https://image.tmdb.org/t/p/w500/jHbs2rUKr6qOqT2Rt5Q9Kt8F2TK.jpg"
   },
-  "NCT 127 5TH TOUR 'NEO CITY": {
-    "tmdb_id": 1740257,
-    "matched_title": "NCT 127 5TH TOUR ‘NEO CITY  SEOUL - THE REDLINE’ in CINEMAS",
-    "poster_url": "https://image.tmdb.org/t/p/w500/wLItpgfVeRL4VlqoaQJRQXzUmc1.jpg"
-  },
   "再見機器人": {
     "tmdb_id": 838240,
     "matched_title": "再見機器人",
@@ -94,6 +89,11 @@
     "matched_title": "有毒：成人童話",
     "poster_url": "https://image.tmdb.org/t/p/w500/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg"
   },
+  "最終樂章 吹響吧！上低音號 前篇": {
+    "tmdb_id": 1449433,
+    "matched_title": "最終樂章 吹響吧！上低音號 前篇",
+    "poster_url": "https://image.tmdb.org/t/p/w500/6MeOQiciVhuoGLpuN6Plyesrz2h.jpg"
+  },
   "橡樹街末日": {
     "tmdb_id": 1101383,
     "matched_title": "橡樹街末日",
@@ -154,11 +154,6 @@
     "matched_title": "被偷走的情歌",
     "poster_url": "https://image.tmdb.org/t/p/w500/ydaH0Cpk3IQ8TtxDwdAxJ5lpEBD.jpg"
   },
-  "誤闖遺忘島": {
-    "tmdb_id": 1465063,
-    "matched_title": "誤闖遺忘島",
-    "poster_url": "https://image.tmdb.org/t/p/w500/7H23ieTIusX91xe78DQkyjYfgFl.jpg"
-  },
   "變形卡夫卡": {
     "tmdb_id": 1157322,
     "matched_title": "變形卡夫卡",
@@ -174,15 +169,15 @@
     "matched_title": "超異能快感：魔法之書",
     "poster_url": "https://image.tmdb.org/t/p/w500/1ZV993SXBBhWucr6AdCNdvWPi29.jpg"
   },
-  "野獸之心": {
-    "tmdb_id": 1263337,
-    "matched_title": "野獸之心",
-    "poster_url": "https://image.tmdb.org/t/p/w500/kY3pGqJu62TPDINS2KZ0uQbTkz4.jpg"
-  },
   "陰兒房：穿越陰深處": {
     "tmdb_id": 1291595,
     "matched_title": "陰兒房：穿越陰深處",
     "poster_url": "https://image.tmdb.org/t/p/w500/4iWnb67ay2UeGNURe4WmF4MEwtO.jpg"
+  },
+  "颱風俱樂部": {
+    "tmdb_id": 108634,
+    "matched_title": "颱風俱樂部",
+    "poster_url": "https://image.tmdb.org/t/p/w500/hZ1jQPtkMOft9ncdmFO6QhFplWz.jpg"
   },
   "驀然回首": {
     "tmdb_id": 1244492,
