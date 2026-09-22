@@ -213,12 +213,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/2zO573CUiqm4QDuIPycE1d1GUYc.jpg"
     },
     {
-      "title": "被偷走的情歌",
-      "tmdb_id": 1284016,
-      "matched_title": "被偷走的情歌",
-      "poster_url": "https://image.tmdb.org/t/p/w500/ydaH0Cpk3IQ8TtxDwdAxJ5lpEBD.jpg"
-    },
-    {
       "title": "超異能快感2",
       "tmdb_id": 1302904,
       "matched_title": "超異能快感：魔法之書",
@@ -337,12 +331,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/jHbs2rUKr6qOqT2Rt5Q9Kt8F2TK.jpg"
     },
     {
-      "title": "再見機器人",
-      "tmdb_id": 838240,
-      "matched_title": "再見機器人",
-      "poster_url": "https://image.tmdb.org/t/p/w500/sR7txFuAGehkb6sRtylwAneHpR1.jpg"
-    },
-    {
       "title": "劇場版 吉伊卡哇 人魚島的秘密",
       "tmdb_id": 1586876,
       "matched_title": "劇場版 吉伊卡哇 人魚島的秘密",
@@ -441,12 +429,6 @@
       "poster_url": null
     },
     {
-      "title": "再見機器人",
-      "tmdb_id": 838240,
-      "matched_title": "再見機器人",
-      "poster_url": "https://image.tmdb.org/t/p/w500/sR7txFuAGehkb6sRtylwAneHpR1.jpg"
-    },
-    {
       "title": "劇場版 吉伊卡哇 人魚島的秘密",
       "tmdb_id": 1586876,
       "matched_title": "劇場版 吉伊卡哇 人魚島的秘密",
@@ -457,6 +439,12 @@
       "tmdb_id": 822653,
       "matched_title": "劇場版 魔法少女小圓〈瓦爾普吉斯的迴天〉",
       "poster_url": "https://image.tmdb.org/t/p/w500/x2xLnSgaMN2ODozYBzCdV5mKmyO.jpg"
+    },
+    {
+      "title": "哈姆雷特—Hiran Abeysekera版",
+      "tmdb_id": null,
+      "matched_title": null,
+      "poster_url": null
     },
     {
       "title": "喵咪總動員",
@@ -647,12 +635,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/jHbs2rUKr6qOqT2Rt5Q9Kt8F2TK.jpg"
     },
     {
-      "title": "再見機器人",
-      "tmdb_id": 838240,
-      "matched_title": "再見機器人",
-      "poster_url": "https://image.tmdb.org/t/p/w500/sR7txFuAGehkb6sRtylwAneHpR1.jpg"
-    },
-    {
       "title": "墜2",
       "tmdb_id": 1101412,
       "matched_title": "墜2",
@@ -799,12 +781,6 @@
       "tmdb_id": 1701409,
       "matched_title": "LOVE ≠ COMEDY",
       "poster_url": "https://image.tmdb.org/t/p/w500/jHbs2rUKr6qOqT2Rt5Q9Kt8F2TK.jpg"
-    },
-    {
-      "title": "再見機器人",
-      "tmdb_id": 838240,
-      "matched_title": "再見機器人",
-      "poster_url": "https://image.tmdb.org/t/p/w500/sR7txFuAGehkb6sRtylwAneHpR1.jpg"
     },
     {
       "title": "劇場版 吉伊卡哇 人魚島的秘密",
