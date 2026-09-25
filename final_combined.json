@@ -1,16 +1,10 @@
 {
   "美麗新台茂影城": [
     {
-      "title": "LOVE ≠ COMEDY",
-      "tmdb_id": 1701409,
-      "matched_title": "LOVE ≠ COMEDY",
-      "poster_url": "https://image.tmdb.org/t/p/w500/jHbs2rUKr6qOqT2Rt5Q9Kt8F2TK.jpg"
-    },
-    {
-      "title": "夢想出擊",
-      "tmdb_id": 1617484,
-      "matched_title": "夢想出擊",
-      "poster_url": "https://image.tmdb.org/t/p/w500/oxGmijEVPGX7pO99dRg0VGptEIP.jpg"
+      "title": "奧德賽",
+      "tmdb_id": 1368337,
+      "matched_title": "奧德賽",
+      "poster_url": "https://image.tmdb.org/t/p/w500/d7MiRRamaAe58DacYEo2ZgziBBv.jpg"
     },
     {
       "title": "實境誘捕",
@@ -35,12 +29,6 @@
       "tmdb_id": 1423191,
       "matched_title": "惡靈古堡：爆發夜",
       "poster_url": "https://image.tmdb.org/t/p/w500/lVXZnG5oCJNsQlThZUgUg7EJPHU.jpg"
-    },
-    {
-      "title": "成人童話",
-      "tmdb_id": 1213243,
-      "matched_title": "有毒：成人童話",
-      "poster_url": "https://image.tmdb.org/t/p/w500/tZ8eSBXbza96vzCYeVTG9RBJ78E.jpg"
     },
     {
       "title": "特種快遞",
@@ -71,6 +59,12 @@
       "tmdb_id": 969681,
       "matched_title": "蜘蛛人：重生日",
       "poster_url": "https://image.tmdb.org/t/p/w500/2zO573CUiqm4QDuIPycE1d1GUYc.jpg"
+    },
+    {
+      "title": "誤闖遺忘島",
+      "tmdb_id": 1465063,
+      "matched_title": "誤闖遺忘島",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7m66kXWc767whPoBl0vTTmvsqa3.jpg"
     },
     {
       "title": "野獸之心",
@@ -111,12 +105,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/dDvmQrgC8ZTL4W1T96nE13xOCiP.jpg"
     },
     {
-      "title": "希望：末日血戰",
-      "tmdb_id": 1058424,
-      "matched_title": "希望：末日血戰",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7ad5bqevd4TUZphJLi3qyTIj5U6.jpg"
-    },
-    {
       "title": "復仇者聯盟：終局之戰",
       "tmdb_id": 299534,
       "matched_title": "復仇者聯盟：終局之戰",
@@ -135,10 +123,10 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/lVXZnG5oCJNsQlThZUgUg7EJPHU.jpg"
     },
     {
-      "title": "懺悔",
-      "tmdb_id": 1410587,
-      "matched_title": "懺悔",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fA9JIl0WSsUtE26kd4XK2FOp7IK.jpg"
+      "title": "愛你致死不渝",
+      "tmdb_id": 1339713,
+      "matched_title": "愛你致死不渝",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3gKTC3PT2qN6tCE7d3epsXUT9p8.jpg"
     },
     {
       "title": "成人童話",
@@ -157,6 +145,12 @@
       "tmdb_id": 1377237,
       "matched_title": "特種快遞",
       "poster_url": "https://image.tmdb.org/t/p/w500/trHy4SYLPfEslLULlXz12uPidFz.jpg"
+    },
+    {
+      "title": "猛鬼大學4",
+      "tmdb_id": 1610936,
+      "matched_title": "猛鬼大學：4不瞑目",
+      "poster_url": "https://image.tmdb.org/t/p/w500/z1vR4GEN0QV03awPqNgVlrwJbT0.jpg"
     },
     {
       "title": "粽邪4",
@@ -183,6 +177,12 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/zv6l9di3R8CwEnp9HO9UJsWken7.jpg"
     },
     {
+      "title": "誤闖遺忘島",
+      "tmdb_id": 1465063,
+      "matched_title": "誤闖遺忘島",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7m66kXWc767whPoBl0vTTmvsqa3.jpg"
+    },
+    {
       "title": "超異能快感2",
       "tmdb_id": 1302904,
       "matched_title": "超異能快感：魔法之書",
@@ -197,6 +197,12 @@
   ],
   "威尼斯影城": [
     {
+      "title": "劇場版 吉伊卡哇 人魚島的秘密",
+      "tmdb_id": 1586876,
+      "matched_title": "劇場版 吉伊卡哇 人魚島的秘密",
+      "poster_url": "https://image.tmdb.org/t/p/w500/AuScmbIwpqa12bwhorWEdo9LZX.jpg"
+    },
+    {
       "title": "劇場版 魔法少女小圓〈瓦爾普吉斯的迴天〉",
       "tmdb_id": 822653,
       "matched_title": "劇場版 魔法少女小圓〈瓦爾普吉斯的迴天〉",
@@ -207,12 +213,6 @@
       "tmdb_id": 1425552,
       "matched_title": "喵咪總動員",
       "poster_url": "https://image.tmdb.org/t/p/w500/zL2xS75LrMvI9xOnYnLN9Zaacdl.jpg"
-    },
-    {
-      "title": "夢想出擊",
-      "tmdb_id": 1617484,
-      "matched_title": "夢想出擊",
-      "poster_url": "https://image.tmdb.org/t/p/w500/oxGmijEVPGX7pO99dRg0VGptEIP.jpg"
     },
     {
       "title": "實境誘捕",
@@ -251,12 +251,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/3gKTC3PT2qN6tCE7d3epsXUT9p8.jpg"
     },
     {
-      "title": "懺悔",
-      "tmdb_id": 1410587,
-      "matched_title": "懺悔",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fA9JIl0WSsUtE26kd4XK2FOp7IK.jpg"
-    },
-    {
       "title": "粽邪4",
       "tmdb_id": 1433568,
       "matched_title": "粽邪4：坤蒂拉娜",
@@ -275,6 +269,12 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/2zO573CUiqm4QDuIPycE1d1GUYc.jpg"
     },
     {
+      "title": "誤闖遺忘島",
+      "tmdb_id": 1465063,
+      "matched_title": "誤闖遺忘島",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7m66kXWc767whPoBl0vTTmvsqa3.jpg"
+    },
+    {
       "title": "野獸之心",
       "tmdb_id": 1263337,
       "matched_title": "野獸之心",
@@ -288,12 +288,6 @@
     }
   ],
   "國賓桃園八德": [
-    {
-      "title": "LOVE ≠ COMEDY",
-      "tmdb_id": 1701409,
-      "matched_title": "LOVE ≠ COMEDY",
-      "poster_url": "https://image.tmdb.org/t/p/w500/jHbs2rUKr6qOqT2Rt5Q9Kt8F2TK.jpg"
-    },
     {
       "title": "劇場版 吉伊卡哇 人魚島的秘密",
       "tmdb_id": 1586876,
@@ -343,12 +337,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/3gKTC3PT2qN6tCE7d3epsXUT9p8.jpg"
     },
     {
-      "title": "成人童話",
-      "tmdb_id": 1213243,
-      "matched_title": "有毒：成人童話",
-      "poster_url": "https://image.tmdb.org/t/p/w500/tZ8eSBXbza96vzCYeVTG9RBJ78E.jpg"
-    },
-    {
       "title": "特種快遞",
       "tmdb_id": 1377237,
       "matched_title": "特種快遞",
@@ -379,10 +367,10 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/2zO573CUiqm4QDuIPycE1d1GUYc.jpg"
     },
     {
-      "title": "超異能快感2",
-      "tmdb_id": 1302904,
-      "matched_title": "超異能快感：魔法之書",
-      "poster_url": "https://image.tmdb.org/t/p/w500/1ZV993SXBBhWucr6AdCNdvWPi29.jpg"
+      "title": "誤闖遺忘島",
+      "tmdb_id": 1465063,
+      "matched_title": "誤闖遺忘島",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7m66kXWc767whPoBl0vTTmvsqa3.jpg"
     },
     {
       "title": "野獸之心",
@@ -555,6 +543,12 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/xeZHZnEuIiXU2oW0XB0WBYogcMG.jpg"
     },
     {
+      "title": "航海王喬巴身世之謎",
+      "tmdb_id": 44731,
+      "matched_title": "航海王：喬巴身世之謎：冬季綻放、奇跡的櫻花",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3Knbh7dwhr8qO83qui3BIMCK4L8.jpg"
+    },
+    {
       "title": "蜘蛛人：重生日",
       "tmdb_id": 969681,
       "matched_title": "蜘蛛人：重生日",
@@ -567,10 +561,22 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/zv6l9di3R8CwEnp9HO9UJsWken7.jpg"
     },
     {
+      "title": "誤闖遺忘島",
+      "tmdb_id": 1465063,
+      "matched_title": "誤闖遺忘島",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7m66kXWc767whPoBl0vTTmvsqa3.jpg"
+    },
+    {
       "title": "變形卡夫卡",
       "tmdb_id": 1157322,
       "matched_title": "變形卡夫卡",
       "poster_url": "https://image.tmdb.org/t/p/w500/43GEko92RKLiuaE8vbXadNFKb3s.jpg"
+    },
+    {
+      "title": "超拖樂團之我要幹大事啦！",
+      "tmdb_id": 1154538,
+      "matched_title": "超拖樂團之我要幹大事啦！",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qC8bvcL2RDQdWNFpXbDn8YH2T1p.jpg"
     },
     {
       "title": "超異能快感2",
@@ -611,12 +617,6 @@
   ],
   "桃園站前in89豪華影城": [
     {
-      "title": "LOVE ≠ COMEDY",
-      "tmdb_id": 1701409,
-      "matched_title": "LOVE ≠ COMEDY",
-      "poster_url": "https://image.tmdb.org/t/p/w500/jHbs2rUKr6qOqT2Rt5Q9Kt8F2TK.jpg"
-    },
-    {
       "title": "Perfume“Cold Sleep”",
       "tmdb_id": 1603232,
       "matched_title": "Perfume \"Cold Sleep\" -25 years Document-",
@@ -629,16 +629,16 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/28fsM6AloV9qNQO7chv0dTHvx80.jpg"
     },
     {
-      "title": "夢想出擊",
-      "tmdb_id": 1617484,
-      "matched_title": "夢想出擊",
-      "poster_url": "https://image.tmdb.org/t/p/w500/oxGmijEVPGX7pO99dRg0VGptEIP.jpg"
-    },
-    {
       "title": "實境誘捕",
       "tmdb_id": 1375441,
       "matched_title": "實境誘捕",
       "poster_url": "https://image.tmdb.org/t/p/w500/dDvmQrgC8ZTL4W1T96nE13xOCiP.jpg"
+    },
+    {
+      "title": "希望：末日血戰",
+      "tmdb_id": 1058424,
+      "matched_title": "希望：末日血戰",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7ad5bqevd4TUZphJLi3qyTIj5U6.jpg"
     },
     {
       "title": "復仇者聯盟：終局之戰",
@@ -701,10 +701,10 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/p9QLCtwefV6vw3QjtLl9bHrNDF2.jpg"
     },
     {
-      "title": "蜘蛛人：重生日",
-      "tmdb_id": 969681,
-      "matched_title": "蜘蛛人：重生日",
-      "poster_url": "https://image.tmdb.org/t/p/w500/2zO573CUiqm4QDuIPycE1d1GUYc.jpg"
+      "title": "誤闖遺忘島",
+      "tmdb_id": 1465063,
+      "matched_title": "誤闖遺忘島",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7m66kXWc767whPoBl0vTTmvsqa3.jpg"
     },
     {
       "title": "野獸之心",
@@ -713,10 +713,10 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/kY3pGqJu62TPDINS2KZ0uQbTkz4.jpg"
     },
     {
-      "title": "驀然回首",
-      "tmdb_id": 1244492,
-      "matched_title": "驀然回首",
-      "poster_url": "https://image.tmdb.org/t/p/w500/8JjlnxNPgmS4U4pA7X9aKFwH3AO.jpg"
+      "title": "鋼之鍊金術師",
+      "tmdb_id": 1412074,
+      "matched_title": "鋼之鍊金術師 BROTHERHOOD 15 週年特別版",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bEgXvq7dxI5QCMwutzpxteiLBgo.jpg"
     }
   ],
   "桃園桃知道威秀影城": [
@@ -769,6 +769,12 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/2zO573CUiqm4QDuIPycE1d1GUYc.jpg"
     },
     {
+      "title": "誤闖遺忘島",
+      "tmdb_id": 1465063,
+      "matched_title": "誤闖遺忘島",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7m66kXWc767whPoBl0vTTmvsqa3.jpg"
+    },
+    {
       "title": "野獸之心",
       "tmdb_id": 1263337,
       "matched_title": "野獸之心",
@@ -777,10 +783,10 @@
   ],
   "桃園新光影城": [
     {
-      "title": "夢想出擊",
-      "tmdb_id": 1617484,
-      "matched_title": "夢想出擊",
-      "poster_url": "https://image.tmdb.org/t/p/w500/oxGmijEVPGX7pO99dRg0VGptEIP.jpg"
+      "title": "劇場版 吉伊卡哇 人魚島的秘密",
+      "tmdb_id": 1586876,
+      "matched_title": "劇場版 吉伊卡哇 人魚島的秘密",
+      "poster_url": "https://image.tmdb.org/t/p/w500/AuScmbIwpqa12bwhorWEdo9LZX.jpg"
     },
     {
       "title": "奧德賽",
@@ -855,16 +861,16 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/p9QLCtwefV6vw3QjtLl9bHrNDF2.jpg"
     },
     {
-      "title": "航海王4",
-      "tmdb_id": 44727,
-      "matched_title": "航海王：死亡盡頭大冒險",
-      "poster_url": "https://image.tmdb.org/t/p/w500/xeZHZnEuIiXU2oW0XB0WBYogcMG.jpg"
-    },
-    {
       "title": "蜘蛛人：重生日",
       "tmdb_id": 969681,
       "matched_title": "蜘蛛人：重生日",
       "poster_url": "https://image.tmdb.org/t/p/w500/2zO573CUiqm4QDuIPycE1d1GUYc.jpg"
+    },
+    {
+      "title": "誤闖遺忘島",
+      "tmdb_id": 1465063,
+      "matched_title": "誤闖遺忘島",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7m66kXWc767whPoBl0vTTmvsqa3.jpg"
     },
     {
       "title": "超異能快感2",
