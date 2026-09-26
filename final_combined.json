@@ -1,12 +1,6 @@
 {
   "美麗新台茂影城": [
     {
-      "title": "奧德賽",
-      "tmdb_id": 1368337,
-      "matched_title": "奧德賽",
-      "poster_url": "https://image.tmdb.org/t/p/w500/d7MiRRamaAe58DacYEo2ZgziBBv.jpg"
-    },
-    {
       "title": "實境誘捕",
       "tmdb_id": 1375441,
       "matched_title": "實境誘捕",
@@ -635,12 +629,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/dDvmQrgC8ZTL4W1T96nE13xOCiP.jpg"
     },
     {
-      "title": "希望：末日血戰",
-      "tmdb_id": 1058424,
-      "matched_title": "希望：末日血戰",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7ad5bqevd4TUZphJLi3qyTIj5U6.jpg"
-    },
-    {
       "title": "復仇者聯盟：終局之戰",
       "tmdb_id": 299534,
       "matched_title": "復仇者聯盟：終局之戰",
@@ -699,6 +687,12 @@
       "tmdb_id": 1532968,
       "matched_title": "網紅老爸",
       "poster_url": "https://image.tmdb.org/t/p/w500/p9QLCtwefV6vw3QjtLl9bHrNDF2.jpg"
+    },
+    {
+      "title": "蜘蛛人：重生日",
+      "tmdb_id": 969681,
+      "matched_title": "蜘蛛人：重生日",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2zO573CUiqm4QDuIPycE1d1GUYc.jpg"
     },
     {
       "title": "誤闖遺忘島",
@@ -789,6 +783,12 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/AuScmbIwpqa12bwhorWEdo9LZX.jpg"
     },
     {
+      "title": "夢想出擊",
+      "tmdb_id": 1617484,
+      "matched_title": "夢想出擊",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oxGmijEVPGX7pO99dRg0VGptEIP.jpg"
+    },
+    {
       "title": "奧德賽",
       "tmdb_id": 1368337,
       "matched_title": "奧德賽",
@@ -829,12 +829,6 @@
       "tmdb_id": 1339713,
       "matched_title": "愛你致死不渝",
       "poster_url": "https://image.tmdb.org/t/p/w500/3gKTC3PT2qN6tCE7d3epsXUT9p8.jpg"
-    },
-    {
-      "title": "懺悔",
-      "tmdb_id": 1410587,
-      "matched_title": "懺悔",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fA9JIl0WSsUtE26kd4XK2FOp7IK.jpg"
     },
     {
       "title": "特種快遞",
