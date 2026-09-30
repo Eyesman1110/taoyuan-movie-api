@@ -1,12 +1,6 @@
 {
   "美麗新台茂影城": [
     {
-      "title": "奧德賽",
-      "tmdb_id": 1368337,
-      "matched_title": "奧德賽",
-      "poster_url": "https://image.tmdb.org/t/p/w500/d7MiRRamaAe58DacYEo2ZgziBBv.jpg"
-    },
-    {
       "title": "實境誘捕",
       "tmdb_id": 1375441,
       "matched_title": "實境誘捕",
@@ -399,6 +393,12 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/sbD1r307nLUfJsLAj9H2n5tpLfb.jpg"
     },
     {
+      "title": "Linkin Park: Unshatter",
+      "tmdb_id": 1388805,
+      "matched_title": "LINKIN PARK: UNSHATTER",
+      "poster_url": "https://image.tmdb.org/t/p/w500/o3uTRtrkr56ixAz1hjDClc79H58.jpg"
+    },
+    {
       "title": "Perfume“Cold Sleep”",
       "tmdb_id": 1603232,
       "matched_title": "Perfume \"Cold Sleep\" -25 years Document-",
@@ -499,12 +499,6 @@
       "tmdb_id": 1321412,
       "matched_title": "最後的單車上路",
       "poster_url": "https://image.tmdb.org/t/p/w500/s6wTEDpUCFznBOfoDHCDdD6jYkC.jpg"
-    },
-    {
-      "title": "最終樂章 吹響吧!上低音號 前篇",
-      "tmdb_id": 1449433,
-      "matched_title": "最終樂章 吹響吧！上低音號 前篇",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6MeOQiciVhuoGLpuN6Plyesrz2h.jpg"
     },
     {
       "title": "特種快遞",
@@ -629,12 +623,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/dDvmQrgC8ZTL4W1T96nE13xOCiP.jpg"
     },
     {
-      "title": "希望：末日血戰",
-      "tmdb_id": 1058424,
-      "matched_title": "希望：末日血戰",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7ad5bqevd4TUZphJLi3qyTIj5U6.jpg"
-    },
-    {
       "title": "復仇者聯盟：終局之戰",
       "tmdb_id": 299534,
       "matched_title": "復仇者聯盟：終局之戰",
@@ -695,6 +683,12 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/p9QLCtwefV6vw3QjtLl9bHrNDF2.jpg"
     },
     {
+      "title": "蜘蛛人：重生日",
+      "tmdb_id": 969681,
+      "matched_title": "蜘蛛人：重生日",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2zO573CUiqm4QDuIPycE1d1GUYc.jpg"
+    },
+    {
       "title": "誤闖遺忘島",
       "tmdb_id": 1465063,
       "matched_title": "誤闖遺忘島",
@@ -714,6 +708,12 @@
     }
   ],
   "桃園桃知道威秀影城": [
+    {
+      "title": "劇場版 吉伊卡哇 人魚島的秘密",
+      "tmdb_id": 1586876,
+      "matched_title": "劇場版 吉伊卡哇 人魚島的秘密",
+      "poster_url": "https://image.tmdb.org/t/p/w500/AuScmbIwpqa12bwhorWEdo9LZX.jpg"
+    },
     {
       "title": "劇場版 魔法少女小圓〈瓦爾普吉斯的迴天〉",
       "tmdb_id": 822653,
@@ -771,6 +771,12 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/AuScmbIwpqa12bwhorWEdo9LZX.jpg"
     },
     {
+      "title": "夢想出擊",
+      "tmdb_id": 1617484,
+      "matched_title": "夢想出擊",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oxGmijEVPGX7pO99dRg0VGptEIP.jpg"
+    },
+    {
       "title": "奧德賽",
       "tmdb_id": 1368337,
       "matched_title": "奧德賽",
@@ -811,12 +817,6 @@
       "tmdb_id": 1339713,
       "matched_title": "愛你致死不渝",
       "poster_url": "https://image.tmdb.org/t/p/w500/3gKTC3PT2qN6tCE7d3epsXUT9p8.jpg"
-    },
-    {
-      "title": "懺悔",
-      "tmdb_id": 1410587,
-      "matched_title": "懺悔",
-      "poster_url": "https://image.tmdb.org/t/p/w500/fA9JIl0WSsUtE26kd4XK2FOp7IK.jpg"
     },
     {
       "title": "特種快遞",
