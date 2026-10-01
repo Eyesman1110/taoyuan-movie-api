@@ -9,11 +9,6 @@
     "matched_title": "劇場版 Love Live! 蓮之空女學院學園偶像俱樂部 Bloom Garden Party​​​​",
     "poster_url": "https://image.tmdb.org/t/p/w500/sbD1r307nLUfJsLAj9H2n5tpLfb.jpg"
   },
-  "LOVE ≠ COMEDY": {
-    "tmdb_id": 1701409,
-    "matched_title": "LOVE ≠ COMEDY",
-    "poster_url": "https://image.tmdb.org/t/p/w500/jHbs2rUKr6qOqT2Rt5Q9Kt8F2TK.jpg"
-  },
   "Linkin Park: Unshatter": {
     "tmdb_id": 1388805,
     "matched_title": "LINKIN PARK: UNSHATTER",
@@ -74,6 +69,11 @@
     "matched_title": "復仇者聯盟：終局之戰",
     "poster_url": "https://image.tmdb.org/t/p/w500/fXgoEedB0k5TgaYrBqbY3eZ3DAI.jpg"
   },
+  "復活男": {
+    "tmdb_id": 961214,
+    "matched_title": "復活男",
+    "poster_url": "https://image.tmdb.org/t/p/w500/uq11OaHZRn5WjmZQwlXDPRd91dk.jpg"
+  },
   "怎麼可能我家的祖先是你家的鬼": {
     "tmdb_id": 1193673,
     "matched_title": "怎麼可能我家的祖先是你家的鬼",
@@ -99,10 +99,20 @@
     "matched_title": "有毒：成人童話",
     "poster_url": "https://image.tmdb.org/t/p/w500/tZ8eSBXbza96vzCYeVTG9RBJ78E.jpg"
   },
+  "挖掘者": {
+    "tmdb_id": 1248832,
+    "matched_title": "挖掘者",
+    "poster_url": "https://image.tmdb.org/t/p/w500/oCwmjNr1e9jnkyZwi5LJqS6ulnx.jpg"
+  },
   "最後的單車上路": {
     "tmdb_id": 1321412,
     "matched_title": "最後的單車上路",
     "poster_url": "https://image.tmdb.org/t/p/w500/s6wTEDpUCFznBOfoDHCDdD6jYkC.jpg"
+  },
+  "最終樂章 吹響吧！上低音號 前篇": {
+    "tmdb_id": 1449433,
+    "matched_title": "最終樂章 吹響吧！上低音號 前篇",
+    "poster_url": "https://image.tmdb.org/t/p/w500/6MeOQiciVhuoGLpuN6Plyesrz2h.jpg"
   },
   "特種快遞": {
     "tmdb_id": 1377237,
@@ -124,16 +134,6 @@
     "matched_title": "網紅老爸",
     "poster_url": "https://image.tmdb.org/t/p/w500/p9QLCtwefV6vw3QjtLl9bHrNDF2.jpg"
   },
-  "臥底情劫": {
-    "tmdb_id": 1255718,
-    "matched_title": "臥底情劫",
-    "poster_url": "https://image.tmdb.org/t/p/w500/3kfc5LCE6XtFy0zvCRwQDB7HVf6.jpg"
-  },
-  "航海王4": {
-    "tmdb_id": 44727,
-    "matched_title": "航海王：死亡盡頭大冒險",
-    "poster_url": "https://image.tmdb.org/t/p/w500/xeZHZnEuIiXU2oW0XB0WBYogcMG.jpg"
-  },
   "航海王喬巴身世之謎": {
     "tmdb_id": 44731,
     "matched_title": "航海王：喬巴身世之謎：冬季綻放、奇跡的櫻花",
@@ -153,11 +153,6 @@
     "tmdb_id": 1465063,
     "matched_title": "誤闖遺忘島",
     "poster_url": "https://image.tmdb.org/t/p/w500/7m66kXWc767whPoBl0vTTmvsqa3.jpg"
-  },
-  "變形卡夫卡": {
-    "tmdb_id": 1157322,
-    "matched_title": "變形卡夫卡",
-    "poster_url": "https://image.tmdb.org/t/p/w500/43GEko92RKLiuaE8vbXadNFKb3s.jpg"
   },
   "超異能快感2": {
     "tmdb_id": 1302904,
