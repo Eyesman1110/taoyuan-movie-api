@@ -159,16 +159,16 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/yE1pA1w2zdi1igLjp9YWI8TO2tv.jpg"
     },
     {
+      "title": "獨裁大明星",
+      "tmdb_id": 1220566,
+      "matched_title": "獨裁大明星",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rvuoJWeq3teNtOhU8Vhm00lSs9y.jpg"
+    },
+    {
       "title": "神鬼劫案2：偷天換日",
       "tmdb_id": 1458215,
       "matched_title": "神鬼劫案2：偷天換日",
       "poster_url": "https://image.tmdb.org/t/p/w500/ihuG3xufzRmPiWBKMo0kpU935ZY.jpg"
-    },
-    {
-      "title": "粽邪4",
-      "tmdb_id": 1433568,
-      "matched_title": "粽邪4：坤蒂拉娜",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6u8F23BammMeCWLvWITbFM2Nwbe.jpg"
     },
     {
       "title": "網紅老爸",
@@ -404,6 +404,12 @@
     }
   ],
   "桃園統領威秀影城": [
+    {
+      "title": "ALWAYS LALISA",
+      "tmdb_id": 1489932,
+      "matched_title": "Always Lalisa",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pOZnrUX1UMblLiqq9ZtZUde3cQV.jpg"
+    },
     {
       "title": "LOVE LIVE! 蓮之空女學院學園偶像俱樂部",
       "tmdb_id": 1675042,
@@ -653,6 +659,12 @@
   ],
   "桃園站前in89豪華影城": [
     {
+      "title": "ALWAYS LALISA",
+      "tmdb_id": 1489932,
+      "matched_title": "Always Lalisa",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pOZnrUX1UMblLiqq9ZtZUde3cQV.jpg"
+    },
+    {
       "title": "Perfume“Cold Sleep”",
       "tmdb_id": 1603232,
       "matched_title": "Perfume \"Cold Sleep\" -25 years Document-",
@@ -723,12 +735,6 @@
       "tmdb_id": 1532968,
       "matched_title": "網紅老爸",
       "poster_url": "https://image.tmdb.org/t/p/w500/p9QLCtwefV6vw3QjtLl9bHrNDF2.jpg"
-    },
-    {
-      "title": "蜘蛛人：重生日",
-      "tmdb_id": 969681,
-      "matched_title": "蜘蛛人：重生日",
-      "poster_url": "https://image.tmdb.org/t/p/w500/2ECnnHWCdDOOWVxepZ4KVyZeFso.jpg"
     },
     {
       "title": "誤闖遺忘島",
@@ -831,12 +837,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/6MYR8uHe9bDvHJT7tDscaLAiiF9.jpg"
     },
     {
-      "title": "人吶，為什麼要跑步？",
-      "tmdb_id": 1758564,
-      "matched_title": "人吶，為什麼要跑步？",
-      "poster_url": "https://image.tmdb.org/t/p/w500/qE20aji4cgguHQuXpmoVknjC1uT.jpg"
-    },
-    {
       "title": "劇場版 魔法少女小圓〈瓦爾普吉斯的迴天〉",
       "tmdb_id": 822653,
       "matched_title": "劇場版 魔法少女小圓〈瓦爾普吉斯的迴天〉",
@@ -897,6 +897,12 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/oCwmjNr1e9jnkyZwi5LJqS6ulnx.jpg"
     },
     {
+      "title": "神鬼劫案2：偷天換日",
+      "tmdb_id": 1458215,
+      "matched_title": "神鬼劫案2：偷天換日",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ihuG3xufzRmPiWBKMo0kpU935ZY.jpg"
+    },
+    {
       "title": "網紅老爸",
       "tmdb_id": 1532968,
       "matched_title": "網紅老爸",
@@ -907,12 +913,6 @@
       "tmdb_id": 969681,
       "matched_title": "蜘蛛人：重生日",
       "poster_url": "https://image.tmdb.org/t/p/w500/2ECnnHWCdDOOWVxepZ4KVyZeFso.jpg"
-    },
-    {
-      "title": "誤闖遺忘島",
-      "tmdb_id": 1465063,
-      "matched_title": "誤闖遺忘島",
-      "poster_url": "https://image.tmdb.org/t/p/w500/7m66kXWc767whPoBl0vTTmvsqa3.jpg"
     },
     {
       "title": "野獸之心",
