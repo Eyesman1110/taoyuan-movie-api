@@ -411,6 +411,12 @@
   ],
   "桃園統領威秀影城": [
     {
+      "title": "ALWAYS LALISA",
+      "tmdb_id": 1489932,
+      "matched_title": "Always Lalisa",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pOZnrUX1UMblLiqq9ZtZUde3cQV.jpg"
+    },
+    {
       "title": "LOVE LIVE! 蓮之空女學院學園偶像俱樂部",
       "tmdb_id": 1675042,
       "matched_title": "劇場版 Love Live! 蓮之空女學院學園偶像俱樂部 Bloom Garden Party​​​​",
@@ -463,12 +469,6 @@
       "tmdb_id": 822653,
       "matched_title": "劇場版 魔法少女小圓〈瓦爾普吉斯的迴天〉",
       "poster_url": "https://image.tmdb.org/t/p/w500/x2xLnSgaMN2ODozYBzCdV5mKmyO.jpg"
-    },
-    {
-      "title": "危險關係—Lesley Manville版 (英國國家劇院現場)",
-      "tmdb_id": 1598667,
-      "matched_title": "危險關係—Lesley Manville版(英國國家劇院現場)",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4FEzeNkXF4SZTW9cSXOOw3MdvWo.jpg"
     },
     {
       "title": "反對普丁的無名先生",
@@ -529,6 +529,12 @@
       "tmdb_id": 1339713,
       "matched_title": "愛你致死不渝",
       "poster_url": "https://image.tmdb.org/t/p/w500/vO2eh43E1fXUKXr17KI5jFKJt8A.jpg"
+    },
+    {
+      "title": "懺悔",
+      "tmdb_id": 1410587,
+      "matched_title": "懺悔",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fA9JIl0WSsUtE26kd4XK2FOp7IK.jpg"
     },
     {
       "title": "拾荒法師",
@@ -659,6 +665,12 @@
   ],
   "桃園站前in89豪華影城": [
     {
+      "title": "ALWAYS LALISA",
+      "tmdb_id": 1489932,
+      "matched_title": "Always Lalisa",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pOZnrUX1UMblLiqq9ZtZUde3cQV.jpg"
+    },
+    {
       "title": "Perfume“Cold Sleep”",
       "tmdb_id": 1603232,
       "matched_title": "Perfume \"Cold Sleep\" -25 years Document-",
@@ -781,6 +793,12 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/AuScmbIwpqa12bwhorWEdo9LZX.jpg"
     },
     {
+      "title": "劇場版 魔法少女小圓〈瓦爾普吉斯的迴天〉",
+      "tmdb_id": 822653,
+      "matched_title": "劇場版 魔法少女小圓〈瓦爾普吉斯的迴天〉",
+      "poster_url": "https://image.tmdb.org/t/p/w500/x2xLnSgaMN2ODozYBzCdV5mKmyO.jpg"
+    },
+    {
       "title": "另一個媽咪",
       "tmdb_id": 1400837,
       "matched_title": "另一個媽咪",
@@ -883,6 +901,12 @@
       "tmdb_id": 1248832,
       "matched_title": "挖掘者",
       "poster_url": "https://image.tmdb.org/t/p/w500/oCwmjNr1e9jnkyZwi5LJqS6ulnx.jpg"
+    },
+    {
+      "title": "神鬼劫案2：偷天換日",
+      "tmdb_id": 1458215,
+      "matched_title": "神鬼劫案2：偷天換日",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ihuG3xufzRmPiWBKMo0kpU935ZY.jpg"
     },
     {
       "title": "網紅老爸",
