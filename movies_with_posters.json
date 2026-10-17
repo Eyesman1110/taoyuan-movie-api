@@ -1,4 +1,9 @@
 {
+  "ALWAYS LALISA": {
+    "tmdb_id": 1489932,
+    "matched_title": "Always Lalisa",
+    "poster_url": "https://image.tmdb.org/t/p/w500/pOZnrUX1UMblLiqq9ZtZUde3cQV.jpg"
+  },
   "Linkin Park: Unshatter": {
     "tmdb_id": 1388805,
     "matched_title": "LINKIN PARK: UNSHATTER",
@@ -21,7 +26,7 @@
   },
   "劇場版 BANG DREAM! AVE MUJICA PRIMA AURORA": {
     "tmdb_id": 1614539,
-    "matched_title": "BanG Dream! Ave Mujica prima aurora",
+    "matched_title": "劇場版 「BanG Dream! Ave Mujica prima aurora」",
     "poster_url": "https://image.tmdb.org/t/p/w500/9vubI8KwZIOKye9tOoHVpftPNt3.jpg"
   },
   "劇場版 吉伊卡哇 人魚島的秘密": {
@@ -53,6 +58,11 @@
     "tmdb_id": 1590933,
     "matched_title": "宛如星辰的你",
     "poster_url": "https://image.tmdb.org/t/p/w500/roOo3p5xBdeBYcq3BB8xtvVA7ri.jpg"
+  },
+  "實境誘捕": {
+    "tmdb_id": 1375441,
+    "matched_title": "實境誘捕",
+    "poster_url": "https://image.tmdb.org/t/p/w500/dDvmQrgC8ZTL4W1T96nE13xOCiP.jpg"
   },
   "復仇者聯盟：終局之戰": {
     "tmdb_id": 299534,
@@ -168,6 +178,11 @@
     "tmdb_id": 938150,
     "matched_title": "駭速劫案",
     "poster_url": "https://image.tmdb.org/t/p/w500/dQ39Potjp9A94TlJgqUQVdUX9mI.jpg"
+  },
+  "驀然回首": {
+    "tmdb_id": 1244492,
+    "matched_title": "驀然回首",
+    "poster_url": "https://image.tmdb.org/t/p/w500/8JjlnxNPgmS4U4pA7X9aKFwH3AO.jpg"
   },
   "驚天劫機": {
     "tmdb_id": 1479953,

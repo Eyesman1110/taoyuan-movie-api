@@ -13,12 +13,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/cxxqiGWjYDYc161bE7y1Cuaz3bT.jpg"
     },
     {
-      "title": "奧德賽",
-      "tmdb_id": 1368337,
-      "matched_title": "奧德賽",
-      "poster_url": "https://image.tmdb.org/t/p/w500/d7MiRRamaAe58DacYEo2ZgziBBv.jpg"
-    },
-    {
       "title": "宛如星辰的你",
       "tmdb_id": 1590933,
       "matched_title": "宛如星辰的你",
@@ -105,6 +99,12 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/roOo3p5xBdeBYcq3BB8xtvVA7ri.jpg"
     },
     {
+      "title": "實境誘捕",
+      "tmdb_id": 1375441,
+      "matched_title": "實境誘捕",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dDvmQrgC8ZTL4W1T96nE13xOCiP.jpg"
+    },
+    {
       "title": "復仇者聯盟：終局之戰",
       "tmdb_id": 299534,
       "matched_title": "復仇者聯盟：終局之戰",
@@ -165,16 +165,16 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/trYFD8GsLSyZdgiuoAZy9zbpppw.jpg"
     },
     {
-      "title": "遠離祖靈的孩子",
-      "tmdb_id": 1733440,
-      "matched_title": "遠離祖靈的孩子",
-      "poster_url": "https://image.tmdb.org/t/p/w500/zhAdEIYJNYEyqlJxBQGDod5XoYb.jpg"
-    },
-    {
       "title": "野獸之心",
       "tmdb_id": 1263337,
       "matched_title": "野獸之心",
       "poster_url": "https://image.tmdb.org/t/p/w500/kY3pGqJu62TPDINS2KZ0uQbTkz4.jpg"
+    },
+    {
+      "title": "駭速劫案",
+      "tmdb_id": 938150,
+      "matched_title": "駭速劫案",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dQ39Potjp9A94TlJgqUQVdUX9mI.jpg"
     },
     {
       "title": "驚天劫機",
@@ -337,6 +337,12 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/oCwmjNr1e9jnkyZwi5LJqS6ulnx.jpg"
     },
     {
+      "title": "蜘蛛人：重生日",
+      "tmdb_id": 969681,
+      "matched_title": "蜘蛛人：重生日",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2ECnnHWCdDOOWVxepZ4KVyZeFso.jpg"
+    },
+    {
       "title": "逃出鯨吞",
       "tmdb_id": 1255833,
       "matched_title": "逃出鯨吞",
@@ -368,6 +374,12 @@
     }
   ],
   "桃園統領威秀影城": [
+    {
+      "title": "ALWAYS LALISA",
+      "tmdb_id": 1489932,
+      "matched_title": "Always Lalisa",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pOZnrUX1UMblLiqq9ZtZUde3cQV.jpg"
+    },
     {
       "title": "Linkin Park: Unshatter",
       "tmdb_id": 1388805,
@@ -401,7 +413,7 @@
     {
       "title": "劇場版 BANG DREAM! AVE MUJICA PRIMA AURORA",
       "tmdb_id": 1614539,
-      "matched_title": "BanG Dream! Ave Mujica prima aurora",
+      "matched_title": "劇場版 「BanG Dream! Ave Mujica prima aurora」",
       "poster_url": "https://image.tmdb.org/t/p/w500/9vubI8KwZIOKye9tOoHVpftPNt3.jpg"
     },
     {
@@ -549,12 +561,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/rpWtiPEzeKWjMslwIf4f9ZOfNNL.jpg"
     },
     {
-      "title": "鋼之鍊金術師劇場版",
-      "tmdb_id": 14003,
-      "matched_title": "鋼之鍊金術師：香巴拉的征服者",
-      "poster_url": "https://image.tmdb.org/t/p/w500/cSZzdqyhG0SV7YUJdbQgfyCkBru.jpg"
-    },
-    {
       "title": "青春電幻物語",
       "tmdb_id": 16664,
       "matched_title": "青春電幻物語",
@@ -565,6 +571,12 @@
       "tmdb_id": 938150,
       "matched_title": "駭速劫案",
       "poster_url": "https://image.tmdb.org/t/p/w500/dQ39Potjp9A94TlJgqUQVdUX9mI.jpg"
+    },
+    {
+      "title": "驀然回首",
+      "tmdb_id": 1244492,
+      "matched_title": "驀然回首",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8JjlnxNPgmS4U4pA7X9aKFwH3AO.jpg"
     },
     {
       "title": "驚天劫機",
@@ -592,6 +604,12 @@
     }
   ],
   "桃園站前in89豪華影城": [
+    {
+      "title": "ALWAYS LALISA",
+      "tmdb_id": 1489932,
+      "matched_title": "Always Lalisa",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pOZnrUX1UMblLiqq9ZtZUde3cQV.jpg"
+    },
     {
       "title": "不存在的罪人",
       "tmdb_id": 1283515,
