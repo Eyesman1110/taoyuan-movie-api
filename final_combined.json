@@ -13,6 +13,12 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/cxxqiGWjYDYc161bE7y1Cuaz3bT.jpg"
     },
     {
+      "title": "奧德賽",
+      "tmdb_id": 1368337,
+      "matched_title": "奧德賽",
+      "poster_url": "https://image.tmdb.org/t/p/w500/d7MiRRamaAe58DacYEo2ZgziBBv.jpg"
+    },
+    {
       "title": "宛如星辰的你",
       "tmdb_id": 1590933,
       "matched_title": "宛如星辰的你",
@@ -375,12 +381,6 @@
   ],
   "桃園統領威秀影城": [
     {
-      "title": "ALWAYS LALISA",
-      "tmdb_id": 1489932,
-      "matched_title": "Always Lalisa",
-      "poster_url": "https://image.tmdb.org/t/p/w500/pOZnrUX1UMblLiqq9ZtZUde3cQV.jpg"
-    },
-    {
       "title": "Linkin Park: Unshatter",
       "tmdb_id": 1388805,
       "matched_title": "LINKIN PARK: UNSHATTER",
@@ -561,6 +561,12 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/rpWtiPEzeKWjMslwIf4f9ZOfNNL.jpg"
     },
     {
+      "title": "鋼之鍊金術師劇場版",
+      "tmdb_id": 14003,
+      "matched_title": "鋼之鍊金術師：香巴拉的征服者",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cSZzdqyhG0SV7YUJdbQgfyCkBru.jpg"
+    },
+    {
       "title": "青春電幻物語",
       "tmdb_id": 16664,
       "matched_title": "青春電幻物語",
@@ -604,12 +610,6 @@
     }
   ],
   "桃園站前in89豪華影城": [
-    {
-      "title": "ALWAYS LALISA",
-      "tmdb_id": 1489932,
-      "matched_title": "Always Lalisa",
-      "poster_url": "https://image.tmdb.org/t/p/w500/pOZnrUX1UMblLiqq9ZtZUde3cQV.jpg"
-    },
     {
       "title": "不存在的罪人",
       "tmdb_id": 1283515,
