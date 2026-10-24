@@ -1,8 +1,28 @@
 {
+  "ENHYPEN WORLD TOUR BLOOD SAGA": {
+    "tmdb_id": 1785968,
+    "matched_title": "엔하이픈 월드 투어 ‘블러드 사가’",
+    "poster_url": "https://image.tmdb.org/t/p/w500/tmuxPlk22Gv0d81ilzKLvLzKQvi.jpg"
+  },
+  "HYBE CHEERING PARTY": {
+    "tmdb_id": 1797226,
+    "matched_title": "하이브 치어링 파티",
+    "poster_url": "https://image.tmdb.org/t/p/w500/8udWFUoL5NxqKR1xtYinhcxY3gn.jpg"
+  },
   "Jim Queen：肌情四射": {
     "tmdb_id": 1061798,
     "matched_title": "Jim Queen：肌情四射",
     "poster_url": "https://image.tmdb.org/t/p/w500/ue2Orwc7nNYFixoOLBHpse2H1uX.jpg"
+  },
+  "SEVENTEEN WORLD TOUR NEW": {
+    "tmdb_id": 1662735,
+    "matched_title": "SEVENTEEN WORLD TOUR [NEW_] ENCORE",
+    "poster_url": "https://image.tmdb.org/t/p/w500/aourQLTQ57XHpElS299J0X6TETb.jpg"
+  },
+  "TOMORROW X TOGETHER WORLD TOUR ACT TOMOR": {
+    "tmdb_id": 1105873,
+    "matched_title": "TOMORROW X TOGETHER WORLD TOUR  ‘ACT : SWEET MIRAGE’",
+    "poster_url": "https://image.tmdb.org/t/p/w500/e01GV3NYHRXKsqiTnJ3VAacNPbi.jpg"
   },
   "YORUSHIKA LIVE 「盜作」": {
     "tmdb_id": 1740268,
@@ -173,11 +193,6 @@
     "tmdb_id": 1122573,
     "matched_title": "金劫任務",
     "poster_url": "https://image.tmdb.org/t/p/w500/rpWtiPEzeKWjMslwIf4f9ZOfNNL.jpg"
-  },
-  "青春電幻物語": {
-    "tmdb_id": 16664,
-    "matched_title": "青春電幻物語",
-    "poster_url": "https://image.tmdb.org/t/p/w500/1sDlfRHu4DaGaV54WAs90Ki8etL.jpg"
   },
   "駭速劫案": {
     "tmdb_id": 938150,
