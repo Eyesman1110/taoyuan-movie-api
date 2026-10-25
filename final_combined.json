@@ -19,16 +19,16 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/cxxqiGWjYDYc161bE7y1Cuaz3bT.jpg"
     },
     {
-      "title": "奧德賽",
-      "tmdb_id": 1368337,
-      "matched_title": "奧德賽",
-      "poster_url": "https://image.tmdb.org/t/p/w500/d7MiRRamaAe58DacYEo2ZgziBBv.jpg"
-    },
-    {
       "title": "宛如星辰的你",
       "tmdb_id": 1590933,
       "matched_title": "宛如星辰的你",
       "poster_url": "https://image.tmdb.org/t/p/w500/roOo3p5xBdeBYcq3BB8xtvVA7ri.jpg"
+    },
+    {
+      "title": "復仇者聯盟：終局之戰",
+      "tmdb_id": 299534,
+      "matched_title": "復仇者聯盟：終局之戰",
+      "poster_url": "https://image.tmdb.org/t/p/w500/fXgoEedB0k5TgaYrBqbY3eZ3DAI.jpg"
     },
     {
       "title": "快打旋風",
@@ -429,12 +429,6 @@
   ],
   "桃園統領威秀影城": [
     {
-      "title": "ENHYPEN WORLD TOUR BLOOD SAGA",
-      "tmdb_id": 1785968,
-      "matched_title": "엔하이픈 월드 투어 ‘블러드 사가’",
-      "poster_url": "https://image.tmdb.org/t/p/w500/tmuxPlk22Gv0d81ilzKLvLzKQvi.jpg"
-    },
-    {
       "title": "HYBE CHEERING PARTY",
       "tmdb_id": 1797226,
       "matched_title": "하이브 치어링 파티",
@@ -445,18 +439,6 @@
       "tmdb_id": 1061798,
       "matched_title": "Jim Queen：肌情四射",
       "poster_url": "https://image.tmdb.org/t/p/w500/ue2Orwc7nNYFixoOLBHpse2H1uX.jpg"
-    },
-    {
-      "title": "SEVENTEEN WORLD TOUR NEW",
-      "tmdb_id": 1662735,
-      "matched_title": "SEVENTEEN WORLD TOUR [NEW_] ENCORE",
-      "poster_url": "https://image.tmdb.org/t/p/w500/aourQLTQ57XHpElS299J0X6TETb.jpg"
-    },
-    {
-      "title": "TOMORROW X TOGETHER WORLD TOUR ACT TOMOR",
-      "tmdb_id": 1105873,
-      "matched_title": "TOMORROW X TOGETHER WORLD TOUR  ‘ACT : SWEET MIRAGE’",
-      "poster_url": "https://image.tmdb.org/t/p/w500/e01GV3NYHRXKsqiTnJ3VAacNPbi.jpg"
     },
     {
       "title": "YORUSHIKA LIVE 「盜作」",
@@ -561,12 +543,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/tMxGaWbBMeFwQiG6G5vHtkoLtWj.jpg"
     },
     {
-      "title": "沙央",
-      "tmdb_id": 1492861,
-      "matched_title": "沙央",
-      "poster_url": "https://image.tmdb.org/t/p/w500/wyBscirwboFVU3wxC1amA9tun6d.jpg"
-    },
-    {
       "title": "泥面人",
       "tmdb_id": 1400940,
       "matched_title": "泥面人",
@@ -663,10 +639,10 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/uDanLo3ZYuM3CduCCRwyL9E554p.jpg"
     },
     {
-      "title": "金劫任務",
-      "tmdb_id": 1122573,
-      "matched_title": "金劫任務",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rpWtiPEzeKWjMslwIf4f9ZOfNNL.jpg"
+      "title": "青春電幻物語",
+      "tmdb_id": 16664,
+      "matched_title": "青春電幻物語",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1sDlfRHu4DaGaV54WAs90Ki8etL.jpg"
     },
     {
       "title": "驀然回首",
@@ -985,12 +961,6 @@
       "tmdb_id": 1263337,
       "matched_title": "野獸之心",
       "poster_url": "https://image.tmdb.org/t/p/w500/kY3pGqJu62TPDINS2KZ0uQbTkz4.jpg"
-    },
-    {
-      "title": "金劫任務",
-      "tmdb_id": 1122573,
-      "matched_title": "金劫任務",
-      "poster_url": "https://image.tmdb.org/t/p/w500/rpWtiPEzeKWjMslwIf4f9ZOfNNL.jpg"
     },
     {
       "title": "高年級實習生",
