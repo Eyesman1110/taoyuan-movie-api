@@ -129,6 +129,11 @@
     "matched_title": "浪花男女",
     "poster_url": "https://image.tmdb.org/t/p/w500/akrqnJuL9ZjfTZrI3pnnLTKt6Gl.jpg"
   },
+  "消失的金鳳娜": {
+    "tmdb_id": 1481451,
+    "matched_title": "消失的金鳳娜",
+    "poster_url": "https://image.tmdb.org/t/p/w500/yiT8kjxJsmE8nFY7DEmNUxcJ4bF.jpg"
+  },
   "煙囪小鎮的普佩2：約定的鐘樓": {
     "tmdb_id": 1464639,
     "matched_title": "煙囪小鎮的普佩2：約定的鐘樓",
@@ -188,11 +193,6 @@
     "tmdb_id": 1733564,
     "matched_title": "金三角 孤軍淚",
     "poster_url": "https://image.tmdb.org/t/p/w500/uDanLo3ZYuM3CduCCRwyL9E554p.jpg"
-  },
-  "金劫任務": {
-    "tmdb_id": 1122573,
-    "matched_title": "金劫任務",
-    "poster_url": "https://image.tmdb.org/t/p/w500/rpWtiPEzeKWjMslwIf4f9ZOfNNL.jpg"
   },
   "駭速劫案": {
     "tmdb_id": 938150,
