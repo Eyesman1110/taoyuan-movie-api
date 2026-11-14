@@ -397,12 +397,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/8usc07pZAmJcRQyZ4Ip2nPNVlO8.jpg"
     },
     {
-      "title": "野獸之心",
-      "tmdb_id": 1263337,
-      "matched_title": "野獸之心",
-      "poster_url": "https://image.tmdb.org/t/p/w500/kY3pGqJu62TPDINS2KZ0uQbTkz4.jpg"
-    },
-    {
       "title": "鬼聲泣0",
       "tmdb_id": 1556321,
       "matched_title": "鬼聲泣0",
@@ -453,18 +447,6 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/9vubI8KwZIOKye9tOoHVpftPNt3.jpg"
     },
     {
-      "title": "劇場版 吉伊卡哇 人魚島的秘密",
-      "tmdb_id": 1586876,
-      "matched_title": "劇場版 吉伊卡哇 人魚島的秘密",
-      "poster_url": "https://image.tmdb.org/t/p/w500/AuScmbIwpqa12bwhorWEdo9LZX.jpg"
-    },
-    {
-      "title": "加速世界 劇場版 INFINITE BURST",
-      "tmdb_id": 381873,
-      "matched_title": "加速世界 INFINITE BURST",
-      "poster_url": "https://image.tmdb.org/t/p/w500/f3tzZSkoHmVDieFtS04i3u5q6XH.jpg"
-    },
-    {
       "title": "即刻狂飆",
       "tmdb_id": 1294189,
       "matched_title": "即刻狂飆",
@@ -501,28 +483,22 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/smf7tL7UcRPfFSeFTbvii9sgNlp.jpg"
     },
     {
-      "title": "奧德賽",
-      "tmdb_id": 1368337,
-      "matched_title": "奧德賽",
-      "poster_url": "https://image.tmdb.org/t/p/w500/d7MiRRamaAe58DacYEo2ZgziBBv.jpg"
-    },
-    {
       "title": "宛如星辰的你",
       "tmdb_id": 1590933,
       "matched_title": "宛如星辰的你",
       "poster_url": "https://image.tmdb.org/t/p/w500/roOo3p5xBdeBYcq3BB8xtvVA7ri.jpg"
     },
     {
-      "title": "快打旋風",
-      "tmdb_id": 1153576,
-      "matched_title": "快打旋風",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6DTLKFQFldVHzcoGqxDxWPgKcsy.jpg"
-    },
-    {
       "title": "惡靈古堡：爆發夜",
       "tmdb_id": 1423191,
       "matched_title": "惡靈古堡：爆發夜",
       "poster_url": "https://image.tmdb.org/t/p/w500/lVXZnG5oCJNsQlThZUgUg7EJPHU.jpg"
+    },
+    {
+      "title": "愛你致死不渝",
+      "tmdb_id": 1339713,
+      "matched_title": "愛你致死不渝",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vO2eh43E1fXUKXr17KI5jFKJt8A.jpg"
     },
     {
       "title": "我們，巴黎管弦樂團",
@@ -583,6 +559,12 @@
       "tmdb_id": 1481451,
       "matched_title": "消失的金鳳娜",
       "poster_url": "https://image.tmdb.org/t/p/w500/yiT8kjxJsmE8nFY7DEmNUxcJ4bF.jpg"
+    },
+    {
+      "title": "老千：惡魔之歌",
+      "tmdb_id": 1394740,
+      "matched_title": "老千：惡魔之歌",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6mbsPK06GzY2KkRzkGImRRbu0Mv.jpg"
     },
     {
       "title": "聖誕驚奇夜",
@@ -654,7 +636,7 @@
       "title": "魔法科高中的劣等生 四葉繼承篇",
       "tmdb_id": 1310387,
       "matched_title": "魔法科高中的劣等生 四葉繼承篇",
-      "poster_url": "https://image.tmdb.org/t/p/w500/4EeIYCgcbbnJcPmeJ8I64fUEvOn.jpg"
+      "poster_url": "https://image.tmdb.org/t/p/w500/gQOebdabicgw4NsAtjGIS92ahE9.jpg"
     },
     {
       "title": "黑潮",
@@ -913,12 +895,6 @@
       "tmdb_id": 1632015,
       "matched_title": "致遙不可及彼方的你",
       "poster_url": "https://image.tmdb.org/t/p/w500/AqIciojGZ8Bv2NFecL3eM2dX4xJ.jpg"
-    },
-    {
-      "title": "讓子彈飛",
-      "tmdb_id": 51533,
-      "matched_title": "讓子彈飛",
-      "poster_url": "https://image.tmdb.org/t/p/w500/8usc07pZAmJcRQyZ4Ip2nPNVlO8.jpg"
     },
     {
       "title": "鬼聲泣0",

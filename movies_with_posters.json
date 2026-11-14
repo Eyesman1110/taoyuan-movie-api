@@ -44,16 +44,6 @@
     "matched_title": "劇場版 「BanG Dream! Ave Mujica prima aurora」",
     "poster_url": "https://image.tmdb.org/t/p/w500/9vubI8KwZIOKye9tOoHVpftPNt3.jpg"
   },
-  "劇場版 吉伊卡哇 人魚島的秘密": {
-    "tmdb_id": 1586876,
-    "matched_title": "劇場版 吉伊卡哇 人魚島的秘密",
-    "poster_url": "https://image.tmdb.org/t/p/w500/AuScmbIwpqa12bwhorWEdo9LZX.jpg"
-  },
-  "加速世界 劇場版 INFINITE BURST": {
-    "tmdb_id": 381873,
-    "matched_title": "加速世界 INFINITE BURST",
-    "poster_url": "https://image.tmdb.org/t/p/w500/f3tzZSkoHmVDieFtS04i3u5q6XH.jpg"
-  },
   "即刻狂飆": {
     "tmdb_id": 1294189,
     "matched_title": "即刻狂飆",
@@ -84,11 +74,6 @@
     "matched_title": "哥吉拉-0.0",
     "poster_url": "https://image.tmdb.org/t/p/w500/smf7tL7UcRPfFSeFTbvii9sgNlp.jpg"
   },
-  "奧德賽": {
-    "tmdb_id": 1368337,
-    "matched_title": "奧德賽",
-    "poster_url": "https://image.tmdb.org/t/p/w500/d7MiRRamaAe58DacYEo2ZgziBBv.jpg"
-  },
   "宛如星辰的你": {
     "tmdb_id": 1590933,
     "matched_title": "宛如星辰的你",
@@ -103,6 +88,11 @@
     "tmdb_id": 1423191,
     "matched_title": "惡靈古堡：爆發夜",
     "poster_url": "https://image.tmdb.org/t/p/w500/lVXZnG5oCJNsQlThZUgUg7EJPHU.jpg"
+  },
+  "愛你致死不渝": {
+    "tmdb_id": 1339713,
+    "matched_title": "愛你致死不渝",
+    "poster_url": "https://image.tmdb.org/t/p/w500/vO2eh43E1fXUKXr17KI5jFKJt8A.jpg"
   },
   "我們，巴黎管弦樂團": {
     "tmdb_id": 1459622,
@@ -204,11 +194,6 @@
     "matched_title": "追蹤者遊戲W 水魚交融",
     "poster_url": "https://image.tmdb.org/t/p/w500/5uR0hchlROg7eWvhAJK8pdDEwG4.jpg"
   },
-  "野獸之心": {
-    "tmdb_id": 1263337,
-    "matched_title": "野獸之心",
-    "poster_url": "https://image.tmdb.org/t/p/w500/kY3pGqJu62TPDINS2KZ0uQbTkz4.jpg"
-  },
   "金三角孤軍淚": {
     "tmdb_id": 1733564,
     "matched_title": "金三角 孤軍淚",
@@ -242,7 +227,7 @@
   "魔法科高中的劣等生 四葉繼承篇": {
     "tmdb_id": 1310387,
     "matched_title": "魔法科高中的劣等生 四葉繼承篇",
-    "poster_url": "https://image.tmdb.org/t/p/w500/4EeIYCgcbbnJcPmeJ8I64fUEvOn.jpg"
+    "poster_url": "https://image.tmdb.org/t/p/w500/gQOebdabicgw4NsAtjGIS92ahE9.jpg"
   },
   "黑潮": {
     "tmdb_id": 1630206,
