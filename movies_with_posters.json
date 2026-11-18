@@ -44,16 +44,6 @@
     "matched_title": "劇場版 「BanG Dream! Ave Mujica prima aurora」",
     "poster_url": "https://image.tmdb.org/t/p/w500/9vubI8KwZIOKye9tOoHVpftPNt3.jpg"
   },
-  "劇場版 吉伊卡哇 人魚島的秘密": {
-    "tmdb_id": 1586876,
-    "matched_title": "劇場版 吉伊卡哇 人魚島的秘密",
-    "poster_url": "https://image.tmdb.org/t/p/w500/AuScmbIwpqa12bwhorWEdo9LZX.jpg"
-  },
-  "加速世界 劇場版 INFINITE BURST": {
-    "tmdb_id": 381873,
-    "matched_title": "加速世界 INFINITE BURST",
-    "poster_url": "https://image.tmdb.org/t/p/w500/f3tzZSkoHmVDieFtS04i3u5q6XH.jpg"
-  },
   "即刻狂飆": {
     "tmdb_id": 1294189,
     "matched_title": "即刻狂飆",
@@ -83,11 +73,6 @@
     "tmdb_id": 1381071,
     "matched_title": "哥吉拉-0.0",
     "poster_url": "https://image.tmdb.org/t/p/w500/smf7tL7UcRPfFSeFTbvii9sgNlp.jpg"
-  },
-  "奧德賽": {
-    "tmdb_id": 1368337,
-    "matched_title": "奧德賽",
-    "poster_url": "https://image.tmdb.org/t/p/w500/d7MiRRamaAe58DacYEo2ZgziBBv.jpg"
   },
   "宛如星辰的你": {
     "tmdb_id": 1590933,
@@ -183,6 +168,11 @@
     "tmdb_id": 1340449,
     "matched_title": "與達賴喇嘛談心：尋找幸福的智慧",
     "poster_url": "https://image.tmdb.org/t/p/w500/qigUDdP23FhLmMVKcy3TTdwFqQu.jpg"
+  },
+  "蕭邦！蕭邦！": {
+    "tmdb_id": 1299799,
+    "matched_title": "蕭邦！蕭邦！",
+    "poster_url": "https://image.tmdb.org/t/p/w500/n7hXlfOT1bJa3USzGFICRq9nTgb.jpg"
   },
   "讓子彈飛": {
     "tmdb_id": 51533,
