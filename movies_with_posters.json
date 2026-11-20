@@ -1,18 +1,8 @@
 {
-  "CVF2026貓貓影片節": {
-    "tmdb_id": 1711224,
-    "matched_title": "CVF2026貓貓影片節",
-    "poster_url": "https://image.tmdb.org/t/p/w500/wXgqFo84RwEt6cRIe24BCjBPqPS.jpg"
-  },
   "Jim Queen：肌情四射": {
     "tmdb_id": 1061798,
     "matched_title": "Jim Queen：肌情四射",
     "poster_url": "https://image.tmdb.org/t/p/w500/ue2Orwc7nNYFixoOLBHpse2H1uX.jpg"
-  },
-  "UFO離奇命案": {
-    "tmdb_id": 1573705,
-    "matched_title": "UFO離奇命案",
-    "poster_url": "https://image.tmdb.org/t/p/w500/lMwNyDJDh0NEpoA8EWATi1XCQ5N.jpg"
   },
   "三個傻瓜": {
     "tmdb_id": 20453,
@@ -24,30 +14,20 @@
     "matched_title": "世紀初戀 楊麗花",
     "poster_url": "https://image.tmdb.org/t/p/w500/eHBuJabBKF8mgHBRoVFSKmkBPVv.jpg"
   },
-  "來自深淵 深沉靈魂的黎明": {
-    "tmdb_id": 573730,
-    "matched_title": "來自深淵  劇場版 深沉靈魂的黎明",
-    "poster_url": "https://image.tmdb.org/t/p/w500/lMJW2iJXvr73eF2NNHhUnaBg360.jpg"
+  "偵戰": {
+    "tmdb_id": 1387772,
+    "matched_title": "偵戰",
+    "poster_url": "https://image.tmdb.org/t/p/w500/tACMPDP7EHX1F3NdfKbZkkHoNZS.jpg"
   },
   "六個說謊的大學生": {
     "tmdb_id": 1545057,
     "matched_title": "六個說謊的大學生",
     "poster_url": "https://image.tmdb.org/t/p/w500/rrXav7xlmgOmKmAEy6VY5tWs0AA.jpg"
   },
-  "出賣影子的女人": {
-    "tmdb_id": 1797620,
-    "matched_title": "出賣影子的女人",
-    "poster_url": "https://image.tmdb.org/t/p/w500/d93SXuPhvd4LOLOufFddcsD9wep.jpg"
-  },
   "劇場版 BANG DREAM! AVE MUJICA PRIMA AURORA": {
     "tmdb_id": 1614539,
     "matched_title": "劇場版 「BanG Dream! Ave Mujica prima aurora」",
     "poster_url": "https://image.tmdb.org/t/p/w500/9vubI8KwZIOKye9tOoHVpftPNt3.jpg"
-  },
-  "加速世界 劇場版 INFINITE BURST": {
-    "tmdb_id": 381873,
-    "matched_title": "加速世界 INFINITE BURST",
-    "poster_url": "https://image.tmdb.org/t/p/w500/f3tzZSkoHmVDieFtS04i3u5q6XH.jpg"
   },
   "即刻狂飆": {
     "tmdb_id": 1294189,
@@ -79,15 +59,20 @@
     "matched_title": "哥吉拉-0.0",
     "poster_url": "https://image.tmdb.org/t/p/w500/smf7tL7UcRPfFSeFTbvii9sgNlp.jpg"
   },
-  "奧德賽": {
-    "tmdb_id": 1368337,
-    "matched_title": "奧德賽",
-    "poster_url": "https://image.tmdb.org/t/p/w500/d7MiRRamaAe58DacYEo2ZgziBBv.jpg"
+  "善男信女": {
+    "tmdb_id": 1736318,
+    "matched_title": "善男信女",
+    "poster_url": "https://image.tmdb.org/t/p/w500/vrgAemQS4UjwbyJW49UXgR0NecS.jpg"
   },
   "宛如星辰的你": {
     "tmdb_id": 1590933,
     "matched_title": "宛如星辰的你",
     "poster_url": "https://image.tmdb.org/t/p/w500/roOo3p5xBdeBYcq3BB8xtvVA7ri.jpg"
+  },
+  "巴霍巴利王：王者再臨": {
+    "tmdb_id": 1511417,
+    "matched_title": "巴霍巴利王：王者再臨",
+    "poster_url": "https://image.tmdb.org/t/p/w500/c4xef9HaZs9nrF0NwNssIODoKX.jpg"
   },
   "快打旋風": {
     "tmdb_id": 1153576,
@@ -103,16 +88,6 @@
     "tmdb_id": 1339713,
     "matched_title": "愛你致死不渝",
     "poster_url": "https://image.tmdb.org/t/p/w500/vO2eh43E1fXUKXr17KI5jFKJt8A.jpg"
-  },
-  "我們，巴黎管弦樂團": {
-    "tmdb_id": 1459622,
-    "matched_title": "我們，巴黎管弦樂團",
-    "poster_url": "https://image.tmdb.org/t/p/w500/3jxfGH73fGoJcJ9G3IiBTI7vYrw.jpg"
-  },
-  "我要當總統": {
-    "tmdb_id": 1779644,
-    "matched_title": "我要當總統",
-    "poster_url": "https://image.tmdb.org/t/p/w500/au0PYWVJsW9eowLDiwiy2Gp6rkN.jpg"
   },
   "搶銀行先修班": {
     "tmdb_id": 1437511,
@@ -130,19 +105,19 @@
     "poster_url": "https://image.tmdb.org/t/p/w500/f2AHd0mWJrLLwc6elLcSNVbsy8f.jpg"
   },
   "樂園追放": {
-    "tmdb_id": 304023,
-    "matched_title": "樂園追放 -Expelled from Paradise-",
-    "poster_url": "https://image.tmdb.org/t/p/w500/iKgMqRSZ9kxsZ5D9WgtMdi5gAx6.jpg"
+    "tmdb_id": 1236857,
+    "matched_title": "樂園追放：心之共鳴",
+    "poster_url": "https://image.tmdb.org/t/p/w500/cp9XcvYQgwFPQgfDi3Yjjq2I3dI.jpg"
+  },
+  "樂園追放 心之共鳴": {
+    "tmdb_id": 1236857,
+    "matched_title": "樂園追放：心之共鳴",
+    "poster_url": "https://image.tmdb.org/t/p/w500/cp9XcvYQgwFPQgfDi3Yjjq2I3dI.jpg"
   },
   "歡迎來到朵莉之家": {
     "tmdb_id": 1473553,
     "matched_title": "歡迎來到朵莉之家",
     "poster_url": "https://image.tmdb.org/t/p/w500/bh7u42Po7j9pvvCNsEKDn9c5mC8.jpg"
-  },
-  "沙丘": {
-    "tmdb_id": 438631,
-    "matched_title": "沙丘",
-    "poster_url": "https://image.tmdb.org/t/p/w500/qtSzr3bY8wP3lUDfTx2Qg5y5Qri.jpg"
   },
   "沙丘：第二部": {
     "tmdb_id": 693134,
@@ -159,15 +134,25 @@
     "matched_title": "消失的金鳳娜",
     "poster_url": "https://image.tmdb.org/t/p/w500/yiT8kjxJsmE8nFY7DEmNUxcJ4bF.jpg"
   },
-  "煙囪小鎮的普佩2：約定的鐘樓": {
-    "tmdb_id": 1464639,
-    "matched_title": "煙囪小鎮的普佩2：約定的鐘樓",
-    "poster_url": "https://image.tmdb.org/t/p/w500/qp8dr65wCMZuZF7wO6DE49TooOL.jpg"
+  "皎潔深宵之月": {
+    "tmdb_id": 1410955,
+    "matched_title": "皎潔深宵之月",
+    "poster_url": "https://image.tmdb.org/t/p/w500/vpZv6mKYIJj2KO9sODQOLtHrUls.jpg"
   },
-  "老千：惡魔之歌": {
-    "tmdb_id": 1394740,
-    "matched_title": "老千：惡魔之歌",
-    "poster_url": "https://image.tmdb.org/t/p/w500/6mbsPK06GzY2KkRzkGImRRbu0Mv.jpg"
+  "第四幕": {
+    "tmdb_id": 1569664,
+    "matched_title": "第四幕",
+    "poster_url": "https://image.tmdb.org/t/p/w500/jqANwuyiYisecvQmMgZyOOxAfqO.jpg"
+  },
+  "純愛上等！": {
+    "tmdb_id": 1467982,
+    "matched_title": "純愛上等！",
+    "poster_url": "https://image.tmdb.org/t/p/w500/4WZ2Ls3cvx0IM6FuTfv7PHWrPLy.jpg"
+  },
+  "紙老虎": {
+    "tmdb_id": 1381273,
+    "matched_title": "紙老虎",
+    "poster_url": "https://image.tmdb.org/t/p/w500/3GL5W81tNOv3hhYHhvqRLgaymrr.jpg"
   },
   "聖誕驚奇夜": {
     "tmdb_id": 1567605,
@@ -199,30 +184,20 @@
     "matched_title": "跟我一起玩吧？",
     "poster_url": "https://image.tmdb.org/t/p/w500/epdqClnFAuFw9bklW7QUU8RroKk.jpg"
   },
-  "追蹤者遊戲W 水魚交融": {
-    "tmdb_id": 1663504,
-    "matched_title": "追蹤者遊戲W 水魚交融",
-    "poster_url": "https://image.tmdb.org/t/p/w500/5uR0hchlROg7eWvhAJK8pdDEwG4.jpg"
-  },
-  "金三角孤軍淚": {
-    "tmdb_id": 1733564,
-    "matched_title": "金三角 孤軍淚",
-    "poster_url": "https://image.tmdb.org/t/p/w500/uDanLo3ZYuM3CduCCRwyL9E554p.jpg"
-  },
-  "雞智逃亡生活": {
-    "tmdb_id": 1382513,
-    "matched_title": "雞智逃亡生活",
-    "poster_url": "https://image.tmdb.org/t/p/w500/y7dyoH3dbSfPUMU675T5blwhU3v.jpg"
+  "重返巔峰北壁": {
+    "tmdb_id": 1754766,
+    "matched_title": "重返巔峰北壁",
+    "poster_url": "https://image.tmdb.org/t/p/w500/vsGqejvE9PJNd97rVk5AfyD981Z.jpg"
   },
   "青春豬頭少年不會夢到親愛好朋友": {
     "tmdb_id": 1553200,
     "matched_title": "青春豬頭少年不會夢到親愛好朋友",
     "poster_url": "https://image.tmdb.org/t/p/w500/57r3NnX7c4f9XJ5Fhth7VwhjDw4.jpg"
   },
-  "高校人形金字塔": {
-    "tmdb_id": 1494715,
-    "matched_title": "高校人形金字塔",
-    "poster_url": "https://image.tmdb.org/t/p/w500/v4m63Ymj3didisk3OthFosIzXh7.jpg"
+  "飢餓遊戲：黎明收割": {
+    "tmdb_id": 1300968,
+    "matched_title": "飢餓遊戲：黎明收割",
+    "poster_url": "https://image.tmdb.org/t/p/w500/bRNvk4ed1OBGXLYwIslyujjvhQy.jpg"
   },
   "鬼聲泣0": {
     "tmdb_id": 1556321,
@@ -243,5 +218,10 @@
     "tmdb_id": 1630206,
     "matched_title": "黑潮",
     "poster_url": "https://image.tmdb.org/t/p/w500/nPFU7Eqpgbirw7UYzQxSNziiETf.jpg"
+  },
+  "黑球": {
+    "tmdb_id": 1422041,
+    "matched_title": "黑球",
+    "poster_url": "https://image.tmdb.org/t/p/w500/lIGNfPlpkLyhMTLh9hxv9Y7xKsc.jpg"
   }
 }
