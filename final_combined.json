@@ -357,22 +357,16 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/eHBuJabBKF8mgHBRoVFSKmkBPVv.jpg"
     },
     {
-      "title": "劇場版 BANG DREAM! AVE MUJICA PRIMA AURORA",
-      "tmdb_id": 1614539,
-      "matched_title": "劇場版 「BanG Dream! Ave Mujica prima aurora」",
-      "poster_url": "https://image.tmdb.org/t/p/w500/9vubI8KwZIOKye9tOoHVpftPNt3.jpg"
+      "title": "六個說謊的大學生",
+      "tmdb_id": 1545057,
+      "matched_title": "六個說謊的大學生",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rrXav7xlmgOmKmAEy6VY5tWs0AA.jpg"
     },
     {
       "title": "劇場版 來自深淵：覺醒的神祕",
       "tmdb_id": null,
       "matched_title": null,
       "poster_url": null
-    },
-    {
-      "title": "同級生",
-      "tmdb_id": 372754,
-      "matched_title": "同級生 劇場版",
-      "poster_url": "https://image.tmdb.org/t/p/w500/6zOGgbSQNtsyyZXkBRVk2zMjQYY.jpg"
     },
     {
       "title": "名偵探柯南 第30號殺人事件",
@@ -393,6 +387,12 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/smf7tL7UcRPfFSeFTbvii9sgNlp.jpg"
     },
     {
+      "title": "善男信女",
+      "tmdb_id": 1736318,
+      "matched_title": "善男信女",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vrgAemQS4UjwbyJW49UXgR0NecS.jpg"
+    },
+    {
       "title": "大搜查線N.E.W.",
       "tmdb_id": 1491083,
       "matched_title": "大搜查線N.E.W.",
@@ -409,6 +409,12 @@
       "tmdb_id": 1290418,
       "matched_title": "屍蹤拼圖",
       "poster_url": "https://image.tmdb.org/t/p/w500/pmlGJnCqFDdUnixgsIsol1gbBgu.jpg"
+    },
+    {
+      "title": "巴霍巴利王：王者再臨",
+      "tmdb_id": 1511417,
+      "matched_title": "巴霍巴利王：王者再臨",
+      "poster_url": "https://image.tmdb.org/t/p/w500/c4xef9HaZs9nrF0NwNssIODoKX.jpg"
     },
     {
       "title": "庫洛魔法使 劇場版：被封印的卡片",
@@ -445,12 +451,6 @@
       "tmdb_id": 1383091,
       "matched_title": "有用的人",
       "poster_url": "https://image.tmdb.org/t/p/w500/f2AHd0mWJrLLwc6elLcSNVbsy8f.jpg"
-    },
-    {
-      "title": "樂園追放",
-      "tmdb_id": 304023,
-      "matched_title": "樂園追放 -Expelled from Paradise-",
-      "poster_url": "https://image.tmdb.org/t/p/w500/iKgMqRSZ9kxsZ5D9WgtMdi5gAx6.jpg"
     },
     {
       "title": "樂園追放 心之共鳴",
@@ -501,22 +501,10 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/5SDMrRcNJdIbHkYk1gmuSHPx2ME.jpg"
     },
     {
-      "title": "第四幕",
-      "tmdb_id": 1569664,
-      "matched_title": "第四幕",
-      "poster_url": "https://image.tmdb.org/t/p/w500/jqANwuyiYisecvQmMgZyOOxAfqO.jpg"
-    },
-    {
       "title": "純愛上等！",
       "tmdb_id": 1467982,
       "matched_title": "純愛上等！",
       "poster_url": "https://image.tmdb.org/t/p/w500/4WZ2Ls3cvx0IM6FuTfv7PHWrPLy.jpg"
-    },
-    {
-      "title": "紙老虎",
-      "tmdb_id": 1381273,
-      "matched_title": "紙老虎",
-      "poster_url": "https://image.tmdb.org/t/p/w500/3GL5W81tNOv3hhYHhvqRLgaymrr.jpg"
     },
     {
       "title": "綻放的巴黎之星",
@@ -585,6 +573,12 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/bRNvk4ed1OBGXLYwIslyujjvhQy.jpg"
     },
     {
+      "title": "鬼聲泣0",
+      "tmdb_id": 1556321,
+      "matched_title": "鬼聲泣0",
+      "poster_url": "https://image.tmdb.org/t/p/w500/rZ6C1U1NTDDT0ZMUJ0wwEO2RFRs.jpg"
+    },
+    {
       "title": "魔法科高中的劣等生 四葉繼承篇",
       "tmdb_id": 1310387,
       "matched_title": "魔法科高中的劣等生 四葉繼承篇",
@@ -595,6 +589,12 @@
       "tmdb_id": 1139252,
       "matched_title": "麥可傑克森：流行樂之王",
       "poster_url": "https://image.tmdb.org/t/p/w500/dKAGgM8D9H2HP78bVnVyRQQgBjG.jpg"
+    },
+    {
+      "title": "黑潮",
+      "tmdb_id": 1630206,
+      "matched_title": "黑潮",
+      "poster_url": "https://image.tmdb.org/t/p/w500/nPFU7Eqpgbirw7UYzQxSNziiETf.jpg"
     },
     {
       "title": "黑球",
